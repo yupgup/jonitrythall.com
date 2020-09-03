@@ -124,7 +124,7 @@
 	font-size: $menu-small;
 	font-weight: $menu-weight;
 	color: $text-dark-color;
-	border-bottom: 2px solid transparent;
+	border-bottom: 3px solid transparent;
 
 	&:hover {
 		color: $accent-color;
@@ -137,7 +137,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		border-bottom-color: $accent-color;
 	}

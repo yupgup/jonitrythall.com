@@ -1,16 +1,16 @@
 basic_settings:
   site_title: Joni Trythall
-  site_tagline: web designer and project manager
+  site_tagline: designing and managing web projects
   favicon_image: /images/favicon.png
 
 header_settings:
   avatar_image: /images/avatar.jpg
-  logo_image: 
+  logo_image:
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
     #- title: 'Projects'
     #  url: '/projects/'
@@ -58,23 +58,23 @@ social_settings:
   codepen_url: 'https://codepen.io/jonitrythall/'
 
 color_settings:
-  background_color: '#ffffff'
+  background_color: '#FFE9D9'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#000000'
   text_medium_color: '#000000'
-  text_light_color: '#9291C8'
+  text_light_color: '#592941'
   accent_color: '#0F7485'
-  border_color: '#f7d7b6'
+  border_color: '#E8B85A'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
-  title_font: '"Nunito", sans-serif'
-  body_font: '"Nunito", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,500&display=swap" rel="stylesheet">'
+  title_font: '"DM Sans", sans-serif'
+  body_font: '"DM Sans", sans-serif'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 700
   site_title:
     small_size: 27
     medium_size: 32
