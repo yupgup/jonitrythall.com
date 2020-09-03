@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/jquery-snippet-heavy-hitters/
 ---
 
-![Illustration of boxing gloves depicting a match between .toggleclass and .preventDefault](/content/2015/Jan/boxingintro.jpg)
-
 As with almost all things in this field that initially approach, JavaScript was (is) really intimidating. Now, I'm certainly not saying that I am some sort of expert now, but I am in deep enough at this point to detect that a large portion of what I need JavaScript for in the front-end world can be done with one of a few snippets of jQuery it seems.
+
+![Illustration of boxing gloves depicting a match between .toggleclass and .preventDefault](/content/2015/Jan/boxingintro.jpg)
 
 [jQuery](http://jquery.com/) is an amazingly powerful JavaScript library that makes DOM manipulation and event handling much more straightforward over "full blown" JavaScript.
 

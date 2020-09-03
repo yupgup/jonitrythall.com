@@ -8,11 +8,9 @@ redirect_from:
     /blog/blog/command-line-primer-primer/
 ---
 
+*This post specifically addresses the **[Mac OS X Terminal](http://manuals.info.apple.com/MANUALS/1000/MA1173/en_US/IntroCommandLine_v10.6.pdf)**.* I can definitely say that one of the more intimidating things I accomplished in 2014 was getting comfortable with the command line process. I was very hesitant to even use it at first: What if I delete something? What if I tell my computer to spontaneously combust? Why is it so ugly?...I will just use apps!
+
 ![Illustrated helm behind a terminal screen.](/content/2015/Jan/Screen-Shot-2015-01-12-at-1-52-47-PM.png)
-
-*This post specifically addresses the **[Mac OS X Terminal](http://manuals.info.apple.com/MANUALS/1000/MA1173/en_US/IntroCommandLine_v10.6.pdf)**.*
-
-I can definitely say that one of the more intimidating things I accomplished in 2014 was getting comfortable with the command line process. I was very hesitant to even use it at first: What if I delete something? What if I tell my computer to spontaneously combust? Why is it so ugly?...I will just use apps!
 
 Because of this intimidation factor with the terminal I tried to avoid it at all costs, which very quickly became silly and inefficient. I ended up tackling the basics head on, making it much less scary and fostering a more efficient workflow.  
 

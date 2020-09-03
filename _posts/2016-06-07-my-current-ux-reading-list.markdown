@@ -7,10 +7,9 @@ date: '2016-06-07 15:28:40'
 redirect_from:
     /blog/blog/my-current-ux-reading-list/
 ---
+So I&rsquo;ve been reading a lot of UX books again recently and have been thoroughly enjoying myself for the most part. I find that more and more my focus is shifting back to strategy and research (much like when I was a grant writer—full circle) over visual design with each project I&rsquo;m on.
 
 ![Joni Bologna pig logo holding book](/content/2016/Jun/Screen-Shot-2016-06-07-at-8-41-30-AM.png)
-
-So I&rsquo;ve been reading a lot of UX books again recently and have been thoroughly enjoying myself for the most part. I find that more and more my focus is shifting back to strategy and research (much like when I was a grant writer—full circle) over visual design with each project I&rsquo;m on.
 
 Getting back to this work has been lovely. However, it&rsquo;s easy to often time find myself thinking &ldquo;I know this isn&rsquo;t right, but why exactly? How do I then explain exactly why?&rdquo; **The most challenging part of design for me has always been relationships**. Communicating design decisions with stakeholders and truly understanding users is something I will always be working towards getting better at and these books have certainly helped.    
 

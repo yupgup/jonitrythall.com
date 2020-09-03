@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/thoughts-on-smartphone-emergency-access/
 ---
 
-![Assortment of emergency related icons](/content/2016/10/Screen-Shot-2016-10-16-at-10-15-43-PM.png)
-
 My son is four and a half. He has an iPad and is able to use it like a pro. It truly seems instinctual. Earlier this year I had taught him how to dial 911 with my iPhone. He did well considering he cannot read yet but I was always bothered by how wildly difficult the entire thing was; young children needing to gain access to emergency services does not appear to have been a concern during the design process.
+
+![Assortment of emergency related icons](/content/2016/10/Screen-Shot-2016-10-16-at-10-15-43-PM.png)
 
 After the most recent iOS updates (iOS 10) he can no longer navigate into emergency mode. <mark style="background: #E4E3FC;">Why is such a critical action buried under an additional perfectly calculated press of the home button?</mark>
 

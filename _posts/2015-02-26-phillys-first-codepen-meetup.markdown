@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/phillys-first-codepen-meetup/
 ---
 
-![Photo of Philly CodePen Meetup](https://s3-us-west-2.amazonaws.com/s.cdpn.io/80625/meetup1.png)
+Yesterday I co-hosted Philadelphia's first [CodePen](http://codepen.io/) meetup with [GDI Philly](http://www.meetup.com/Girl-Develop-It-Philadelphia/). The event was sponsored by [Lincoln Loop](https://lincolnloop.com/), catered by [Caffienation](http://caffeination.wix.com/caffeination), and took place at [City CoHo](http://citycoho.com/). All of these forces came together to form what I will now be referring to as the **Coolest CodePen Collaboration of 2015 (Triple C 15)**.
 
-Yesturday I co-hosted Philadelphia's first [CodePen](http://codepen.io/) meetup with [GDI Philly](http://www.meetup.com/Girl-Develop-It-Philadelphia/). The event was sponsored by [Lincoln Loop](https://lincolnloop.com/), catered by [Caffienation](http://caffeination.wix.com/caffeination), and took place at [City CoHo](http://citycoho.com/). All of these forces came together to form what I will now be referring to as the **Coolest CodePen Collaboration of 2015 (Triple C 15)**.
+![Photo of Philly CodePen Meetup](https://s3-us-west-2.amazonaws.com/s.cdpn.io/80625/meetup1.png)
 
 So, I figured I should write a post to reflect on why I wanted to host this meetup in the first place and get GDI Philly involved, and of course talk a bit about how the event went (spoiler alert: awesomely).
 

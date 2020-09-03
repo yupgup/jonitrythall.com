@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/transitioning-into-tech-panel-recap/
 ---
 
-![Joni Trythall on a GDI Panel](/content/2016/09/panel_1.jpg)
+Last night I was one of three women on a [panel all about transitioning into tech](http://www.meetup.com/Girl-Develop-It-Wilmington/). The panel was hosted by Girl Develop It Wilmington and it was lovely to get out of the house and socialize. I absolutely hate to iron clothes (I suspect this is a side effect of working from home for so many years and only ironing the front of shirts for video calls) but it was totally worth ironing the front **and** back of a shirt for this event.
 
-Last night I was one of three women on a [panel all about transitioning into tech](http://www.meetup.com/Girl-Develop-It-Wilmington/). The panel was hosted by Girl Develop It Wilmington and it was lovely to get out of the house and socialize. I absolutely hate to iron clothes (I suspect this is a side effect of working from home for so many years and only ironing the front of shirts for video calls) but it was totally worth ironing the front **and** back of a shirt for this event. 
+![Joni Trythall on a GDI Panel](/content/2016/09/panel_1.jpg)
 
 I’ve spoken about my experience getting started on the web a few times and decided it may be handy to document this one in the form of a post. Here's a recap of the event in a Q and A format based on my initial prep notes.
 

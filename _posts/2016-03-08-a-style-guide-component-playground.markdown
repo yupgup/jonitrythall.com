@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/a-style-guide-component-playground/
 ---
 
-![Component playground illustration](/content/2016/Mar/Screen-Shot-2016-03-07-at-9-34-02-PM.png)
-
 Style guides are very challenging to build, though the initial idea of creating one always sounds like a total dream.
+
+![Component playground illustration](/content/2016/Mar/Screen-Shot-2016-03-07-at-9-34-02-PM.png)
 
 You have to create a bunch of components that are **completely** flexible, preferably CSS only, are well documented, and perform well across browsers. But they greatly contribute to brand consistency and rapid prototyping so we understandably :swoon: endlessly.
 

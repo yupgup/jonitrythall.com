@@ -7,6 +7,8 @@ date: '2017-12-30 14:34:09'
 redirect_from:
     /blog/blog/2017-in-review-a-letter-to-no-one/
 ---
+I wanted to start this post with one of the more profound and accurate quotes I’ve ever heard.
+
 
 <blockquote>“A lot of what is most beautiful about the world arises from struggle.”<br>
 — Malcolm Gladwell</blockquote>

@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/specifying-link-purpose/
 ---
 
-![Screenshot of demo showing three different links with the same text but representing different things.](/content/2015/Feb/Screen-Shot-2015-02-17-at-12-08-12-PM.png)
+I read a [brief article recently](https://www.ssbbartgroup.com/blog/2015/01/09/indicating-link-purpose-with-aria/) that discusses the complications brought about by having a number of links on a page represented by the same text.
 
-I read a [brief acticle recently](https://www.ssbbartgroup.com/blog/2015/01/09/indicating-link-purpose-with-aria/) that discusses the complications brought about by having a number of links on a page represented by the same text.
+![Screenshot of demo showing three different links with the same text but representing different things.](/content/2015/Feb/Screen-Shot-2015-02-17-at-12-08-12-PM.png)
 
 While users without disabilities will mostly be able to decipher the different intentions of these links based on the page's content, these intentions become much less clear for users with disabilities. If there are a series of links with the same text, how can we label these and make them more distinguishable?
 

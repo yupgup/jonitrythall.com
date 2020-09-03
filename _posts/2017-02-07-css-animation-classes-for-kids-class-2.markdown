@@ -8,8 +8,9 @@ redirect_from:
     /blog/blog/css-animation-classes-for-kids-class-2/
 ---
 
-![Dot Doodl logo](/content/2017/02/Screen-Shot-2017-01-20-at-7-23-38-PM.png)
 This is the second class of a three series CSS animations for kids series; the first class and additional series details [can be found here](http://jonibologna.com/css-animation-classes-for-kids-class-1/).
+
+![Dot Doodl logo](/content/2017/02/Screen-Shot-2017-01-20-at-7-23-38-PM.png)
 
 All original teaching materials for these classes are open source, so please feel free to use them as is for copy and customize to your situation.
 

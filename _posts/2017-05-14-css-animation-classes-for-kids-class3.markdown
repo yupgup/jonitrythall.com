@@ -7,10 +7,9 @@ date: '2017-05-14 11:58:06'
 redirect_from:
     /blog/blog/css-animation-classes-for-kids-class3/
 ---
+This is the third and final class of a CSS animations for kids series; the first class and additional series details [can be found here](http://jonibologna.com/css-animation-classes-for-kids-class-1/).
 
 ![Dot Doodl logo](/content/2017/05/Screen-Shot-2017-01-20-at-7-23-38-PM.png)
-
-This is the third and final class of a CSS animations for kids series; the first class and additional series details [can be found here](http://jonibologna.com/css-animation-classes-for-kids-class-1/).
 
 **All original teaching materials for these classes [are open source](https://github.com/jonitrythall/dotdoodl-kid-classes)**, so please feel free to use them as is for copy and customize to your situation.
 

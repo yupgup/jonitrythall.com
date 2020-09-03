@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Joni Trythall
-  site_tagline: designing and managing web projects
+  site_title: Hello, I’m Joni
+  site_tagline: I design and manage web projects.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -31,7 +31,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/JoniTrythall'
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/helloyupgup/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -103,8 +103,8 @@ font_settings:
     line_height: 1.2
   h2:
     small_size: 27
-    medium_size: 38
-    large_size: 50
+    medium_size: 32
+    large_size: 40
     weight: 600
     letter_spacing: -0.02
     line_height: 1.2

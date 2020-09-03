@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/css-animation-classes-for-kids-class-1/
 ---
 
-![Dot Doodl for Kids logo](/content/2017/01/Screen-Shot-2017-01-20-at-7-23-38-PM.png)
-
 In a couple weeks I’ll begin teaching a short series of classes at a local middle school focused on getting started with CSS animations. I cannot wait. **I will be publishing a blog post for each class and open sourcing all materials, to include: agenda, slides, teacher notes, demos, reference site, and original presentation images**.
+
+![Dot Doodl for Kids logo](/content/2017/01/Screen-Shot-2017-01-20-at-7-23-38-PM.png)
 
 **[Dot Doodl for Kids](http://www.dotdoodl.com/)** will consist of three 1-1.5 hour in-person classes. Each class will be structured as a presentation with slides, permit a bunch for live demo tinkering time, and focus on planning and creating different animation movements.
 

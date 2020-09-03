@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/word-wrapping-woes/
 ---
 
-![This is seriously hard](/content/2015/Aug/wrap-4.png)
-
 For whatever reason I seem to fall face-first into odd, unexpected text wrapping issues more often than I'd like.
+
+![This is seriously hard](/content/2015/Aug/wrap-4.png)
 
 I wrote an ebook and wrangling the text wrapping within the blocks of code was a nightmare. Sometimes the height of a block of text is higher than its restrictive container. Those too long URLs though!
 

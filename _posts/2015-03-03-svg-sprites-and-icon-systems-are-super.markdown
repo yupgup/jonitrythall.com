@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/svg-sprites-and-icon-systems-are-super/
 ---
 
-![Screenshot of icon sprite demo](/content/2015/Feb/Screen-Shot-2015-02-25-at-10-55-57-AM.png)
-
 I wrote a post over at [Lincoln Loop](https://lincolnloop.com/) recently on using SVG sprites as an icon system: *[SVG Sprites and Icon Systems Are Super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)*. The post was a response to an email I received asking about how to use *a lot* of SVG icons and be able to change their colors with CSS, but also not have all that markup that goes along with inline SVG.
+
+![Screenshot of icon sprite demo](/content/2015/Feb/Screen-Shot-2015-02-25-at-10-55-57-AM.png)
 
 The problem, as I understand it, is that he needs access to the SVG's "innards" to be able to change the fill color, and therefore not having to include twice as many icons as you would have to do with images but also not have bunches of inline SVG code sitting around.
 

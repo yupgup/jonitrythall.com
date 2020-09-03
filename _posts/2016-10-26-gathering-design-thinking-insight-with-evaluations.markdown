@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/gathering-design-thinking-insight-with-evaluations/
 ---
 
-![Illustrations of icons representing various design tasks](/content/2016/10/Screen-Shot-2016-10-26-at-12-08-26-PM.png)
-
 I spent a lot of time over the past year and a half writing evaluations based on existing designs. I try to use each review as a teaching opportunity and am sure to take the experience of reading the review into account. I enjoy these; I’m proud of them and believe they speak to my high level thought process as a designer.
+
+![Illustrations of icons representing various design tasks](/content/2016/10/Screen-Shot-2016-10-26-at-12-08-26-PM.png)s
 
 A couple weeks ago I put out a tweet that I was available for part-time front-end design work and then received a few emails asking for links to my Dribbble or Behance profiles. I’ve also read enough job descriptions to know that we seem to ask for these regardless of what type of designer is being sought and I personally think this doesn’t make a whole lotta sense.
 

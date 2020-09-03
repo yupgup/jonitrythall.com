@@ -8,9 +8,9 @@ redirect_from:
     /blog/blog/sass-function-demos/
 ---
 
-![Preview of three Sass demos](/content/2017/01/preview.png)
-
 I’ve been looking for mini mental distractions from our current political emergency a lot lately, which I have found through Sass and animations. Sass is incredibly powerful and I still find myself in awe of its potential. I set out to have fun with some areas that I don’t use much in my current day-to-day work tasks.
+
+![Preview of three Sass demos](/content/2017/01/preview.png)
 
 I ended up putting a few rage fueled demos together that use different list and color functions. This post serves as a brief walk through of the bits of Sass that made each especially enjoyable and distracting to create.  
 

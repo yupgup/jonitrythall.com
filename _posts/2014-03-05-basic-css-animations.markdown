@@ -7,10 +7,9 @@ date: '2014-03-05 19:10:46'
 redirect_from:
     /blog/blog/basic-css-animations/
 ---
+I recently wrote an article for [HTML5HUB](http://html5hub.com/) on basic CSS animations with Franklin the fish.
 
 ![alt](/content/2014/Mar/J_Trythall_s_Franklin_.png)
-
-I recently wrote an article for [HTML5HUB](http://html5hub.com/) on basic CSS animations with Franklin the fish.
 
 The tutorial addresses the sheer, unadulterated fun involved in creating CSS drawings and how to get them moving! Well, swimming in this case. The entire experience was amazing and I learned a lot about tutorial writing. Like the fact that it's the hardest thing ever in the world. But also the coolest. Do people still use "cool" anymore?
 
