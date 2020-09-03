@@ -5,7 +5,7 @@ date: '2014-10-28 14:02:45'
 
 # Legacy
 redirect_from:
-    /pocket-guide-to-writing-svg-goes-open-source/
+    /blog/blog/pocket-guide-to-writing-svg-goes-open-source/
 ---
 
 It has been a couple months since the wrap up of my [Kickstarter](https://www.kickstarter.com/projects/1207904509/pocket-guide-to-writing-svg) for Pocket Guide to Writing SVG. [The book was published](http://svgpocketguide.com/) over a month ago and since that time I have had an overwhelming urge to give this thing away to anyone in need of such a resource.

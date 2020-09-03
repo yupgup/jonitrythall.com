@@ -5,7 +5,7 @@ date: '2014-02-21 13:21:21'
 
 # Legacy
 redirect_from:
-    /eliminating-bottom-gaps-between-images/
+    /blog/blog/eliminating-bottom-gaps-between-images/
 ---
 
 Sometimes CSS makes me so happy. Sometimes it makes me cry, but then I find a solution and am even happier than when things just work. Using a trillion images is one recent example of things that start out seemingly easy, become surprisingly tricky, leads to pouting, and ultimately ends in joy and accomplishment.

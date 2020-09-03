@@ -2,10 +2,11 @@
 layout: post
 title: Paper Sketch To Vector Awesome
 date: '2014-02-04 09:58:03'
+published: false
 
 # Legacy
 redirect_from:
-    /paper-sketch-to-vector-awesome/
+    /blog/blog/paper-sketch-to-vector-awesome/
 ---
 
 Call me tacky (except don't, that would hurt my feelings), but I am obsessed with Valentine's Day for a trillion reasons. Mainly because Valentine's Day cards are adorable and really fun to make.

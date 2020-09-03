@@ -5,7 +5,7 @@ date: '2015-08-31 14:04:08'
 
 # Legacy
 redirect_from:
-    /word-wrapping-woes/
+    /blog/blog/word-wrapping-woes/
 ---
 
 ![This is seriously hard](/content/2015/Aug/wrap-4.png)

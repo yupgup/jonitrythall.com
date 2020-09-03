@@ -5,7 +5,7 @@ date: '2015-12-04 15:36:02'
 
 # Legacy
 redirect_from:
-    /a-look-back-on-ela-conf/
+    /blog/blog/a-look-back-on-ela-conf/
 ---
 
 Since the spring I have been working with an amazing group of women to bring **ELA Conf**, a conference all about empowering women to be leaders in tech, to life.

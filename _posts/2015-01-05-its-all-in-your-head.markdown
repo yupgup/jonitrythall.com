@@ -5,7 +5,7 @@ date: '2015-01-05 14:12:18'
 
 # Legacy
 redirect_from:
-    /its-all-in-your-head/
+    /blog/blog/its-all-in-your-head/
 ---
 
 I was recently working on [a small new project](http://jonitrythall.github.io/appleproject/) (with apples) and found myself feeling that the bulk of content witin the <code>head</code> tag was slightly comical. What exactly is all this stuff that (mostly) isn't even seen by the site's user? What's essential? What's just taking up space? What does it all *do*?

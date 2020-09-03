@@ -5,7 +5,7 @@ date: '2016-10-26 14:33:55'
 
 # Legacy
 redirect_from:
-    /gathering-design-thinking-insight-with-evaluations/
+    /blog/blog/gathering-design-thinking-insight-with-evaluations/
 ---
 
 ![Illustrations of icons representing various design tasks](/content/2016/10/Screen-Shot-2016-10-26-at-12-08-26-PM.png)

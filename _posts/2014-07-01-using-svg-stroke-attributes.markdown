@@ -5,7 +5,7 @@ date: '2014-07-01 15:05:00'
 
 # Legacy
 redirect_from:
-    /using-svg-stroke-attributes/
+    /blog/blog/using-svg-stroke-attributes/
 ---
 
 Using SVG inline provides total access to the graphic for complete customization and control over its output. This is especially handy when creating shapes by hand in the browser, or making edits to an existing graphic.  

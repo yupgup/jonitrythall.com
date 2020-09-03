@@ -5,7 +5,7 @@ date: '2017-02-07 13:22:06'
 
 # Legacy
 redirect_from:
-    /css-animation-classes-for-kids-class-2/
+    /blog/blog/css-animation-classes-for-kids-class-2/
 ---
 
 ![Dot Doodl logo](/content/2017/02/Screen-Shot-2017-01-20-at-7-23-38-PM.png)

@@ -5,7 +5,7 @@ date: '2016-06-07 15:28:40'
 
 # Legacy
 redirect_from:
-    /my-current-ux-reading-list/
+    /blog/blog/my-current-ux-reading-list/
 ---
 
 ![Joni Bologna pig logo holding book](/content/2016/Jun/Screen-Shot-2016-06-07-at-8-41-30-AM.png)

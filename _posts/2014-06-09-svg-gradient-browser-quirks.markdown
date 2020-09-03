@@ -5,7 +5,7 @@ date: '2014-06-09 14:01:02'
 
 # Legacy
 redirect_from:
-    /svg-gradient-browser-quirks/
+    /blog/blog/svg-gradient-browser-quirks/
 ---
 
 I have been working with SVG gradients a lot lately. I wrote about [getting started with SVG gradients](http://www.sitepoint.com/getting-started-svg-gradients/) over at SitePoint, and also an [intro on animating SVG gradients](http://designmodo.com/animate-svg-gradients/) over at Designmodo. While they are super neat and pretty straight forward, I ran into a couple cross browser issues that I wanted to discuss further in this post.

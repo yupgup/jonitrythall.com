@@ -5,7 +5,7 @@ date: '2015-01-26 13:47:48'
 
 # Legacy
 redirect_from:
-    /jquery-snippet-heavy-hitters/
+    /blog/blog/jquery-snippet-heavy-hitters/
 ---
 
 ![Illustration of boxing gloves depicting a match between .toggleclass and .preventDefault](/content/2015/Jan/boxingintro.jpg)

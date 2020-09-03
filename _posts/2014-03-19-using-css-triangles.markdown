@@ -5,7 +5,7 @@ date: '2014-03-19 16:51:09'
 
 # Legacy
 redirect_from:
-    /using-css-triangles/
+    /blog/blog/using-css-triangles/
 ---
 
 I have been using CSS triangles a lot lately in  drawings. While they are genius and I love them, they can also be annoying and inflexible. I figured out how to make them slightly less annoying and thought I should shout it from the rooftops.

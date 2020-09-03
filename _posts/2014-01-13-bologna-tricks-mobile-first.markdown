@@ -2,9 +2,10 @@
 layout: post
 title: BOLOGNA-TRICKS & Mobile First
 date: '2014-01-13 10:07:15'
+published: false
 
 redirect_from:
-    /bologna-tricks-mobile-first/
+    /blog/bologna-tricks-mobile-first/
 ---
 
 I set out to practice replicating a mobile page today, and ended up choosing this screenshot from <a href="http://css-tricks.com/" target="_blank">CSS-TRICKS</a> as a model:

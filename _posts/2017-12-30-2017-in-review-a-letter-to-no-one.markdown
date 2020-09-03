@@ -5,7 +5,7 @@ date: '2017-12-30 14:34:09'
 
 # Legacy
 redirect_from:
-    /2017-in-review-a-letter-to-no-one/
+    /blog/blog/2017-in-review-a-letter-to-no-one/
 ---
 
 <blockquote>“A lot of what is most beautiful about the world arises from struggle.”<br>

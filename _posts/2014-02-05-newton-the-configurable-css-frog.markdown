@@ -2,6 +2,7 @@
 layout: post
 title: Sass Variables In CSS Animations
 date: '2014-02-05 10:31:32'
+
 tags:
 - configuration
 - css-animaiton
@@ -9,7 +10,7 @@ tags:
 
 # Legacy
 redirect_from:
-    /newton-the-configurable-css-frog/
+    /blog/blog/newton-the-configurable-css-frog/
 ---
 
 Sass meets CSS animation. This was officially the most fun I have had with self-assigned homework. I haven't used Sass much since I wrote about it <a href="http://jonibologna.com/2014/01/getting-sassy/" target="_blank">in this post</a> a couple weeks ago, and I can't get my head out of CSS animations these days, so why not practice both at once?

@@ -2,9 +2,10 @@
 layout: post
 title: Intro To CSS Transitions
 date: '2014-01-27 09:15:19'
+published: false
 
 redirect_from:
-    /intro-to-css-transitions/
+    /blog/intro-to-css-transitions/
 ---
 
 I almost feel guilty spending time on this, as it seems like too much fun to be considered work or study time. I previously posted on <a href="http://jonibologna.com/2014/01/intro-to-basic-css-animation/" target="_blank">CSS animations</a> and thought that transitions were worthy of their own post. As with animations, I found <a href="http://learn.shayhowe.com/advanced-html-css/transitions-animations" target="_blank">this lesson by Shay Howe</a> to be especially helpful.

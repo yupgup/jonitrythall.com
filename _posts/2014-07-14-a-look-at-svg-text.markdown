@@ -5,7 +5,7 @@ date: '2014-07-14 14:53:37'
 
 # Legacy
 redirect_from:
-    /a-look-at-svg-text/
+    /blog/blog/a-look-at-svg-text/
 ---
 
 The `<text>` element defines a graphic consisting of text. Writing and editing `<text>` in SVG provides a very powerful ability to create scalable text as graphics that can be easily changed and edited within the SVG code.

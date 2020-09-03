@@ -1,0 +1,358 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+
+
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	Joni Trythall
+
+	Simples Theme by https://jekyllthemes.io
+	Premium + free Jekyll themes for your blog or website.
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Page Info -->
+	<link rel="shortcut icon" href="/images/favicon.png">
+	<title>Animating SVG text On A Path – Joni Trythall</title>
+	<meta name="description" content="IMPORTANT NOTE: Since this post was published SMIL animations have been deprecated and the animated demo will no longer work. I decided to leave it up though as the text along a path bit is still relevant.
+
+">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Animating SVG text On A Path – Joni Trythall">
+	<meta name="twitter:description" content="IMPORTANT NOTE: Since this post was published SMIL animations have been deprecated and the animated demo will no longer work. I decided to leave it up though as the text along a path bit is still relevant.
+
+">
+	<meta name="twitter:image:src" content="">
+
+	<!-- Facebook OpenGraph -->
+	<meta property="og:title" content="Animating SVG text On A Path – Joni Trythall" />
+	<meta property="og:description" content="IMPORTANT NOTE: Since this post was published SMIL animations have been deprecated and the animated demo will no longer work. I decided to leave it up though as the text along a path bit is still relevant.
+
+" />
+	<meta property="og:image" content="" />
+
+	
+	<!-- Font Embed Code -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">
+	
+
+	<!-- Styles -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<!-- Icons -->
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/solid.js" integrity="sha384-GXi56ipjsBwAe6v5X4xSrVNXGOmpdJYZEEh/0/GqJ3JTHsfDsF8v0YQvZCJYAiGu" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
+
+	
+	<!-- Custom Styles -->
+	<style></style>
+	
+
+	
+	<!-- Analytics Code -->
+	
+	
+
+	
+	<!-- Extra Header JS Code -->
+	
+	
+	
+</head>
+
+
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/svg-text-along-a-path">
+
+
+	<header class="header">
+
+	<div class="wrap">
+
+		
+		<a href="/" class="header__avatar">
+			<img src="/images/avatar.jpg" class="header__avatar__img">
+		</a>
+		
+
+		
+		<a href="/" class="header__title">
+			Joni Trythall
+		</a>
+		
+
+		<p class="header__tagline">web designer and project manager</p>
+
+		<div class="menu">
+			<ul class="menu__list">
+				
+				<li class="menu__list__item">
+					<a href="/" class="menu__list__item__link">Latest</a>
+				</li>
+				
+				<li class="menu__list__item">
+					<a href="/about" class="menu__list__item__link">About</a>
+				</li>
+				
+				<li class="menu__list__item">
+					<a href="/contact" class="menu__list__item__link">Contact</a>
+				</li>
+				
+			</ul>
+		</div>
+
+	</div>
+
+</header>
+
+
+	<div class="loader"><svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg"><circle cx="15" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="60" cy="15" r="9" fill-opacity="0.3"><animate attributeName="r" from="9" to="9" begin="0s" dur="0.8s" values="9;15;9" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="0.5" to="0.5" begin="0s" dur="0.8s" values=".5;1;.5" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="105" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle></svg></div>
+
+	<div class="page-loader"></div>
+
+	
+	<div class="page">
+
+		<div class="page__content" data-page-title="Animating SVG text On A Path – Joni Trythall">
+
+			<section class="single">
+
+	<div class="wrap">
+
+		<h1>Animating SVG text On A Path</h1>
+		<p class="subtitle">28 July 2014</p>
+
+		<p><strong>IMPORTANT NOTE: Since this post was published SMIL animations have been deprecated and the animated demo will no longer work. I decided to leave it up though as the text along a path bit is still relevant.</strong></p>
+
+<p>I recently wrote a more general post on <a href="http://jonibologna.com/a-look-at-svg-text/">getting started using SVG text</a> and wanted to follow-up with a slightly more advanced feature: SVG text along a path.</p>
+
+<p>Inline SVG provides us with advanced customization options that are similar to capabilities of vector graphic software. Within the SVG code itself we can position text exactly as we want it to render on the screen.</p>
+
+<p>In taking this manipulation even further, SVG <code class="highlighter-rouge">&lt;text&gt;</code> can be set to follow a given <code class="highlighter-rouge">&lt;path&gt;</code> element, and that text can then be animated to move along this path!</p>
+
+<p>This post hopes to serve as a basic introduction to getting your SVG on a path and then get it moving via SMIL animations (animations written within the SVG code itself).</p>
+
+<h3 id="the-textpath-element">The textPath Element</h3>
+
+<p>The <code class="highlighter-rouge">textPath</code> element is where all the magic of this feature resides. While SVG text would generally reside within a <code class="highlighter-rouge">&lt;text&gt;</code> element, it will now reside within a <code class="highlighter-rouge">&lt;textPath&gt;</code> element within the <code class="highlighter-rouge">&lt;text&gt;</code> element.</p>
+
+<p>This <code class="highlighter-rouge">&lt;textPath&gt;</code> will then call on the chosen path’s <code class="highlighter-rouge">id</code> which is hanging out in a <code class="highlighter-rouge">&lt;defs&gt;</code> element waiting to be used.</p>
+
+<p>The basic structure looks a little something like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;svg&gt;
+	&lt;defs&gt;
+  			&lt;path id="testPath" d="&lt;....&gt;"/&gt;
+  	  &lt;/defs&gt;
+    &lt;text&gt;
+  		&lt;textPath xlink:href="#testPath"&gt;Place text here&lt;/textPath&gt;
+    &lt;/text&gt;
+&lt;/svg&gt;
+</code></pre></div></div>
+
+<p>Let’ s take a simple vector path and place some text on it.</p>
+
+<p><img src="/content/2014/Jul/Screen-Shot-2014-07-23-at-10-31-04-AM.png" alt="Simple path" /></p>
+
+<p>After generating this path in vector graphic software the SVG code can be copied and placed within the <code class="highlighter-rouge">&lt;defs&gt;</code> element in the <code class="highlighter-rouge">&lt;svg&gt;</code> as shown in the code above.</p>
+
+<p data-height="268" data-theme-id="6090" data-slug-hash="f3da6a1dcc7b4658674e7137c5632b4b" data-default-tab="result" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/f3da6a1dcc7b4658674e7137c5632b4b/">1</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//codepen.io/assets/embed/ei.js"></script>
+
+<h5 id="xlinkhref">xlink:href</h5>
+
+<p>The <code class="highlighter-rouge">xlink:href</code> attribute in a <code class="highlighter-rouge">&lt;textPath&gt;</code> allows us to reference the path to which the text will be rendered on.</p>
+
+<h5 id="startoffset">startOffset</h5>
+
+<p>The <code class="highlighter-rouge">startOffset</code> attribute represents a text offset length from the start of the <code class="highlighter-rouge">path</code>. A value of “0%” indicates the start point of the <code class="highlighter-rouge">path</code>, while “100%” indicates the end point.</p>
+
+<p>The example below has a <code class="highlighter-rouge">startOffset</code> of “20%” which pushes the text to begin 20% in along the path. The font size has been decreased to prevent it from rendering out of the <a href="http://jonibologna.com/svg-viewbox-and-viewport/">viewport</a> when moved.</p>
+
+<p>Color has been added to the stroke of the path to better demonstrate where the start and end points are in relation to the text.</p>
+
+<p data-height="268" data-theme-id="6090" data-slug-hash="b60cb49eb60d4db158fc9c81b1b6cd64" data-default-tab="result" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/b60cb49eb60d4db158fc9c81b1b6cd64/">2</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//codepen.io/assets/embed/ei.js"></script>
+
+<h3 id="smil-animations">SMIL Animations</h3>
+
+<p>The <code class="highlighter-rouge">&lt;animate&gt;</code> element allows us to select attributes and properties and then assign different values to them over a specified duration of time. By including this element in our <code class="highlighter-rouge">&lt;textPath&gt;</code> element we can directly select its attributes and apply animation details to them; the <code class="highlighter-rouge">&lt;animate&gt;</code> element must reside within the element to be animated.</p>
+
+<p>There are a number of attributes that can be used within the <code class="highlighter-rouge">&lt;animate&gt;</code> element when building our animation details, but for this post we will focus on the following: <code class="highlighter-rouge">attributeName</code>, <code class="highlighter-rouge">values</code>, <code class="highlighter-rouge">dur</code>, <code class="highlighter-rouge">repeatCount</code>, and <code class="highlighter-rouge">keyTimes</code>.</p>
+
+<p>This time we will use a slightly more interesting path and apply a simple SMIL animation that is focusing on moving the <code class="highlighter-rouge">startOffset</code> of the <code class="highlighter-rouge">&lt;textPath&gt;</code>.</p>
+
+<p><em>Please note that the following demos only work as intended in <strong>Chrome and Safari</strong>. SMIL animations have <a href="http://caniuse.com/svg-smil">no support in any version of IE</a> and for some reason Firefox does not seem to render an SMIL animation on a <code class="highlighter-rouge">textPath</code>. Can contact me with any insight <a href="https://twitter.com/JoniTrythall">on Twitter</a>.</em></p>
+
+<p><img src="/content/2014/Jul/Screen-Shot-2014-07-23-at-12-02-08-PM.png" alt="alt" /></p>
+
+<p data-height="268" data-theme-id="6090" data-slug-hash="1cec834a8507d6bd513f70caa6fcc29f" data-default-tab="result" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/1cec834a8507d6bd513f70caa6fcc29f/">Animated text on path</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//codepen.io/assets/embed/ei.js"></script>
+
+<h5 id="initial-setup">Initial Setup</h5>
+
+<p>As mentioned, SMIL animations must reside within the element that is being animated, so in this case we are placing the <code class="highlighter-rouge">&lt;animate&gt;</code> element within the <code class="highlighter-rouge">&lt;textPath&gt;</code> element.</p>
+
+<p>We are animating the <code class="highlighter-rouge">startOffset</code> specifically, so this becomes the value within <code class="highlighter-rouge">attributeName</code>, while <code class="highlighter-rouge">values</code> indicates a list of destinations for the target attribute; <code class="highlighter-rouge">values</code> replaces the need for <code class="highlighter-rouge">to</code> and <code class="highlighter-rouge">from</code>.</p>
+
+<h5 id="duration">Duration</h5>
+
+<p>The attributes <code class="highlighter-rouge">dur</code> and <code class="highlighter-rouge">repeatCount</code> within the <code class="highlighter-rouge">&lt;animate&gt;</code> element specify the duration and number of iterations of the animation. Valid values for <code class="highlighter-rouge">repeatCount</code> are a numeric value or <code class="highlighter-rouge">indefinite</code>, which will repeat the animation for all of time.</p>
+
+<p>Worth noting here is that if we desire the effect of what “forwards” does for CSS <code class="highlighter-rouge">@keyframes</code> animations we could use <code class="highlighter-rouge">fill="freeze"</code>, which will freeze the animation at the last value instead of restarting.</p>
+
+<h5 id="pacing">Pacing</h5>
+
+<p>While <code class="highlighter-rouge">keyTimes</code> is not required to initially get our text moving on the screen it allows for better control of the animation’s pacing. This is achieved through a list of semicolon separated time values.</p>
+
+<p>The use of <code class="highlighter-rouge">values</code>, instead of <code class="highlighter-rouge">to</code> and <code class="highlighter-rouge">from</code> here enables us to match these values with the same number of <code class="highlighter-rouge">keyTimes</code> values.</p>
+
+<p>Each time listed in <code class="highlighter-rouge">keyTimes</code> corresponds to a value in the <code class="highlighter-rouge">values</code> list and defines when the value should be used in the animation.</p>
+
+<p>We can choose to have these values match for a smooth continuous movement as shown in the demo above, or specify that the animation play faster or slower at a certain point for example.</p>
+
+<p>The set of values for the animation below are <code class="highlighter-rouge">"0;.7;1"</code> and <code class="highlighter-rouge">keyTimes</code> values of <code class="highlighter-rouge">"0;.2;1"</code>, establishing that 20% into the timing of the animation it should be at the 70% point along the path.</p>
+
+<p><img src="/content/2014/Jul/keytimesimpact.png" alt="alt" /></p>
+
+<p data-height="268" data-theme-id="6090" data-slug-hash="3bdfedf747de520bb53e924495e89821" data-default-tab="result" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/3bdfedf747de520bb53e924495e89821/">Animated text on path 2</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//codepen.io/assets/embed/ei.js"></script>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>There are many advanced features of SVG that allow us to get very creative in our manipulations and designs of these graphics. The behavior of text along a path, while seemingly complicated at first glance, quickly becomes more accessible when you begin to understand the basic behavior and structure of inline SVG.</p>
+
+<p>In this post we reviewed an introduction to both the <code class="highlighter-rouge">&lt;textPath&gt;</code> and <code class="highlighter-rouge">&lt;animate&gt;</code> elements which hopefully gets you started using these advanced SVG features with little frustration.</p>
+
+
+	</div>
+
+</section>
+
+		</div>
+
+	</div>
+
+
+	<footer class="footer">
+
+	<ul class="socials">
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://twitter.com/JoniTrythall" target="_blank" class="socials__item__link" title="Twitter">
+			<i class="fab fa-twitter" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://dribbble.com/jonibologna" target="_blank" class="socials__item__link" title="Dribbble">
+			<i class="fab fa-dribbble" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://github.com/jonitrythall" target="_blank" class="socials__item__link" title="Github">
+			<i class="fab fa-github" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.linkedin.com/in/jonitrythall/" target="_blank" class="socials__item__link" title="Linkedin">
+			<i class="fab fa-linkedin" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://codepen.io/jonitrythall/" target="_blank" class="socials__item__link" title="Codepen">
+			<i class="fab fa-codepen" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+</ul>
+
+	<div class="footer__copyright">
+		<span>© 2020 Joni Trythall</span>
+		<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+	</div>
+
+</footer>
+
+
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/plugins-min.js"></script>
+	<script src="/js/simples-min.js"></script>
+
+	
+	<!-- Extra Footer JS Code -->
+	
+	
+
+
+</body>
+
+</html>

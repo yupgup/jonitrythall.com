@@ -5,7 +5,7 @@ date: '2014-12-03 14:18:48'
 
 # Legacy
 redirect_from:
-    /gdi-philly-holiday-party/
+    /blog/blog/gdi-philly-holiday-party/
 ---
 
 Last night I attended the [Girl Develop It (Philly)](http://www.girldevelopit.com/chapters/philadelphia) holiday party and gave a quick talk. I have been incredibly anxious to meet everyone that is part of this particular chapter, as they seemed especially active and welcoming. I have also been making an effort to ease into the terrifying world of public speaking so this event seemed completely perfect and I couldn't sign up for it fast enough.

@@ -5,7 +5,7 @@ date: '2016-12-10 19:01:26'
 
 # Legacy
 redirect_from:
-    /intro-to-writing-svg-and-tuts-town-workshops/
+    /blog/blog/intro-to-writing-svg-and-tuts-town-workshops/
 ---
 
 Recently I spent some time gathering all my in-person workshop materials into single GitHub repositories for “Intro to Writing SVG” and “Tuts+ Town: Creating Our First Website” and thought I would share some details on these.

@@ -5,7 +5,7 @@ date: '2014-05-08 15:09:52'
 
 # Legacy
 redirect_from:
-    /animated-inline-svg-icons/
+    /blog/blog/animated-inline-svg-icons/
 ---
 
 I recently did some experimenting with animating inline SVG icons and wanted to quickly review my process and the joys and frustrations I ran into.

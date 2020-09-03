@@ -1,0 +1,401 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+
+
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	Joni Trythall
+
+	Simples Theme by https://jekyllthemes.io
+	Premium + free Jekyll themes for your blog or website.
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Page Info -->
+	<link rel="shortcut icon" href="/images/favicon.png">
+	<title>Sass FUNction Demos – Joni Trythall</title>
+	<meta name="description" content="
+
+">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Sass FUNction Demos – Joni Trythall">
+	<meta name="twitter:description" content="
+
+">
+	<meta name="twitter:image:src" content="">
+
+	<!-- Facebook OpenGraph -->
+	<meta property="og:title" content="Sass FUNction Demos – Joni Trythall" />
+	<meta property="og:description" content="
+
+" />
+	<meta property="og:image" content="" />
+
+	
+	<!-- Font Embed Code -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">
+	
+
+	<!-- Styles -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<!-- Icons -->
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/solid.js" integrity="sha384-GXi56ipjsBwAe6v5X4xSrVNXGOmpdJYZEEh/0/GqJ3JTHsfDsF8v0YQvZCJYAiGu" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
+
+	
+	<!-- Custom Styles -->
+	<style></style>
+	
+
+	
+	<!-- Analytics Code -->
+	
+	
+
+	
+	<!-- Extra Header JS Code -->
+	
+	
+	
+</head>
+
+
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/sass-function-demos">
+
+
+	<header class="header">
+
+	<div class="wrap">
+
+		
+		<a href="/" class="header__avatar">
+			<img src="/images/avatar.jpg" class="header__avatar__img">
+		</a>
+		
+
+		
+		<a href="/" class="header__title">
+			Joni Trythall
+		</a>
+		
+
+		<p class="header__tagline">web designer and project manager</p>
+
+		<div class="menu">
+			<ul class="menu__list">
+				
+				<li class="menu__list__item">
+					<a href="/" class="menu__list__item__link">Latest</a>
+				</li>
+				
+				<li class="menu__list__item">
+					<a href="/about" class="menu__list__item__link">About</a>
+				</li>
+				
+				<li class="menu__list__item">
+					<a href="/contact" class="menu__list__item__link">Contact</a>
+				</li>
+				
+			</ul>
+		</div>
+
+	</div>
+
+</header>
+
+
+	<div class="loader"><svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg"><circle cx="15" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="60" cy="15" r="9" fill-opacity="0.3"><animate attributeName="r" from="9" to="9" begin="0s" dur="0.8s" values="9;15;9" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="0.5" to="0.5" begin="0s" dur="0.8s" values=".5;1;.5" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="105" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle></svg></div>
+
+	<div class="page-loader"></div>
+
+	
+	<div class="page">
+
+		<div class="page__content" data-page-title="Sass FUNction Demos – Joni Trythall">
+
+			<section class="single">
+
+	<div class="wrap">
+
+		<h1>Sass FUNction Demos</h1>
+		<p class="subtitle">26 January 2017</p>
+
+		<p><img src="/content/2017/01/preview.png" alt="Preview of three Sass demos" /></p>
+
+<p>I’ve been looking for mini mental distractions from our current political emergency a lot lately, which I have found through Sass and animations. Sass is incredibly powerful and I still find myself in awe of its potential. I set out to have fun with some areas that I don’t use much in my current day-to-day work tasks.</p>
+
+<p>I ended up putting a few rage fueled demos together that use different list and color functions. This post serves as a brief walk through of the bits of Sass that made each especially enjoyable and distracting to create.</p>
+
+<h2 id="animated-demos">Animated Demos</h2>
+<p>The foundation of these four animated demos are color lists and the <code class="highlighter-rouge">random()</code>, <code class="highlighter-rouge">nth()</code>, and <code class="highlighter-rouge">mix()</code> functions. There are also a few <code class="highlighter-rouge">@for</code> directives to help loop through several elements and assign values.</p>
+
+<h3 id="random-rage-confetti"><code class="highlighter-rouge">random()</code> Rage Confetti</h3>
+
+<p data-height="300" data-theme-id="11708" data-slug-hash="jywwMY" data-default-tab="result" data-user="jonitrythall" data-embed-version="2" data-pen-title="random() Rage Confetti " class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/jywwMY/">random() Rage Confetti </a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>The primary magic here comes from randomly placing dots on the screen, randomly animating and delaying their movement, and randomly assigning and changing their colors between two lists.</p>
+
+<h4 id="random"><code class="highlighter-rouge">random()</code></h4>
+<p>The <code class="highlighter-rouge">random()</code> function can return a random value within a single limit (including 1 and the limit itself) or a random value within a range. So while <code class="highlighter-rouge">top: random(340) + px;</code> will produce a random pixel value from 1 to 340, a value of something like <code class="highlighter-rouge">right: random(400) + 200 + px;</code> will produce a random pixel value between 200 and 600.</p>
+
+<p>For a negative value here something like <code class="highlighter-rouge">right: random(200) - 100 + px;</code> will move right along a range of -100 to 100 pixels.</p>
+
+<p>The animation value below will move a dot along the x axis to a random point up to <code class="highlighter-rouge">1100px</code>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>transform: translateX(random(1100) + px)
+</code></pre></div></div>
+
+<p><em>I also relied heavily on <code class="highlighter-rouge">random()</code> to <a href="http://codepen.io/jonitrythall/pen/QdKZBz">replicate the new Ela Conf pattern</a> recently</em>.</p>
+
+<h4 id="for"><code class="highlighter-rouge">@for</code></h4>
+<p>The <code class="highlighter-rouge">@for</code> directive allows for each of the 150 dots to be looped through, applying the randomly set styling to each one.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$num: 150;
+@for $i from 1 through $num {
+  .dot:nth-of-type(#{$i}) {
+      // Where are the declarations live
+  }
+}
+</code></pre></div></div>
+
+<p>The <code class="highlighter-rouge">$i</code> variable serves as an incremental placeholder for 1 through 150, the counter.</p>
+
+<h4 id="if"><code class="highlighter-rouge">@if</code></h4>
+<p>The <code class="highlighter-rouge">@if</code> control directive is handy in specifying that half of the dots should have an animation delay, otherwise they all move at once and it’s much less exciting.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$num: 150;
+$some: random($num);
+@if $some &gt; ($num / 2) {
+  animation-delay: random(3000) + ms;
+}
+</code></pre></div></div>
+
+<p>The <code class="highlighter-rouge">$num</code> variable simply reflects the number of dots that are being generated via HTML and <code class="highlighter-rouge">$some</code> houses a random number from this number (1-150 dots). <strong>If</strong> the random number is greater than 75 (<code class="highlighter-rouge">$num / 2</code>) then the <code class="highlighter-rouge">animation-delay</code> will be applied. Writing it this way permits the continued ability to experiment with these values.</p>
+
+<h3 id="unite-nth-loader">Unite <code class="highlighter-rouge">nth()</code> Loader</h3>
+
+<p data-height="300" data-theme-id="11708" data-slug-hash="JEJxGO" data-default-tab="result" data-user="jonitrythall" data-embed-version="2" data-pen-title="Unite Loader " class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/JEJxGO/">Unite Loader </a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>There are five squares in this demo that visually transition into a single dot. The <code class="highlighter-rouge">nth()</code> list function is used to select certain colors within the <code class="highlighter-rouge">$colors</code> list to apply to each object.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>nth($list, $n)
+</code></pre></div></div>
+
+<p><code class="highlighter-rouge">nth()</code> accepts two parameters: the name of the list and the index of the item within that list.</p>
+
+<p>Here is a look at the code to apply the third color to the third object:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// List of colors
+$colors: #ADD3C9, #EA758C, #FBFBFB, #26356E, #721840;
+
+// Color assignment
+.dot:nth-child(3) {
+    background: nth($colors, 3);
+}
+</code></pre></div></div>
+
+<p>The color of the third <code class="highlighter-rouge">.dot</code> becomes <code class="highlighter-rouge">#FBFBFB</code>, the third color in the list.</p>
+
+<p>Through a series of five slightly different animations the dots are moved to the center with appropriate <code class="highlighter-rouge">translateX</code> and <code class="highlighter-rouge">translateY</code> values.</p>
+
+<h3 id="color-mix-bubbles">Color <code class="highlighter-rouge">mix()</code> Bubbles</h3>
+<p>This demo randomly positions and moves bubbles through <code class="highlighter-rouge">@for</code> loops and <code class="highlighter-rouge">random()</code>, as seen in the confetti demo. However, it also utilizes a Sass color function when generating a background color (<code class="highlighter-rouge">mix()</code>).</p>
+
+<h4 id="mix-color-function"><code class="highlighter-rouge">mix()</code> Color Function</h4>
+
+<p data-height="300" data-theme-id="11708" data-slug-hash="OWjLGV" data-default-tab="result" data-user="jonitrythall" data-embed-version="2" data-pen-title="Color mix() Bubbles" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/OWjLGV/">Color mix() Bubbles</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>The <code class="highlighter-rouge">mix()</code> function <a href="http://sass-lang.com/documentation/Sass/Script/Functions.html#mix-instance_method">allows two colors to be mixed</a> to generate a third output color by accepting three parameters:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mix($color1, $color2, [$weight])
+</code></pre></div></div>
+
+<p>Two colors are accepted while setting a percentage based weight defines how much of the first color should be included within the returned generated color. A <code class="highlighter-rouge">weight</code> value of <code class="highlighter-rouge">80%</code> here would mean that <code class="highlighter-rouge">80%</code> of the first color and <code class="highlighter-rouge">20%</code> of the second color are used.</p>
+
+<p>In order to randomly mix the colors, and not include single hex values as shown in the snippet above, <code class="highlighter-rouge">mix()</code> and <code class="highlighter-rouge">random()</code> must both be utilized.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// List of colors    
+$colors: #A32D70, #6E32A0, #DBD3D9, #D64369, #7A7DE0;
+
+// Background of bubbles
+background: mix(nth($colors, random(length($colors))), nth($colors, random(length($colors))), 60%);
+</code></pre></div></div>
+
+<p>The code above mixes one random color within another random color, both or which are determined from the list of colors within the <code class="highlighter-rouge">$colors</code> variable. The percentage value states that the generated color will consist of <code class="highlighter-rouge">60%</code> of the first random color that is selected.</p>
+
+<h4 id="desaturate-color-function"><code class="highlighter-rouge">desaturate()</code> Color Function</h4>
+<p>At the <code class="highlighter-rouge">50%</code> moment within the <code class="highlighter-rouge">@keyframes</code> animation the background is set to change to desaturated version of another random color.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>50% {
+  background: desaturate(nth($colors, random(length($colors))), 50%);
+}
+</code></pre></div></div>
+
+<p>The <code class="highlighter-rouge">desaturate()</code> function decreases the saturation of the bubbles, making them transition into a paler appearance through the <code class="highlighter-rouge">float</code> animation.</p>
+
+<p><em>There are loads more of these beautiful <a href="http://sass-lang.com/documentation/Sass/Script/Functions.html">color functions</a> worth checking out</em>.</p>
+
+<h3 id="loopy-line-loader">Loopy Line Loader</h3>
+
+<p data-height="300" data-theme-id="11708" data-slug-hash="ffacffea62e68c18a603ae1699f32641" data-default-tab="result" data-user="jonitrythall" data-embed-version="2" data-pen-title="Loopy Lines Loader" class="codepen">See the Pen <a href="http://codepen.io/jonitrythall/pen/ffacffea62e68c18a603ae1699f32641/">Loopy Lines Loader</a> by Joni Trythall  (<a href="http://codepen.io/jonitrythall">@jonitrythall</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>This demo utilizes the <code class="highlighter-rouge">@for</code> directive to loop through all fifteen lines and individually apply styling and an animation to each. The <code class="highlighter-rouge">background</code> color is set to cycle through a list of colors in the <code class="highlighter-rouge">$colors</code> variable via an <code class="highlighter-rouge">@if</code> control directive, adding 1 to the list index each cycle of the loop.</p>
+
+<p>The <code class="highlighter-rouge">@keyframes</code> multiplies movement to the right on each line count to ensure even spacing:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@for $i from 1 through 15 {
+  .line:nth-of-type(#{$i}) {
+    animation: stack#{$i} $dur;
+  }
+
+  @keyframes stack#{$i} {
+    50% {
+      transform: translateX(-($right * $i)) $turn;     
+    }
+  }
+}
+</code></pre></div></div>
+
+<h3 id="end">End</h3>
+<p>There is so much fun programming to be had without ever having to leave a <code class="highlighter-rouge">.scss</code> file. Since I find rage to be the most significant motivator I suspect I will be publishing more of these soon if you’d like to <a href="http://codepen.io/jonitrythall/">follow along</a>.</p>
+
+<p><em>I considered writing out a weird <code class="highlighter-rouge">@each</code> directive here to thank each of you for reading but am embarrassed I even considered this.</em></p>
+
+
+	</div>
+
+</section>
+
+		</div>
+
+	</div>
+
+
+	<footer class="footer">
+
+	<ul class="socials">
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://twitter.com/JoniTrythall" target="_blank" class="socials__item__link" title="Twitter">
+			<i class="fab fa-twitter" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://dribbble.com/jonibologna" target="_blank" class="socials__item__link" title="Dribbble">
+			<i class="fab fa-dribbble" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://github.com/jonitrythall" target="_blank" class="socials__item__link" title="Github">
+			<i class="fab fa-github" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.linkedin.com/in/jonitrythall/" target="_blank" class="socials__item__link" title="Linkedin">
+			<i class="fab fa-linkedin" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://codepen.io/jonitrythall/" target="_blank" class="socials__item__link" title="Codepen">
+			<i class="fab fa-codepen" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+</ul>
+
+	<div class="footer__copyright">
+		<span>© 2020 Joni Trythall</span>
+		<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+	</div>
+
+</footer>
+
+
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/plugins-min.js"></script>
+	<script src="/js/simples-min.js"></script>
+
+	
+	<!-- Extra Footer JS Code -->
+	
+	
+
+
+</body>
+
+</html>

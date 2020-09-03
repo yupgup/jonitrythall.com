@@ -5,7 +5,7 @@ date: '2016-10-17 17:56:06'
 
 # Legacy
 redirect_from:
-    /thoughts-on-smartphone-emergency-access/
+    /blog/blog/thoughts-on-smartphone-emergency-access/
 ---
 
 ![Assortment of emergency related icons](/content/2016/10/Screen-Shot-2016-10-16-at-10-15-43-PM.png)

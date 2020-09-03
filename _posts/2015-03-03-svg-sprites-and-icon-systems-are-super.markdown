@@ -5,7 +5,7 @@ date: '2015-03-03 16:06:54'
 
 # Legacy
 redirect_from:
-    /svg-sprites-and-icon-systems-are-super/
+    /blog/blog/svg-sprites-and-icon-systems-are-super/
 ---
 
 ![Screenshot of icon sprite demo](/content/2015/Feb/Screen-Shot-2015-02-25-at-10-55-57-AM.png)

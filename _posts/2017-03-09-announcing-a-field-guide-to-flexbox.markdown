@@ -5,7 +5,7 @@ date: '2017-03-09 14:36:44'
 
 # Legacy
 redirect_from:
-    /announcing-a-field-guide-to-flexbox/
+    /blog/blog/announcing-a-field-guide-to-flexbox/
 ---
 
 I created a weird resource a couple years ago that continues to be my most popular creation to date, a [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/); I still use this often myself. I’ve been asked several times if there is a printed version of this and recently decided to revamp the project and make it happen: *A Field Guide to Flexbox*.

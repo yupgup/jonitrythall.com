@@ -5,7 +5,7 @@ date: '2017-04-24 13:46:35'
 
 # Legacy
 redirect_from:
-    /spring-into-css-grid/
+    /blog/blog/spring-into-css-grid/
 ---
 
 CSS Grid has been getting a lot of attention recently and I finally dedicated time this past weekend to sit down and get a basic understanding of how it works. It was an emotional rollercoaster of an experience (seriously, this is life changing stuff) but I was able put together some notes while creating my demo and wanted to share.

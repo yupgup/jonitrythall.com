@@ -5,10 +5,10 @@ date: '2014-09-26 15:52:39'
 
 # Legacy
 redirect_from:
-    /flexbox-cheatsheet/
+    /blog/blog/flexbox-cheatsheet/
 ---
 
-**If you enjoy this weird little reference you may also be interested in the updated, revamped PDF version: [A Field Guide to Flexbox](https://gum.co/UVuuf)**.
+**Grab the updated, PDF book version here for free: [A Field Guide to Flexbox](https://jonibologna.com/assets/flexboxfieldguide.pdf)**.
 
 While I am no stranger to the magic of [Flexbox](http://www.w3.org/TR/css3-flexbox/), I find that I am not using it very often just yet. As a result I end up pausing and referring back to [this post at CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) whenever an opportunity to utilize its powers presents itself.
 

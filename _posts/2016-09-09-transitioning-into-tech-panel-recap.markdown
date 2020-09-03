@@ -5,7 +5,7 @@ date: '2016-09-09 13:33:31'
 
 # Legacy
 redirect_from:
-    /transitioning-into-tech-panel-recap/
+    /blog/blog/transitioning-into-tech-panel-recap/
 ---
 
 ![Joni Trythall on a GDI Panel](/content/2016/09/panel_1.jpg)

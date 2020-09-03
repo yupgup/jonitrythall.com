@@ -6,7 +6,7 @@ date: '2018-11-20 13:43:24'
 
 # Legacy
 redirect_from:
-    /retiring-ela-conf/
+    /blog/blog/retiring-ela-conf/
 ---
 
 The time has officially come to move on from a project that spanned nearly four years of my life. We published [an open letter about Ela Conf’s retirement here](https://medium.com/@elaconf/elas-retirement-an-open-letter-6125321b4602), but there are also some things I wanted to say on a more personal level. 

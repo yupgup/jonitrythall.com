@@ -5,7 +5,7 @@ date: '2017-01-26 15:07:48'
 
 # Legacy
 redirect_from:
-    /sass-function-demos/
+    /blog/blog/sass-function-demos/
 ---
 
 ![Preview of three Sass demos](/content/2017/01/preview.png)

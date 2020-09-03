@@ -2,6 +2,10 @@
 layout: post
 title: Oh, Hi!
 date: '2012-12-23 22:21:36'
+published: false
+
+redirect_from:
+    /blog/oh-hi/
 ---
 
 My first post. It is already more fun than I imagined it would be. It has been a very exciting last couple months diving into the incredibly intimidating and fancy pants worlds of graphic design, Illustrator, Photoshop, typography, illustration, etc, etc, etc. I have always been creative and used drawing and painting as a way of getting ideas out of my head to avoid implosion, but literally went into this knowing nothing about the tools or the formal rules of design. I went to school. For a very. Long. Time. I decided almost right away that I did not want to take that route again. Aside from having the school debt load of a lawyer with a Ph.D., I felt like this is a field that should embrace the Internets for all it's worth. SO I sat down to create a personal course schedule which I will most definitely be breaking down in a later post. Structure and time management are the only way I make it through the day to day; an impromptu bagel for breakfast instead of the usual oatmeal? *<em>Shutters</em>*. Not for me.

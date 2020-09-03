@@ -5,7 +5,7 @@ date: '2016-03-08 14:47:49'
 
 # Legacy
 redirect_from:
-    /a-style-guide-component-playground/
+    /blog/blog/a-style-guide-component-playground/
 ---
 
 ![Component playground illustration](/content/2016/Mar/Screen-Shot-2016-03-07-at-9-34-02-PM.png)

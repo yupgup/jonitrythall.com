@@ -5,7 +5,7 @@ date: '2014-12-02 12:55:28'
 
 # Legacy
 redirect_from:
-    /an-apple-a-day/
+    /blog/blog/an-apple-a-day/
 ---
 
 ...keeps the dev blues away? I don't know, I just like illustrated fruit.

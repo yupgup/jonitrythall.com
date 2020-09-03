@@ -5,7 +5,7 @@ date: '2014-12-30 14:16:10'
 
 # Legacy
 redirect_from:
-    /learning-to-pace-learning/
+    /blog/blog/learning-to-pace-learning/
 ---
 
 As with all my life lessons, I had to learn how to pace design and development studies the hard way.

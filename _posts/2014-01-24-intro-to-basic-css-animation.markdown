@@ -2,9 +2,10 @@
 layout: post
 title: Intro To Basic CSS Animation
 date: '2014-01-24 12:15:51'
+published: false
 
 redirect_from:
-    /intro-to-basic-css-animation/
+    /blog/intro-to-basic-css-animation/
 ---
 
 As if CSS wasn't amazing and mysterious (at least to me) enough already, I find out that you can <em>move</em> things with it. I got chills just typing this.

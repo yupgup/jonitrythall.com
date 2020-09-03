@@ -2,6 +2,10 @@
 layout: post
 title: The Bologna Curriculum
 date: '2012-12-29 09:18:49'
+published: false
+
+redirect_from:
+    /blog/the-bologna-curriculum/
 ---
 
 I have been studying graphic design for about a month and a half now. I have no idea where a regular student would be in terms of their skill development by this point, but it would be about half a semesters worth of structured knowledge (or structured knowledge avoidance, I know that game). My great hesitation in becoming a "self-taught" anything is the perceived lack of structure that comes along with the absence of hard deadlines, a set class time, and homework that MUST get done. While I understand this is not the case for everyone, I am a creature that is obsessed with structure and schedules. I am convinced I sought out a masters degree solely due to all the rules involved. Developing a "curriculum", of sorts, that I must follow (disappointment is the only consequence here, which really is the worst consequence of all!) has been a challenge.

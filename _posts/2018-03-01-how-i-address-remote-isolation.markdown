@@ -5,7 +5,7 @@ date: '2018-03-01 19:54:41'
 
 # Legacy
 redirect_from:
-    /how-i-address-remote-isolation/
+    /blog/blog/how-i-address-remote-isolation/
 ---
 
 A couple weeks ago I was writing a post about the *need* for flexible, remote work. As I was typing away it quickly and organically started to focus on tips for combating loneliness and I decided this topic was a priority and worthy of its own separate, personal post.  

@@ -5,7 +5,7 @@ date: '2014-04-07 15:59:21'
 
 # Legacy
 redirect_from:
-    /toggle-activated-css-animations/
+    /blog/blog/toggle-activated-css-animations/
 ---
 
 I created two demos to show how animations can be activated via switch. One demo animates an "Airplane Mode" experience and the other contains a series of street lamps that will turn on. So let's take a look.

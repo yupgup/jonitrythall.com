@@ -5,7 +5,7 @@ date: '2014-03-05 19:10:46'
 
 # Legacy
 redirect_from:
-    /basic-css-animations/
+    /blog/blog/basic-css-animations/
 ---
 
 ![alt](/content/2014/Mar/J_Trythall_s_Franklin_.png)

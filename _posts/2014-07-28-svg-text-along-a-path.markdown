@@ -5,7 +5,7 @@ date: '2014-07-28 14:47:43'
 
 # Legacy
 redirect_from:
-    /svg-text-along-a-path/
+    /blog/blog/svg-text-along-a-path/
 ---
 
 **IMPORTANT NOTE: Since this post was published SMIL animations have been deprecated and the animated demo will no longer work. I decided to leave it up though as the text along a path bit is still relevant.**

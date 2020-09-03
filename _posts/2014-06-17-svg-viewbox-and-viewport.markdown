@@ -5,7 +5,7 @@ date: '2014-06-17 17:01:22'
 
 # Legacy
 redirect_from:
-    /svg-viewbox-and-viewport/
+    /blog/blog/svg-viewbox-and-viewport/
 ---
 
 In using the `<svg>` element we are establishing a fragment consisting of nested details in our document. This fragment has its own viewport and coordinate system which can seem very complex and intimidating when first getting started.

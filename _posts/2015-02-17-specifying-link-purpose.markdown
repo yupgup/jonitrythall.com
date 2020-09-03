@@ -5,7 +5,7 @@ date: '2015-02-17 18:15:56'
 
 # Legacy
 redirect_from:
-    /specifying-link-purpose/
+    /blog/blog/specifying-link-purpose/
 ---
 
 ![Screenshot of demo showing three different links with the same text but representing different things.](/content/2015/Feb/Screen-Shot-2015-02-17-at-12-08-12-PM.png)

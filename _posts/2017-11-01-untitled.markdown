@@ -5,7 +5,7 @@ date: '2017-11-01 16:41:39'
 
 # Legacy
 redirect_from:
-    /untitled/
+    /blog/blog/untitled/
 ---
 
 Ela Conf 2017, our third, came and went this past weekend and I can honestly say this was our best one yet; take a look at the [#elaconf hashtag](https://twitter.com/search?vertical=default&q=%23elaconf&src=typd) to see for yourself.  

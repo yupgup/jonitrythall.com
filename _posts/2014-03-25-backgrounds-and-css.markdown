@@ -5,7 +5,7 @@ date: '2014-03-25 22:24:53'
 
 # Legacy
 redirect_from:
-    /backgrounds-and-css/
+    /blog/blog/backgrounds-and-css/
 ---
 
 I recently had to use multiple CSS animation delays and wanted to create a quick demo to, you know, demonstrate.

@@ -5,7 +5,7 @@ date: '2014-03-05 19:58:17'
 
 # Legacy
 redirect_from:
-    /animated-twitter-button/
+    /blog/blog/animated-twitter-button/
 ---
 
 For the most part, social media buttons and color change on hover go hand in hand. This gets the job done, but the possibilities with these things are literally endless. For this demo we will get pretty scandalous and push CSS beyond a basic color change for a Twitter button. Let's take a look at the animation involved with a hinged button effect.

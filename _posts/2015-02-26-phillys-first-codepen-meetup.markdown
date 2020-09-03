@@ -5,7 +5,7 @@ date: '2015-02-26 16:37:21'
 
 # Legacy
 redirect_from:
-    /phillys-first-codepen-meetup/
+    /blog/blog/phillys-first-codepen-meetup/
 ---
 
 ![Photo of Philly CodePen Meetup](https://s3-us-west-2.amazonaws.com/s.cdpn.io/80625/meetup1.png)

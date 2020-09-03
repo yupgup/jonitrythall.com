@@ -2,9 +2,10 @@
 layout: post
 title: The Three Columns Dilemma
 date: '2014-01-16 15:07:15'
+published: false
 
 redirect_from:
-    /the-three-columns-dilemma/
+    /blog/the-three-columns-dilemma/
 ---
 
 Today I set out to replicate <a href="http://codepen.io/bradfrost/full/zhCwd" target="_blank">this</a> three column gem from Brad Frost using CSS.

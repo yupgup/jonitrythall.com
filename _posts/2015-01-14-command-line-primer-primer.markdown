@@ -5,7 +5,7 @@ date: '2015-01-14 14:24:38'
 
 # Legacy
 redirect_from:
-    /command-line-primer-primer/
+    /blog/blog/command-line-primer-primer/
 ---
 
 ![Illustrated helm behind a terminal screen.](/content/2015/Jan/Screen-Shot-2015-01-12-at-1-52-47-PM.png)

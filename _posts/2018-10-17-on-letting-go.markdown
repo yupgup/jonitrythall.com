@@ -6,7 +6,7 @@ date: '2018-10-17 13:02:38'
 
 # Legacy
 redirect_from:
-    /on-letting-go/
+    /blog/blog/on-letting-go/
 ---
 
 Since most of my work posts have and will continue to be on the YupGup blog, I’ve decided to claim this space for myself—sans design talk. It’s exciting and refreshing just to think about.

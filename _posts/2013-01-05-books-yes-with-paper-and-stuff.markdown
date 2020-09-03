@@ -2,6 +2,10 @@
 layout: post
 title: Books! Yes, With Paper And Stuff
 date: '2013-01-05 09:24:00'
+published: false
+
+redirect_from:
+    /blog/books-yes-with-paper-and-stuff/
 ---
 
 I wanted to use this post to introduce some the the specific resources I have found particularly helpful over the last couple months. It has proven fairly difficult to find resources for<em> true</em> beginners.  By this I mean things like: "What is a vector?" Yes, real deal beginner stuff. Most tutorials and books assume a certain degree of knowledge that I just simply didn't have. I feel like the assumption is that if you know <em>nothing</em> about this, what are you doing here? Get out! I feel like the only thing I had (have) going for me was a certain level of natural, driving creativity and general design sense. I would be the first person I know to want (<em>need</em>) to draw and see a bird wearing gym socks, that sort of thing.

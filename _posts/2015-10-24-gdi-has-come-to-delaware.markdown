@@ -5,7 +5,7 @@ date: '2015-10-24 13:02:15'
 
 # Legacy
 redirect_from:
-    /gdi-has-come-to-delaware/
+    /blog/blog/gdi-has-come-to-delaware/
 ---
 
 Girl Develop It has [officially come to Wilmington, DE](https://www.girldevelopit.com/chapters/wilmington). 

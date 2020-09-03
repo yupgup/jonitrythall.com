@@ -5,7 +5,7 @@ date: '2015-06-01 13:39:25'
 
 # Legacy
 redirect_from:
-    /designing-web-tutorials-for-kids/
+    /blog/blog/designing-web-tutorials-for-kids/
 ---
 
 For the last couple months I've been developing a kid's web design tutorial series for **Tuts+**, **[Tuts+ Town](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)**. There are eleven tutorials total and a couple of them were published recently and will continue to throughout June.

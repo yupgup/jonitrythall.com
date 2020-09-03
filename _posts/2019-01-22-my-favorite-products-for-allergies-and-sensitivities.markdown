@@ -6,7 +6,7 @@ date: '2019-01-22 00:14:17'
 
 # Legacy
 redirect_from:
-    /my-favorite-products-for-allergies-and-sensitivities/
+    /blog/blog/my-favorite-products-for-allergies-and-sensitivities/
 ---
 
 Due to loads of health issues in the house, including asthma, allergies, eczema, and just wildly sensitive skin and sinuses I have spent the past seven years searching for the safest skin, hair, and cleaning products.  

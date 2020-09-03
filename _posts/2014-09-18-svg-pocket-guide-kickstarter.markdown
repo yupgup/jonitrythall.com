@@ -5,7 +5,7 @@ date: '2014-09-18 15:52:30'
 
 # Legacy
 redirect_from:
-    /svg-pocket-guide-kickstarter/
+    /blog/blog/svg-pocket-guide-kickstarter/
 ---
 
 My very [first Kickstarter](https://www.kickstarter.com/projects/1207904509/pocket-guide-to-writing-svg) project recently wrapped up and I seem to get a lot of questions on the experience, so I thought I should write a post and share the joys and terrors of it all, as there were several of each.

@@ -9,7 +9,7 @@ tags:
 
 # Legacy
 redirect_from:
-    /animations-media-queries-a-box-party/
+    /blog/blog/animations-media-queries-a-box-party/
 ---
 
 I recently learned <a href="http://jonibologna.com/2014/01/media-queries-intro/" target="_blank">about media queries</a>. I recently learned <a href="http://jonibologna.com/2014/01/intro-to-basic-css-animation/" target="_blank">about CSS animation</a>. This week I combined the two and it was beautiful, exciting, emotional, and dangerous.

@@ -2,9 +2,11 @@
 layout: post
 title: Using Text In SVG As Outlines
 date: '2014-01-23 09:32:41'
+published: false
+
 
 redirect_from:
-    /using-text-in-svg-as-outlines/
+    /blog/using-text-in-svg-as-outlines/
 ---
 
 I started building a full site this week and was instantly confronted with the fact that I do not have a handle on using SVG on the web. This was made apparent when I tried to add a text based SVG image into my site without first converting the text to outlines. Curses!

@@ -2,9 +2,10 @@
 layout: post
 title: Getting Sassy
 date: '2014-01-17 14:03:43'
+published: false
 
 redirect_from:
-    /getting-sassy/
+    /blog/getting-sassy/
 ---
 
 Today is the day. <a href="http://www.webdesignerdepot.com/2013/11/the-beginners-guide-to-sass/" target="_blank">Intro</a> to <a href="http://sass-lang.com/guide" target="_blank">Sass</a>.

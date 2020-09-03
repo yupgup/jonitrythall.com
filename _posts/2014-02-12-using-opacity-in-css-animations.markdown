@@ -5,7 +5,7 @@ date: '2014-02-12 14:02:36'
 
 # Legacy
 redirect_from:
-    /using-opacity-in-css-animations/
+    /blog/blog/using-opacity-in-css-animations/
 ---
 
 When I have a free minute I sit and create CSS creatures. This often (too often perhaps) leads to excitement and the inevitable desire to make the creature do things. To move.

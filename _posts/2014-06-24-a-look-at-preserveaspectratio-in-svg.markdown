@@ -5,7 +5,7 @@ date: '2014-06-24 16:38:33'
 
 # Legacy
 redirect_from:
-    /a-look-at-preserveaspectratio-in-svg/
+    /blog/blog/a-look-at-preserveaspectratio-in-svg/
 ---
 
 I recently wrote a post on [understanding SVG viewport and viewBox](http://jonibologna.com/svg-viewbox-and-viewport/) and figured this would be the perfect follow-up topic to quickly dig a little deeper.

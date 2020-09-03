@@ -2,9 +2,10 @@
 layout: post
 title: Grids & Flexbox Magic
 date: '2014-01-31 20:11:00'
+published: false
 
 redirect_from:
-    /grids-flexbox-magic/
+    /blog/grids-flexbox-magic/
 ---
 
 Grids. I have been putting off grid systems for a while now. Because I am a glutton for punishment and like to do things the hard way I guess. I also often get distracted coloring. Well, today is finally the day. I will color tomorrow.
