@@ -1,0 +1,19 @@
+---
+layout: post
+title: Media Queries Intro
+date: '2014-01-01 12:15:25'
+---
+
+My mind gets blown away regularly while I am studying code. Diving into <a href="http://www.htmlgoodies.com/beyond/css/introduction-to-css-media-queries.html" target="_blank">media queries</a> was no exception.
+
+I began this journey by making a <a href="http://cdpn.io/FcHuL" target="_blank">simple user card</a> on CodePen. For this exercise I had to read up on CSS box shadows and found <a href="http://css-tricks.com/snippets/css/css-box-shadow/" target="_blank">this</a> article by Chris Coyier (surprise, surprise) to be very helpful. Here is a little peek at the magic that happened: <a href="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-9.31.13-AM.png"><img class="aligncenter size-full wp-image-556" alt="Screen Shot 2014-01-01 at 9.31.13 AM" src="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-9.31.13-AM.png" width="327" height="517" /></a>I created the card with a <a href="http://www.copyblogger.com/mobile-first/" target="_blank">mobile first</a> approach, with the intention of addressing the full screen appearance later with media queries in CSS. Fun. Now getting back to media queries. I totally understand why this is just a crucial and amazing ability with the use of tablets, smartphones, etc., but I felt overwhelmed before I even began learning about it. I mean, surely this must be a difficult undertaking and occupy several chapters of any CSS book? My aging brain physically hurt at the thought. However, just a few paragraphs into <a href="http://www.htmlgoodies.com/beyond/css/introduction-to-css-media-queries.html" target="_blank">this</a> article I realized I was wrong and could relax a bit. This little miracle is achieved with just a few lines of code in your stylesheet.
+
+It can all be achieved by adding a block of CSS code in the same stylesheet. <a href="http://css-tricks.com/snippets/css/media-queries-for-standard-devices/" target="_blank">Here</a> is a useful article displaying media query dimensions for standard devices via <a href="http://css-tricks.com/" target="_blank">CSS Tricks</a>.
+
+An excerpt from HTMLGOODIES on mobile use that I found to be a helpful visual aid:<a href="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.18.12-AM.png"><img class="aligncenter size-full wp-image-561" alt="Screen Shot 2014-01-01 at 10.18.12 AM" src="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.18.12-AM.png" width="531" height="249" /></a>
+
+Here is the CSS code and altered card once applying media queries for desktops:<a href="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.54.17-AM.png"><img class="aligncenter size-full wp-image-564" alt="Screen Shot 2014-01-01 at 10.54.17 AM" src="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.54.17-AM.png" width="306" height="318" /></a><a href="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.54.24-AM.png"><img class="aligncenter size-large wp-image-565" alt="Screen Shot 2014-01-01 at 10.54.24 AM" src="http://jonibologna.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-01-at-10.54.24-AM-1024x163.png" width="625" height="99" /></a>You can test it out simply by dragging your browser window in and out. Again, <a href="http://cdpn.io/FcHuL" target="_blank">here</a> is the full example.
+
+For further investigating, <a href="http://teamtreehouse.com/" target="_blank">Treehouse</a> also offers a <a href="http://teamtreehouse.com/library/media-queries" target="_blank">media queries section</a> for those signed up with them. And of course Chris Coyier masters <a href="http://css-tricks.com/css-media-queries/" target="_blank">the subject</a> as well.
+
+Happy media queries-ing!

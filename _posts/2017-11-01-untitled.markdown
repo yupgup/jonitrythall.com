@@ -1,0 +1,41 @@
+---
+layout: post
+title: Untitled
+date: '2017-11-01 16:41:39'
+
+# Legacy
+redirect_from:
+    /untitled/
+---
+
+Ela Conf 2017, our third, came and went this past weekend and I can honestly say this was our best one yet; take a look at the [#elaconf hashtag](https://twitter.com/search?vertical=default&q=%23elaconf&src=typd) to see for yourself.  
+
+We are still tallying up all the numbers and percentages but I do know that we *more than doubled* our sponsor amount this year. We had 200 speaker applications, have nearly 500 Slack members and around 175 attendees, selling out six weeks before the event.
+
+The talk topics have matured so much and our [speaker lineup](http://elaconf.com/#speakers) was truly incredible. While I would struggle to choose a favorite I will say that the words of our keynote, [Zalyndria Crosby](http://elaconf.com/2017/speakers/zalyndria-crosby/), have stuck with me the most so far. I’m very grateful for and touched by the personal story she shared with us, appreciating how much vulnerability that took on her part and honored she felt comfortable enough to give this talk at Ela Conf. There was also a [news article published recently](http://generocity.org/philly/2017/10/31/ela-conf-lessons-leadership-technology-women-trans/) that nicely summarizes several other talks.  
+
+We focused more on building a year-round, remote community this year and I feel that it significantly contributed to much of this success. We had more organic reach than ever, were sure to capture our work and successes through [transparent blog posts](https://medium.com/@elaconf) and on social media, and provided additional opportunities for members to learn from one another and grow together. We hosted several AMAs, Office-Hours, Lunch & Learns, and even a special event to cover the basics of writing talk proposals.   
+
+Ela remains the most impactful thing I have done in my career and is the thing I am most proud of. We get overwhelming praise and encouraging feedback. There are few things I enjoy more than watching all the first time blog posts get published after the event or hearing about a raise someone finally felt comfortable pursuing after receiving advice, support, and encouragement from the community.
+
+The best part of Ela for me, by far, has become my relationship with all my co-organizers. We have learned so much from one another and have bonded a great deal through all we have gone through together. They are my dream team in terms of colleagues but also close friends. There are no others humans on the planet I would rather spend time with each day and share personal and professional successes and failures with.
+
+The growing pains are undeniable. This conference and community has transformed into something much larger and more significant than we ever imagined. Following the conference this year we had to remove an individual from the community (a first for us) due to violations of our Code of Conduct.
+
+This wasn’t fun, to say the least, especially while desperately needing to be in post-conference recovery mode. Our CoC is the foundation of the community, the reason we are able to provide a safe space. This safe space is the very thing we get the most praise for and it was being threatened. These same protections apply to us organizers and we simply don’t budge when it comes to these promises.   
+
+We have given a lot of ourselves to make this community what it is today. Countless late nights over the past three years, countless hours away from our families, countless billable work hours lost, countless hours spent completely and utterly tired and stressed.
+
+With all this growth has come a great deal of personal pain; nothing is perfect, including Ela. We are sure to keep things as positive as possible within the Ela space, but on a personal level this third year was the most difficult in many ways. While we are used to speaking in the context of “we”, as we all share this workload equally, I also need to speak to my personal experiences this year.
+
+I am exhausted to my core. I have been stuck in bed for the past three days, sick from stress and overwork. This is not the first time this has happened in regards to Ela. I often say jokingly that I cry a lot during the year over preparing for this event and then am reminded of why it’s all so worth it in the moment. Well, I’m not joking when I say this and this year, for the first year, that reassurance has faltered. My anxiety is at an all time high and my physical health is worse than ever before. It would be an outright lie to say that Ela has not contributed to this.  
+
+While so much of the work done here is grounded in positivity I’ve also realized that it’s important for us as a larger tech community to take a hard look at how we treat the people consistently trying to help the most. **There is far too much hypocrisy in collectively acknowledging the importance of self-care but not allowing this same theme to extend to or apply to organizers**.
+
+*Please*, be more considerate regarding the responsibilities you put on an organizer, especially hours before a major event. If you have negative feedback try to present this privately first, acknowledging that you may be lacking essential context. If you sign on for a task but opt-out down the road recognize that this doesn’t make that task go away. If you feel a community’s mission isn’t for you try to remain respectful through understanding that is it, by contract, valued by others.
+
+I appreciate our speakers, those that have come forward with kind words, and am grateful for our sponsors that believe in what we are doing enough to give us the funds needed to make it possible. There are just simply times, however, when the *few* negative, unproductive remarks and actions overshadow the good and I just can’t help but feel tired and deflated.
+
+The only thing I know for sure as people already begin to ask about Ela Conf 2018 is that I will be taking the entire month of December 2017 off before I can think about it. Right now this is where my thoughts are. I may even delete this when I catch up on sleep, who knows, but damn was it therapeutic to write.
+
+To the Ela community: I cherish, respect, and appreciate all of you. While I was again deeply moved by the meaningfulness of this event I also recognize I need a bit of healing time right now and I will see you all soon.
