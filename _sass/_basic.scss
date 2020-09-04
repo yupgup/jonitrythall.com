@@ -1,3 +1,32 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3924092, 2020-07-09T16:21:19-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Bogue-Regular by Mika Melvas
+ * URL: https://www.myfonts.com/fonts/mika-melvas/bogue/regular/
+ * Copyright: Copyright © 2020 by Mika Melvas. All rights reserved.
+ *
+ *
+ *
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3be07c");
+
+@font-face {
+  font-family: 'Bogue-Regular';
+  src: url('fonts/bogue.woff2') format('woff2'), url('fonts/bogue.woff') format('woff');
+}
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+
 // - - - - - - - - - - - - - - - - - -
 
 // Basics
@@ -23,7 +52,6 @@ body {
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: $title-font;
 	color: $text-dark-color;
@@ -31,6 +59,10 @@ h1, h2, h3, h4, h5, h6 {
 	&:first-child {
 		margin-top: 0;
 	}
+}
+
+.header .header__title {
+	font-family: 'Bogue-Regular';
 }
 
 h1, .h1 {

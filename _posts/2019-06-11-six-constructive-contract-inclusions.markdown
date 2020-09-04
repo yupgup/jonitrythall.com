@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Constructive Contract Inclusions'
 ---
-Since starting YupGup nearly two years ago I’ve had a bit of a crash course in contract writing and negotiations. This experience has allowed me to see that any freelance contract I maintained prior to this was not especially thoughtful or airtight—oops 😑
+Since starting YupGup nearly two years ago I’ve had a bit of a crash course in contract writing and negotiations. This experience has allowed me to see that any freelance contract I maintained prior to this was not especially thoughtful or airtight—oops.
 
 While I’m certainly no expert in these I have learned a lot through trial and error, making these a not so dreadful task any longer. In fact, I mostly get endlessly excited about them now since it’s the kickoff point to a new project with new and fun people.
 

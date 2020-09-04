@@ -43,7 +43,7 @@ I’m passionate about transparent process, from initial sales outreach to a liv
 ---
 
 ## Around the Interwebs
-I get myself into too many things. Here’s a sampling:
+I get myself into too many weird things. Here’s a sampling:
 <ul>
   <li class="about-list-link"><a href="https://www.colorcovey.xyz/">Color Covey   <svg width="15" height="15" viewBox="0 0 21 22" fill="none">
         <path class="social-arrow" d="M2 19.3749L19 2.37488H7.50477" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -84,4 +84,4 @@ I get myself into too many things. Here’s a sampling:
 
 ---
 
-<p><a href="/contact" class="button button--large">View resume</a></p>
+<p><a href="/content/joni-resume.pdf" class="button button--large">View resume</a></p>
