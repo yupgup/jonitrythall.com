@@ -23,10 +23,10 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/xyynryqo'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  send_button_text: 'Send message'
 
 social_settings:
   facebook_url: ''
