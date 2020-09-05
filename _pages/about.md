@@ -19,7 +19,7 @@ I spend most of my days communicating with the best clients, [raising monarch bu
 ---
 Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these sides of these diverse projects has helped me better understand what it takes to get things launched, to get things funded, and how much I ultimately enjoy the client relationship and project management parts of it all more than anything.
 
-I’ve always been drawn to working for people and missions that strive to do some good in this world, proving to be genuinely empathetic to the struggles and injustices that exist. I have a master’s degree in Human Services Administration because I’ve known from a young age that I wanted to be able to assist or operate an organization that solely exists to help people. Having gotten my professional start as a grant writer, I currently focus on creating marketing sites for nonprofits and communities looking to raise awareness, funds, and involvement.    
+I’ve always been driven to work for people and missions that strive to do some good in this world, proving to be genuinely empathetic to the struggles and injustices that exist. I have a master’s degree in Human Services Administration because I’ve known from a young age that I wanted to be able to assist or operate an organization that solely exists to help people. Having gotten my professional start as a grant writer, I currently focus on creating marketing sites for nonprofits and communities looking to raise awareness, funds, and involvement.    
 
 <img src="/images/about/embrace-site.png">
 <div class="gallery" data-columns="2">
@@ -32,11 +32,9 @@ I’ve always been drawn to working for people and missions that strive to do so
 
 ---
 
-One of my greatest professional passions has always been around transparency in process. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
+One of my greatest professional passions is around transparency in process. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
 
 My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there for them and we are doing this work together. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
-
-<!--I’ve come to be a huge Notion fan. Each project gets a celebrated "Home Base" that brings a sense of calm clarity. I’ve found them to be the perfect solution to many classic project management issues that can arise around link sharing, status updates, most recent files, the sign off process, and nearly countless other hiccups that can leave people feeling flustered and underwater. For technical folks, I use GitHub or Jira for tracking tasks. At the end of the day though, there’s no replacement for our human-to-human calls and I go where the team is most comfortable existing.-->
 
 There’s nothing more rewarding to me than taking a process that seems larger than life and intimidating and making it not only manageable and possible but also enjoyable.
 
