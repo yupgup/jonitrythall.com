@@ -1,7 +1,7 @@
 ---
 title: About
-description:
-subtitle:
+description: A bit about Joni Trythall’s work and hobbies.
+subtitle: TEST
 featured_image: /images/social.jpg
 ---
 
