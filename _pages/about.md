@@ -90,4 +90,6 @@ I get myself into too many weird things. Here’s a sampling:
 
 ---
 
-<p><a href="content/joni-resume.pdf" class="button button--large">View resume</a></p>
+<p><a 
+  href="https://jonitrythall.com/content/joni-resume.pdf" 
+  class="button button--large">View resume</a></p>
