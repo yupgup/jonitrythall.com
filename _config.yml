@@ -1,6 +1,6 @@
 site: Joni Trythall’s Site
 
-url: https://www.jonitrythall.com
+url: https://jonitrythall.com
 baseurl:
 
 collections:
@@ -56,3 +56,5 @@ plugins:
 paginate: 6
 #paginate_path: "/blog/page:num/"
 paginate_path: "/page:num/"
+
+include: _redirects
