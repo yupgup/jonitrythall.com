@@ -34,7 +34,7 @@ I’m driven to work for people and missions that strive to do some good in this
 
 One of my greatest professional passions is around transparency in process. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
 
-My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there for them and we are doing this work together. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
+My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there, advocating for them. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
 
 There’s nothing more rewarding to me than taking a process that seems larger than life and intimidating and making it not only manageable and possible but also enjoyable.
 
@@ -90,6 +90,6 @@ I get myself into too many weird things. Here’s a sampling:
 
 ---
 
-<p><a 
-  href="https://jonitrythall.com/content/joni-resume.pdf" 
+<p><a
+  href="https://jonitrythall.com/content/joni-resume.pdf"
   class="button button--large">View resume</a></p>
