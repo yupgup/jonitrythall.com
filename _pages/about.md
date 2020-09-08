@@ -19,7 +19,7 @@ I spend most of my days communicating with the best clients, [raising monarch bu
 ---
 Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these sides of these diverse projects has helped me better understand what it takes to get things launched, to get things funded, and how much I ultimately enjoy the client relationship and project management parts of it all more than anything.
 
-I’m driven to work for people and missions that strive to do some good in this world, proving to be genuinely empathetic to the struggles and injustices that exist. I have a master’s degree in Human Services Administration because I’ve known from a young age that I wanted to be able to assist or operate an organization that solely exists to help people. Having gotten my professional start as a grant writer, I currently focus on creating marketing sites for nonprofits and communities looking to raise awareness, funds, and involvement.    
+I’m driven to work for people and missions that strive to do some good in this world, proving to be genuinely empathetic to the struggles and injustices that exist. I have a master’s degree in Human Services Administration because I’ve known from a young age that I wanted to be able to assist or operate an organization that solely exists to help people. Having gotten my professional start as a grant writer, I now largely focus on creating marketing sites for nonprofits and communities looking to raise awareness, funds, and involvement.    
 
 <img src="/images/about/embrace-site.png">
 <div class="gallery" data-columns="2">
@@ -36,7 +36,7 @@ One of my greatest professional passions is around transparency in process. From
 
 My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there, advocating for them. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
 
-There’s nothing more rewarding to me than taking a process that seems larger than life and intimidating and making it not only manageable and possible but also enjoyable.
+There’s nothing more rewarding to me than taking a task that seems larger than life and intimidating and making it not only manageable and possible but also enjoyable.
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/process.png">
