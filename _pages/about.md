@@ -47,16 +47,11 @@ There’s nothing more rewarding to me than taking a task that seems larger than
 </div>
 
 ---
-
+<!--
 ## Around the Interwebs
 I get myself into too many weird things. Here’s a sampling:
 <ul>
   <li class="about-list-link"><a href="https://www.colorcovey.xyz/">Color Covey   <svg width="15" height="15" viewBox="0 0 21 22" fill="none">
-        <path class="social-arrow" d="M2 19.3749L19 2.37488H7.50477" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-        <path class="social-arrow" d="M1.99989 19.375L18.9999 2.37498L18.9999 13.8702" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-        </svg></a>
-  </li>
-  <li class="about-list-link"><a href="https://www.notion.so/Breakfast-Letters-57b20a3390c54decbca06d3143257aa9">Breakfast Letters   <svg width="15" height="15" viewBox="0 0 21 22" fill="none">
         <path class="social-arrow" d="M2 19.3749L19 2.37488H7.50477" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
         <path class="social-arrow" d="M1.99989 19.375L18.9999 2.37498L18.9999 13.8702" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
         </svg></a>
@@ -88,7 +83,7 @@ I get myself into too many weird things. Here’s a sampling:
   </li>
 </ul>
 
----
+---  -->
 
 <p><a
   href="https://jonitrythall.com/content/joni-resume.pdf"
