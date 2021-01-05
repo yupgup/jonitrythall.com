@@ -6,7 +6,7 @@ featured_image:
 ---
 While I usually love end-of-year recap posts, in terms of both writing them and reading them, I couldn’t stomach it for 2020. I wasn’t in the right mindset to complain nor share things that went well. I wasn’t OK enough to read about the pain of others, or quite frankly, their triumphs.
 
-It’s easy to feel hopeless right now and I find myself slipping into a quicksand trap of despair almost daily. Recently though, Ben has started to express sadness and frustration, something we somehow avoided for these ten-ish months. He’s so much stronger than I am, which is why his faltering was a significant wake-up call for me. The things I told him in an attempt to be reassuring are the things I should also be telling myself. And whether or not I actually believe them I have to at least try to for his sake.
+It’s easy to feel hopeless right now and I find myself slipping into a quicksand trap of despair almost daily. Recently though, Ben has started to express more sadness and frustration, something we mostly somehow avoided for these ten-ish months. He’s so much stronger than I am, which is why his faltering was a significant wake-up call for me. The things I told him in an attempt to be reassuring are the things I should also be telling myself. And whether or not I actually believe them I have to at least try to for his sake.
 
 I don’t generally participate in New Year’s resolutions, and even still I feel like this post is simply about more hopefulness and awareness in specific areas. If you don’t have the capacity to read on I completely understand and please know you are not alone—I couldn’t have brought myself to write this yesterday and possibly not tomorrow.
 
