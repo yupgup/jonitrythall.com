@@ -5,7 +5,7 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 
-Joni Trythall here, nice to (virtually) meet you. I’m busy launching friendly and impactful marketing sites for small businesses and nonprofits. I’ve worked remotely for nearly a decade and am currently based at the top-top of Delaware.
+Joni Trythall here, nice to (virtually) meet you. I’m busy launching friendly and impactful marketing sites for startups and developers. I’ve worked remotely for nearly a decade and am currently based at the top-top of Delaware.
 
 I spend most of my days communicating with the best clients, [raising monarch butterflies](https://twitter.com/JoniTrythall/status/1291075100570202112) and a human child, and failing to keep [10-foot-tall sunflowers](https://twitter.com/JoniTrythall/status/1286776528651649025) upright.
 
@@ -17,9 +17,9 @@ I spend most of my days communicating with the best clients, [raising monarch bu
 </div>
 
 ---
-Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these sides of these diverse projects has helped me better understand what it takes to get things launched, to get things funded, and how much I ultimately enjoy the client relationship and project management parts of it all more than anything.
+Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these sides of these diverse projects has helped me better understand what it takes to get things launched, to get things funded, and how much I ultimately enjoy the client relationship and project management parts of it all more than anything.   
 
-I’m driven to work for people and missions that strive to do some good in this world, proving to be genuinely empathetic to the struggles and injustices that exist. I have a master’s degree in Human Services Administration because I’ve known from a young age that I wanted to be able to assist or operate an organization that solely exists to help people. Having gotten my professional start as a grant writer, I now largely focus on creating marketing sites for nonprofits and communities looking to raise awareness, funds, and involvement.    
+I’m driven to work with kind, passionate people that care about solving problems for others. 
 
 <img src="/images/about/embrace-site.png">
 <div class="gallery" data-columns="2">
