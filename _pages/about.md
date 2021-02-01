@@ -5,7 +5,7 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 
-Joni Trythall here, nice to (virtually) meet you. I’m busy launching friendly and impactful marketing sites for startups and developers. I’ve worked remotely for nearly a decade and am currently based at the top-top of Delaware.
+Joni Trythall here, nice to (virtually) meet you. I’m busy launching friendly and impactful marketing sites for startups and developers. I’ve worked remotely for nearly a decade and am currently based at the tip-top of Delaware.
 
 I spend most of my days communicating with the best clients, [raising monarch butterflies](https://twitter.com/JoniTrythall/status/1291075100570202112) and a human child, and failing to keep [10-foot-tall sunflowers](https://twitter.com/JoniTrythall/status/1286776528651649025) upright.
 
@@ -19,7 +19,7 @@ I spend most of my days communicating with the best clients, [raising monarch bu
 ---
 Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these sides of these diverse projects has helped me better understand what it takes to get things launched, to get things funded, and how much I ultimately enjoy the client relationship and project management parts of it all more than anything.   
 
-I’m driven to work with kind, passionate people that care about solving problems for others. 
+I’m driven to work with kind, passionate people that care about solving problems for others.
 
 <img src="/images/about/embrace-site.png">
 <div class="gallery" data-columns="2">
