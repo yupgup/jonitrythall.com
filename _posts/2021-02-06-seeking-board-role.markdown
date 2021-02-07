@@ -4,11 +4,11 @@ title: 'Looking to Contribute To a Nonprofit Board'
 description: 'I want to make friends and help a great mission with my design and marketing skills.'
 featured_image: '/content/2021/02/trythall-class.jpg'
 ---
-I’m looking for a nonprofit board to join and I figured a blog post could be a way to put this out into the world since I understand these are not always advertised roles. I’m eager to make things better, have varied experience which directly fits with common needs, and am very VERY enthusiastic about meetings and getting to know people. So, here it goes.
+I’m looking for a nonprofit board to join and I figured a blog post could be a way to put this out into the world–I understand these are not always advertised roles. I’m eager to make things better, have varied experience which directly fits with common organization needs, and am very VERY enthusiastic about meetings and getting to know people. So, here it goes.
 
 <hr />
 
-I’ve come to fully realize that I have an [Ela Conf](https://elaconf.github.io) sized hole in my heart. I miss contributing to such an essential mission and all the friendships along the way. Running Ela Conf was very time consuming, but it was also endlessly rewarding and fulfilling in a way I have not been able to replicate. I’ve been thinking through ways to participate and contribute to a community again while respecting the current set of limitations I have on my plate and believe being part of a board would be an ideal match.    
+I’ve come to fully realize that I have an [Ela Conf](https://elaconf.github.io) sized hole in my heart. I miss contributing to such an essential mission and all the friendships I made along the way. Running Ela Conf was a challenging labor of love that proved endlessly rewarding and fulfilling in a way I have not been able to replicate. I’ve been thinking through ways to participate and contribute to a community again while respecting the current set of limitations I have on my plate and believe being part of a board would be an ideal match.    
 
 ## My Background
 Ultimately, my professional goal has always been the same–to start and run a nonprofit organization. My first job out of college was in the development office at Job Corps in New York. I knew then that working towards a mission each day that improved lives and connecting with people along the way was what felt right and natural to me. It was where I belonged and the key to feeling energized about work. I went on to get a master’s degree in Nonprofit Administration from [Chestnut Hill College](https://www.chc.edu) in Philly, working for several nonprofits and a county government after this. I wrote grants and managed programs for a few years before moving into design.
@@ -33,7 +33,7 @@ I’d like to help out a nonprofit that is focus on one of the following:
 * Art programs
 * Accessible gardening programs for kids
 * Access to school supplies
-* Parks preservation and connecting kids with nature
+* Park preservation and connecting kids with nature
 * Education around native plants and pollinators
 
 ## Expertise–What I Can Do For You
@@ -50,4 +50,4 @@ As someone with professional experience as a writer and content strategist, conf
 ## How Can I Help? Let’s Chat
 If you are part of a nonprofit organization looking to round out board experience or know of one and would like to make a connection, please reach out. I’d be so thrilled to set up a video call to talk in detail about how I can contribute to your mission and see if this could be a good fit for all.
 
-[hello@jonitrythall.com](mailto:hello@jonitrythall.com)
+💌 [hello@jonitrythall.com](mailto:hello@jonitrythall.com)
