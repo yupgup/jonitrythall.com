@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Looking to Contribute To a Nonprofit Board'
-description: 'I want to make friends and help a great mission with my design and marketing skills.'
+description: 'I want to make friends and help a great kid-focused mission with my design, marketing, and project management skills.'
 featured_image: '/content/2021/02/trythall-class.jpg'
 ---
 I’m looking for a nonprofit board to join and I figured a blog post could be a way to put this out into the world–I understand these are not always advertised roles. I’m eager to make things better, have varied experience which directly fits with common organization needs, and am very VERY enthusiastic about meetings and getting to know people. So, here it goes.
