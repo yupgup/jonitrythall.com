@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Looking to Contribute To a Nonprofit Board'
+title: 'Looking to Contribute to a Nonprofit Board'
 description: 'I want to make friends and help a great kid-focused mission with my design, marketing, and project management skills.'
 featured_image: '/content/2021/02/trythall-class.jpg'
 ---
