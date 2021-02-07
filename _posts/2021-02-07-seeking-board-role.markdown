@@ -40,7 +40,7 @@ I’d like to help out a nonprofit that is focused on one of the following areas
 As someone with professional experience as a writer and content strategist, conference organizer, brand designer, web designer, marketing designer, and project manager, here are specific areas where I feel I can bring the most value:
 
 * Marketing strategy and execution; brainstorming marketing initiatives and bringing them to life, writing and editing marketing copy to maximize understanding and action, designing marketing collateral   
-* Branding design and messaging; creating or contributing to a cohesive and consistent visual identity, defining and documenting the organization’s voice and tone across all medium
+* Branding design and messaging; creating or contributing to a cohesive and consistent visual identity, defining and documenting the organization’s voice and tone across all mediums
 * Community building and fundraising; brainstorming new opportunities, carrying out and promoting events, assisting with grant design and writing, presentation design  
 * Web design; evaluating and improving upon an existing site, guiding process and design for new sites
 * Ensuring that the overall process for carrying out marketing campaigns is efficient and transparent
