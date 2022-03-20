@@ -5,9 +5,9 @@ description: 'I joined the CCArts board in Yorklyn, DE and could not be more exc
 featured_image: '/content/2022/03/ccarts.jpg'
 ---
 
-I joined the board of the [Center for the Creative Arts](https://www.ccarts.org) (CCArts) in nearby Yorklyn, Delaware last week and am completely thrilled.
+I joined the board of the [Center for the Creative Arts](https://www.ccarts.org) (CCArts) in nearby Yorklyn, Delaware last week and am completely thrilled. After attending a Yorklyn Days event several years ago I became familiar with the center. It’s located in an adorable old school building in one of my favorite parts of Delaware, surrounded by woods, trails, and old industrial buildings being taken over by nature.
 
-After attending a Yorklyn Days event several years ago I became familiar with the center. It’s located in an adorable old school building in one of my favorite parts of Delaware, surrounded by woods, trails, and old industrial buildings being taken over by nature. There’s a wildflower field there where Ben and I release monarchs and Tillie gets her hair cut at a cute little grooming shop behind what used to be [House Industries](https://houseind.com). I find that I go there quite often, each time noticing and thinking about the art center.    
+There’s a wildflower field there where Ben and I release monarchs and Tillie gets her hair cut at a cute little grooming shop behind what used to be [House Industries](https://houseind.com). I find that I go there quite often, each time noticing and thinking about the art center.    
 
 I signed Ben up for a weekend clay class which provided the opportunity to see the inside of the building and experience what their classes are like. It’s been something that he’s really gotten into and we’ve started to do it at home as well. We were impressed and signed him up for summer camps there as well. He’s always gotten a lot out of crafts and being openly creative–I’m thrilled to see what other new interests he develops there. He’s a shy kid and I believe art and art programs have really helped him get more comfortable in his own skin.
 
