@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joining the CCArts Board'
-description: 'I joined the CCArts board in Yorklyn, DE recently and could not be more excited to get to work with these inspiring folks on a mission to  inspire, transform, and enrich the lives of people of all ages and abilities through the arts.'
+description: 'I joined the CCArts board in Yorklyn, DE and could not be more excited to work with these inspiring folks on a mission to inspire, transform, and enrich the lives of people of all ages and abilities through the arts.'
 featured_image: '/content/2022/03/ccarts.jpg'
 ---
 
