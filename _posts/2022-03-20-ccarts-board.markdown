@@ -27,8 +27,6 @@ From drawing and painting, to pottery and clay classes, to live performances and
     <figcaption>Photos used with permission by CCArts</figcaption>
 </figure>
 
-![Images or CCArts art classes in session and live band](/content/2022/03/ccarts2.jpg)
-
 The executive director, Melissa Paolercio, and I met to discuss how I could help the center with a marketing and design skillset. I learned more about the programs, the building, and the people. The more I learned the more certain I was that I wanted to make the commitment involved with being on the board and I was voted in on March 16th–attending the first board meeting that same day.  
 
 <hr />
