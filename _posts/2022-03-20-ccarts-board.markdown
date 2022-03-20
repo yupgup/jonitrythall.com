@@ -21,6 +21,12 @@ The mission of inspiring, transforming, and enriching the lives of people of all
 
 From drawing and painting, to pottery and clay classes, to live performances and music lessons, to performance art and more, there’s simply so much to be energized about within the CCArts community.
 
+<figure>
+    <img src="/content/2022/03/ccarts2.jpg"
+         alt="Images or CCArts art classes in session and live band">
+    <figcaption>Photos used with permission by CCArts</figcaption>
+</figure>
+
 ![Images or CCArts art classes in session and live band](/content/2022/03/ccarts2.jpg)
 
 The executive director, Melissa Paolercio, and I met to discuss how I could help the center with a marketing and design skillset. I learned more about the programs, the building, and the people. The more I learned the more certain I was that I wanted to make the commitment involved with being on the board and I was voted in on March 16th–attending the first board meeting that same day.  
