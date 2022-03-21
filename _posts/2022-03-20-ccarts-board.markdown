@@ -2,7 +2,7 @@
 layout: post
 title: 'Joining the CCArts Board'
 description: 'I joined the CCArts board in Yorklyn, DE and could not be more excited to work with these inspiring folks on a mission to inspire, transform, and enrich the lives of people of all ages and abilities through the arts.'
-featured_image: '/content/2022/03/ccarts.jpg'
+featured_image: '/content/2022/03/ccarts.png'
 ---
 
 I joined the board of the [Center for the Creative Arts](https://www.ccarts.org) (CCArts) in nearby Yorklyn, Delaware last week and am completely thrilled. After attending a Yorklyn Days event several years ago I became familiar with the Center. It’s located in an adorable old school building in one of my favorite parts of Delaware, surrounded by woods, trails, and old industrial buildings being taken over by nature.
