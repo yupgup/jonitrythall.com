@@ -5,11 +5,13 @@ description: 'I joined the CCArts board in Yorklyn, DE and could not be more exc
 featured_image: '/content/2022/03/ccarts.jpg'
 ---
 
-I joined the board of the [Center for the Creative Arts](https://www.ccarts.org) (CCArts) in nearby Yorklyn, Delaware last week and am completely thrilled. After attending a Yorklyn Days event several years ago I became familiar with the center. It’s located in an adorable old school building in one of my favorite parts of Delaware, surrounded by woods, trails, and old industrial buildings being taken over by nature.
+I joined the board of the [Center for the Creative Arts](https://www.ccarts.org) (CCArts) in nearby Yorklyn, Delaware last week and am completely thrilled. After attending a Yorklyn Days event several years ago I became familiar with the Center. It’s located in an adorable old school building in one of my favorite parts of Delaware, surrounded by woods, trails, and old industrial buildings being taken over by nature.
 
-There’s a wildflower field there where Ben and I release monarchs and Tillie gets her hair cut at a cute little grooming shop behind what used to be [House Industries](https://houseind.com). I find that I go there quite often, each time noticing and thinking about the art center.    
+There’s a wildflower field there where Ben and I release monarchs and Tillie gets her hair cut at a cute little grooming shop behind what used to be [House Industries](https://houseind.com). I find that I go there quite often, each time noticing and thinking about CCArts.    
 
-I signed Ben up for a weekend clay class which provided the opportunity to see the inside of the building and experience what their classes are like. It’s been something that he’s really gotten into and we’ve started to do it at home as well. We were impressed and signed him up for summer camps there as well. He’s always gotten a lot out of crafts and being openly creative–I’m thrilled to see what other new interests he develops there. He’s a shy kid and I believe art and art programs have really helped him get more comfortable in his own skin.
+I signed Ben up for a weekend clay class which provided the opportunity to see the inside of the building and experience what their classes are like. It’s been something that he’s really gotten into and we’ve started to do it at home together too. We were impressed and signed him up for summer camps there as well. He’s always gotten a lot out of crafts and being openly creative–I’m thrilled to see what other new interests he develops there.
+
+He’s a shy kid and I believe art and art programs have really helped him get more comfortable in his own skin.
 
 ![Preview of clay being molded and Yorklyn, DE](/content/2022/03/yorklyn.jpg)
 
@@ -27,8 +29,8 @@ From drawing and painting, to pottery and clay classes, to live performances and
     <figcaption>Photos used with permission by CCArts</figcaption>
 </figure>
 
-The executive director, Melissa Paolercio, and I met to discuss how I could help the center with a marketing and design skillset. I learned more about the programs, the building, and the people. The more I learned the more certain I was that I wanted to make the commitment involved with being on the board and I was voted in on March 16th–attending the first board meeting that same day.  
+The executive director, Melissa Paolercio, and I met to discuss how I could help the Center with a marketing and design skillset. I learned more about the programs, the building, and the people. The more I learned the more certain I was that I wanted to make the commitment involved with being on the board and I was voted in on March 16th–attending the first board meeting that same day.  
 
 <hr />
 
-The center has been doing incredible work in the community for over 38 years, and I’m honored to be a part of the next few–and anxious to get to work! If you happen to live in the area and are looking to try out a new art class I couldn’t recommend CCArts enough. And maybe I’ll see you there 😀
+The Center has been doing incredible work in the community for over 38 years, and I’m honored to be a part of the next few–and anxious to get to work! If you happen to live in the area and are looking to try out a new art class I couldn’t recommend CCArts enough. And maybe I’ll see you there 😀
