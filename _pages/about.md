@@ -83,8 +83,9 @@ I get myself into too many weird things. Here’s a sampling:
   </li>
 </ul>
 
----  -->
 
 <p><a
   href="https://jonitrythall.com/content/joni-resume.pdf"
   class="button button--large">View resume</a></p>
+
+	---  -->
