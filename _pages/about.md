@@ -5,7 +5,7 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 
-Joni Trythall here, nice to (virtually) meet you. I’m busy launching friendly and impactful marketing sites for startups and developers. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
+Joni Trythall here, nice to (virtually) meet you. I’m busy crafting friendly and impactful brands for startups and developers. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
 
 I spend most of my days communicating with the best clients, [raising monarch butterflies](https://twitter.com/JoniTrythall/status/1291075100570202112) and a human child, and failing to keep [12-foot-tall sunflowers](https://twitter.com/JoniTrythall/status/1286776528651649025) upright.
 
