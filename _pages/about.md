@@ -24,9 +24,9 @@ I’m driven to work with kind, passionate people that care about the experience
 <img src="/images/about/trythall-zoomies.jpg">
 <div class="gallery" data-columns="2">
   <img src="/images/about/dcus23.png">
-  <img src="/images/about/dcus-banner.png">
+  <img src="/images/about/rrally.PNG">
   <img src="/images/about/mw.JPG">
-  <img src="/images/about/moon.PNG">
+  <img src="/images/about/moon.png">
 </div>
 
 ---
