@@ -27,6 +27,7 @@ I’m driven to work with kind, passionate people that care about the experience
   <img src="/images/about/rrally.PNG">
   <img src="/images/about/mw.JPG">
   <img src="/images/about/moon.png">
+  <img src="/images/about/markee.PNG">
 </div>
 
 ---
@@ -42,7 +43,7 @@ There’s nothing more rewarding to me than taking a task that seems larger than
   <img src="/images/about/goals.png">
   <img src="/images/about/scope.png">
 	<img src="/images/about/books.JPG">
-  <img src="/images/about/discussing-design.JPG">
+  <img src="/images/about/convo.jpg">
 </div>
 
 ---
