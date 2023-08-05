@@ -21,8 +21,8 @@ Over the years I’ve worked as a front-end developer and product designer, led 
 
 I’m driven to work with kind, passionate people that care about the experiences of others.
 
-<img src="/images/about/trythall-zoomies.jpg">
 <div class="gallery" data-columns="2">
+  <img src="/images/about/trythall-zoomies.jpg">
   <img src="/images/about/dcus23.png">
   <img src="/images/about/rrally.PNG">
   <img src="/images/about/mw.JPG">
