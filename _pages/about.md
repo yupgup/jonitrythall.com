@@ -21,7 +21,7 @@ Over the years I’ve worked as a front-end developer and product designer, led 
 
 I’m driven to work with kind, passionate people that care about the experiences of others.
 
-<img src="/images/about/embrace-site.png">
+<img src="/images/about/dcus23.png">
 <div class="gallery" data-columns="2">
   <img src="/images/about/embrace-style.png">
   <img src="/images/about/embrace-icons.png">
@@ -43,7 +43,7 @@ There’s nothing more rewarding to me than taking a task that seems larger than
   <img src="/images/about/goals.png">
   <img src="/images/about/scope.png">
 	<img src="/images/about/books.JPG">
-  <img src="/images/about/home-intro.png">
+  <img src="/images/about/discussing-design.JPG">
 </div>
 
 ---
