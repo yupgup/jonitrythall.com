@@ -45,8 +45,6 @@ As someone with professional experience as a writer and content strategist, conf
 * Web design; evaluating and improving upon an existing site, guiding process and design for new sites
 * Ensuring that the overall process for carrying out marketing campaigns is efficient and transparent
 
-📄 And in case it’s handy, here’s a link to [my resume](https://jonitrythall.com/content/joni-resume.pdf).
-
 ## How Can I Help? Let’s Chat
 If you are part of a nonprofit organization looking to round out board experience or know of one and would like to make a connection, please reach out. I’d be eager to set up a video call and talk details about how I can contribute to your mission and see if this could be a good fit for all.
 
