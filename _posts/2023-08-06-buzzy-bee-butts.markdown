@@ -4,7 +4,7 @@ title: 'Buzzy Bee Butts'
 description: 'The trials and successes of raising solitary leafcutter bees–the cutest of all bees.'
 featured_image: '/content/2021/02/trythall-class.jpg'
 ---
-We’re in the middle of a thrilling time of year again: leafcutter bee season. I genuinely look forward to this for months, and while this year was a rocky start with chilly temps and fires, things are starting to slowly pick up.
+We’re in the middle of a thrilling time of year again: leafcutter bee season. I genuinely look forward to this for months, and while this year was a rocky start with chilly temps and fires, things are starting to slowly pick up. These incredible creatures are more efficient pollinators than honey bees (which are invasive to the US) and are non-aggressive. 
 
 <hr />
 
