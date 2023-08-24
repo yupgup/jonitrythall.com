@@ -4,7 +4,7 @@ title: 'Raising Monarch Babies'
 description: 'The joys and challenges in raising and releasing monarch butteflies.'
 featured_image: '/content/2023/08/hand2.jpeg'
 ---
-Another pollinator post to wrap up the summer! This is one of my longest-lived hobbies. Years ago, I bought freshly hatched monarch caterpillars from [Monarch Watch](https://monarchwatch.org/). I envisioned that my son would be especially interested in this and take over–but that’s not how this played out. I became so utterly fascinated and involved in raising these absolute wonders. Even after all this time and exposure, I still find it incredible and fulfilling. 
+Another pollinator post to wrap up the summer! This is one of my longest-lived hobbies. Years ago, I bought freshly hatched monarch caterpillars from Monarch Watch. I envisioned that my son would be especially interested in this and take over–but that’s not how this played out. I became so utterly fascinated and involved in raising these absolute wonders. Even after all this time and exposure, I still find it incredible and fulfilling. 
 
 <hr />
 
@@ -26,7 +26,7 @@ I bought my original milkweed from a local native plant shop, [Gateway Garden Ce
 
 A few years ago, after raising caterpillars with this low-intervention method, I experienced my first (of many that year) cases of [OE](https://www.monarchparasites.org/oe), which is a parasite that exists as spores on milkweed and infected butterflies. The caterpillars consume infected milkweed and emerge as infected butterflies. These infected butterflies are deformed and cannot fly. They emerge with crinkled wings that never uncrinkle. It’s heartbreaking to witness, and nothing can be done other than to euthanize. 
 
-After I learned about the terrors of OE I approached my monarch-raising setup very differently. I now plant the milkweed in the ground, clip branches as needed, rinse in a 10% bleach to 90% water solution to kill OE, gently pat dry, and then place in a covered container with water like this:
+After I learned about the terrors of OE I approached my monarch-raising setup very differently. I now plant the milkweed in the ground, clip branches as needed, rinse in a 10% bleach to 90% water solution to kill OE, gently pat dry, and then place in a covered container with holes and water like this:
 
 ![Plastic conatiner with holes for milkweed](/content/2023/08/container.jpg)
 
@@ -34,12 +34,12 @@ Milkweed dries out quickly without a water source, so if you place cut leaves di
 
 ![Exploding milkweed seed pod](/content/2023/08/milkweed-seeds.JPG)
 
-I place the container in a [small netted enclosure](https://www.amazon.com/Insect-Butterfly-Habitat-Terrarium-Polyester/dp/B07PQVTW9C/ref=asc_df_B07PQVTW9C/?tag=&linkCode=df0&hvadid=343269712304&hvpos=&hvnetw=g&hvrand=16520357288669115978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007479&hvtargid=pla-733325012311&ref=&adgrpid=69726068875&th=1) and keep it on a covered porch until the butterflies emerge. It’s best to not maintain more than five or so in these small enclosures to ensure sanitation and general overcrowding are not an issue–they will fight if they get in each other’s way. They sort of head-butt a bit, so nothing too violent, but it’s best to make sure they are not getting stressed out.   
+I place the container in a [small netted enclosure](https://www.amazon.com/Insect-Butterfly-Habitat-Terrarium-Polyester/dp/B07PQVTW9C/ref=asc_df_B07PQVTW9C/?tag=&linkCode=df0&hvadid=343269712304&hvpos=&hvnetw=g&hvrand=16520357288669115978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007479&hvtargid=pla-733325012311&ref=&adgrpid=69726068875&th=1) and keep it on a covered porch until the butterflies emerge. It’s best to not maintain more than five or so in these small enclosures to ensure sanitation and general overcrowding are not an issue–they will [fight](https://mastodon.yupgup.com/@joni/110945642717612538) if they get in each other’s way. They sort of head-butt a bit, so nothing too violent, but it’s best to make sure they are not getting stressed out.   
 
-I should also add that I’ve tried providing the milkweed and sit back to watch nature do its thing. Monarchs would lay eggs, these eggs would hatch, and 0% would complete the cycle to turn into butterflies–between predators and storms, I watched them get whipped out daily. The safety of the roofed porch and net enclosure enables a much better success rate. 
+I should also add that I’ve tried providing the milkweed and sit back to watch nature do its thing. Monarchs would lay eggs, these eggs would hatch, and 0% would complete the cycle to turn into butterflies–between predators and storms, I watched them get wiped out daily. The safety of the roofed porch and net enclosure enables a much better success rate. 
 
 ## Getting Eggs or Babies
-The quickest way to get started is to order freshly hatched monarch caterpillars from Monarch Watch. Alternatively, you can place milkweed outside and wait for a butterfly to lay eggs. Once they emerge, they get to work eating their own eggshell–a very cool thing to witness. From here, they will need a constant supply of milkweed as they grow. Just a couple caterpillars can completely strip a large milkweed plant.  
+The quickest way to get started is to order freshly hatched monarch caterpillars [from Monarch Watch](https://shop.monarchwatch.org/product/Rearing-Kit/113232). Alternatively, you can place milkweed outside and wait for a butterfly to lay eggs. Once they emerge, they get to work eating their own eggshell–a very cool thing to witness. From here, they will need a constant supply of milkweed as they grow. Just a couple caterpillars can completely strip a large milkweed plant.  
 
 ![Container of monarch babies from Monarch Watch](/content/2023/08/bought-babies.jpg)
 
@@ -61,7 +61,7 @@ Once the habitat is ready, the monarchs are hatched, and their primary job is ea
   <img src="/content/2023/08/caterpillars1.jpeg">
 </div>
 
-Occasionally, a caterpillar doesn’t attach its chrysalis to a surface, or something knocks it down. In these situations, I’ve found it’s better to risk hanging it up with string or tiny clothespins than to leave it on the ground since it will struggle to form and emerge properly. A small stem should be at the top of the chrysalis that will allow this alternative hanging method to be carried out.
+Occasionally, a caterpillar doesn’t attach its chrysalis to a surface well, or something knocks it down. In these situations, I’ve found it’s better to risk hanging it up with string or tiny clothespins than to leave it on the ground since it will struggle to form and emerge properly. A small stem should be at the top of the chrysalis that will allow this alternative hanging method to be carried out.
 
 <div class="gallery" data-columns="2">
   <img src="/content/2023/08/jshape.jpeg">
@@ -71,19 +71,17 @@ Occasionally, a caterpillar doesn’t attach its chrysalis to a surface, or some
 </div>
 
 ### A NOTE: Caterpillar Poo
-If you’ve never experienced it, it’s hard to explain, but these things eat and poop around the clock. As they get bigger, their poop becomes unreasonably large, and it just never ends. Because of this, I’d advise against raising them inside if possible. If you have to raise them indoors, only raise a few and keep them away from main living areas like kitchens and living rooms–it will smell and get everywhere. 
-
-I’ve seen people gently detach the chrysalis and hang onto string to avoid this, though this can also be risky since they are so fragile.  
+If you’ve never experienced it, it’s hard to explain, but these things poop constantly. As they get bigger, their poop becomes unreasonably large, and it just never ends. Because of this, I’d advise against raising them inside if possible. If you have to raise them indoors, only raise a few and keep them away from main living areas like kitchens and living rooms–it will smell and get everywhere.  
 
 ### A NOTE: Cannibalism 
-I mean this with all the love in the world–these caterpillars are not especially intelligent. They will sometimes wander away from the milkweed even if they are nowhere near the chrysalis stage and must be herded back. One especially horrific thing, though, is that they are programmed to eat milkweed. You are what you eat; these things are basically just milkweed. This becomes especially evident when they turn into a chrysalis. 
+I mean this with all the love in the world–these caterpillars are not especially intelligent. They will sometimes wander away from the milkweed even if they are nowhere near the chrysalis stage and must be herded back. Additionally, you are what you eat, so monarch caterpillars *are* milkweed. This becomes especially evident when they turn into a chrysalis. 
 
 Monarch Caterpillars don’t create a little cocoon to live and transform in. They themselves turn into chrysalis–it’s amazing and weird. A newly formed chrysalis is very soft and fragile. On more than one occasion, I’ve seen a monarch form into a chrysalis only to have a hungry caterpillar cross its path and eat it. It’s all just green milkweed goo, and they don’t seem to know the difference.  
 
 ## Releasing 
-Now for the best part. Butterflies usually emerge in the chrysalis stage after 9-14 days–it’s quite a sight to see. You’ll know when they are about ready because the green chrysalis will turn transparent, and you can see the curled-up monarch butterfly inside. Once they emerge, their wings have to straighten and dry out, which takes a few hours. You’ll generally know they are ready to be released when they begin fluttering around the enclosure.
+Now for the best part. Butterflies usually emerge from the chrysalis stage after 9-14 days–it’s quite a sight to see. You’ll know when they are about ready because the green chrysalis will turn transparent, and you can see the curled-up monarch butterfly inside. Once they emerge, their wings have to straighten and dry out, which takes a few hours. You’ll generally know they are ready to be released when they begin fluttering around the enclosure.
 
-I gently cup each monarch in my hand, release it into the yard where there are plenty of flowers, and try not to hurt my feelings when they take off instantly without a proper goodbye. 
+I gently cup each monarch in my hand, release it into the yard where there are plenty of flowers, and try not to let my feelings get hurt when they take off instantly without a proper goodbye. 
 
 <div class="gallery" data-columns="2">
   <img src="/content/2023/08/flower1.jpeg">
