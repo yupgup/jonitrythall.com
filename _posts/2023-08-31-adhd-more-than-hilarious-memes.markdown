@@ -48,7 +48,7 @@ From experience, this is one of the more profound yet least talked about struggl
 
 When you have no self-worth, you miss out on a lot in your personal and professional life. Avoiding appropriate risks under the assumption of failure can lead to a very limited life with many regrets. 
 
-## Rejection Sensitivity ***
+## Rejection Sensitivity
 No one likes to be rejected, but people with ADHD are likely to experience all-consuming rejection sensitivity to the point of emotional and physical pain, resulting in long-lasting turmoil. This can be triggered by events that wouldn't even register to others in the least. For instance, 
 
 In a world where we regularly hear about people applying and getting rejected from *hundreds* of jobs before landing one, try to imagine how this would impact someone with rejection sensitivity.  
