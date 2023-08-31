@@ -54,7 +54,7 @@ No one likes to be rejected, but people with ADHD are likely to experience all-c
 In a world where we regularly hear about people applying and getting rejected from *hundreds* of jobs before landing one, try to imagine how this would impact someone with rejection sensitivity.  
 
 ## It's Uncomfortable 
-<mark style="background: #E4E3FC;">Having too much energy and nothing to do with it makes you uncomfortable in your own skin–like you manically wish you could unzip yourself and exit</mark>. Not being able to focus when you know you have to is uncomfortable. Not being able to sit still when you absolutely must is uncomfortable. Knowing you are letting people down is uncomfortable. Having a racing, noisy mind is uncomfortable. Always questioning your abilities is uncomfortable. The urge to talk too much and the inability to stop is uncomfortable. Switching between emotions instantly and for unknown reasons is uncomfortable. 
+<mark style="background: #E4E3FC;">Having too much energy and nothing to do with it makes you uncomfortable in your own skin–like you manically wish you could unzip yourself and exit</mark>. Not being able to focus when you know you have to is uncomfortable. Not being able to sit still when you absolutely must is uncomfortable. Knowing you are letting people down is uncomfortable. Having a racing, noisy mind is uncomfortable. Always questioning your abilities is uncomfortable. Being easy bored is uncomfortable. The urge to talk too much and the inability to stop is uncomfortable. Switching between emotions instantly and for unknown reasons is uncomfortable. 
 
 It's not fun, it's painful. No one would choose to live this way.  
 
