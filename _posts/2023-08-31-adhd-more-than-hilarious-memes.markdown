@@ -54,7 +54,7 @@ No one likes to be rejected, but people with ADHD are likely to experience all-c
 In a world where we regularly hear about people applying and getting rejected from *hundreds* of jobs before landing one, try to imagine how this would impact someone with rejection sensitivity.  
 
 ## It's Uncomfortable 
-Having too much energy and nothing to do with it makes you uncomfortable in your own skin–like you manically wish you could unzip yourself and exit. Not being able to focus when you know you have to is uncomfortable. Not being able to sit still when you absolutely must is uncomfortable. Knowing you are letting people down is uncomfortable. Having a racing, noisy mind is uncomfortable. Always questioning your abilities is uncomfortable. The urge to talk too much and the inability to stop is uncomfortable. Switching between emotions instantly and for unknown reasons is uncomfortable. 
+<mark style="background: #E4E3FC;">Having too much energy and nothing to do with it makes you uncomfortable in your own skin–like you manically wish you could unzip yourself and exit</mark>. Not being able to focus when you know you have to is uncomfortable. Not being able to sit still when you absolutely must is uncomfortable. Knowing you are letting people down is uncomfortable. Having a racing, noisy mind is uncomfortable. Always questioning your abilities is uncomfortable. The urge to talk too much and the inability to stop is uncomfortable. Switching between emotions instantly and for unknown reasons is uncomfortable. 
 
 It's not fun, it's painful. No one would choose to live this way.  
 
@@ -77,7 +77,7 @@ These are referred to as ADHD comorbidities–the simultaneous presence of two o
 In the desperate quest for dopamine, some people engage in risk-taking behaviors–actions without thought. They cannot fully process the implications and consequences and can hurt themselves or others as a result. 
 
 ## Wrap Up 
-I haven't, of course, mentioned everything. But even based on what I've listed and briefly spoken to here, imagine someone battling ALL THIS while out in the same world that neurotypical people are in each day–a world primarily built with them in mind. <mark style="background: #E4E3FC;">People with ADHD themselves or are caring for someone with ADHD are overcoming so much every waking second, functioning and contributing to their families and society. Again, in a world that wasn't built for them.</mark>
+I haven't, of course, mentioned everything. But even based on what I've listed and briefly spoken to here, imagine someone battling ALL THIS while out in the same world that neurotypical people are in each day–a world primarily built with them in mind. <mark style="background: #E4E3FC;">People with ADHD themselves or are caring for someone with ADHD are overcoming so much every waking second, functioning and contributing to their families and society. Again, in a world that wasn't built for them</mark>.
 
 While I struggle to give myself any credit for success, I begin to understand what a triumph this is in the context of my son. I'm so proud of how he manages. He's open to learning and changing when necessary but also not ashamed. He's become patient with his peers and has learned how to "run with" the unique beauty that can exist when a curious ADHD mind is allowed to wander without limits. I'm grateful I was able to spare him, as best I could, from the childhood I experienced. 
 
