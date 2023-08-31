@@ -38,10 +38,10 @@ Again, this is all hard enough for the most neurotypical people among us.
 ## Educators Are Inexperienced 
 Most teachers don't understand how to approach learning in a way that is accessible to kids with ADHD. This isn't a slight to individual educators as much as it is to the system as a whole–these kids are often either overlooked or provided with overly basic resources on a tight budget. An undiagnosed ADHD child experiences a damaging amount of "otherness" and criticism due to a lack of patience and understanding. 
 
-Concepts of self-worth, abilities, relationships, authority figures, and the outlook on formal education, in general, are formed during these years, and you can uncover many traumatic stories related to these foundational moments.
+Concepts of self-worth, abilities, relationships, authority figures, and the outlook on formal education are formed during these years, and you can uncover many traumatic stories related to these foundational moments.
 
 ## Medication Is Not Magic 
-Not only is medication not suitable for everyone, but it can take several attempts to find the right one, as I've mentioned. Scary side effects can be debilitating, and even successful medications will not address all symptoms–it doesn't cure ADHD but can make managing certain things more tolerable for some. 
+Not only is medication not suitable for everyone, it can take several attempts to find the right one, as I've mentioned. Scary side effects can be debilitating, and even successful medications will not address all symptoms–it doesn't cure ADHD but can make managing certain things more tolerable for some. 
 
 ## Self-Worth Struggles 
 From experience, this is one of the more profound yet least talked about struggles. When you're so often uncomfortable and struggling with things that look so easy for your peers, it's impossible for your self-worth not to take a hit. The combined impacts of self and outside criticism and frustration, real and preceived failures, self-blaming, and profound daily guilt cause compounding damage that shapes future narratives that seem to validate continued negative views of oneself. 
@@ -49,7 +49,7 @@ From experience, this is one of the more profound yet least talked about struggl
 When you have no self-worth, you miss out on a lot in your personal and professional life. Avoiding appropriate risks under the assumption of failure can lead to a very limited life with many regrets. 
 
 ## Rejection Sensitivity
-No one likes to be rejected, but people with ADHD are likely to experience all-consuming rejection sensitivity to the point of emotional and physical pain, resulting in long-lasting turmoil. This can be triggered by events that wouldn't even register to others in the least. For instance, 
+No one likes to be rejected, but people with ADHD are likely to experience all-consuming rejection sensitivity to the point of emotional and physical pain, resulting in long-lasting turmoil. This can be triggered by events that wouldn't even register to others in the least. For instance, any level of feedback can feel deeply personal and hurtful, with a complete disconnect from the person's good intentions. 
 
 In a world where we regularly hear about people applying and getting rejected from *hundreds* of jobs before landing one, try to imagine how this would impact someone with rejection sensitivity.  
 
