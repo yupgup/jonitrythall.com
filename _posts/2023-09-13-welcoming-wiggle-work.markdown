@@ -22,7 +22,7 @@ The [code of conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0G
 Having been a part of the writing process for a code of conduct before (for Ela Conf), I knew what I wanted to carry over, what needed additional clarity, and what new things needed to be added. First, “harassment” must be defined clearly *and* not overly specific to exclude many situations–no easy task. Intentional and nonintentional exclusion is harassment: racism, sexism, ableism, ageism, classism, nationalism, homophobia. 
 
 <blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: seeking out what we don’t know and reflecting on it, questioning–and disrupting–the status quo, actively and continuously fighting against exclusionary practice, and advocating for others.
-</br>
+
 –Sameera Kapila in “Inclusive Design Communities"
 </blockquote>
 
