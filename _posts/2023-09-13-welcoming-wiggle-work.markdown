@@ -19,7 +19,11 @@ Wiggle Work is set for a soft launch on September 13th, followed by the official
 ## Crafting a Code of Conduct 
 The [code of conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0GDVpTamyRJS1g0vXHyyw_k/edit?usp=sharing) is where I’ve spent the most time–it’s truly the heart of any community. At this point, I suspect we’ve all learned that it’s not enough to assume that we are all adults and things won’t get out of hand and any space will overall be “safe” enough. The problem is that conflict is inevitable, and what’s “safe” for one could be highly hostile for another.
 
-Having been a part of the writing process for a code of conduct before (for Ela Conf), I knew what I wanted to carry over, what needed additional clarity, and what new things needed to be added. First, “harassment” must be defined clearly and not overly specific to exclude many situations–no easy task. Mainly, bringing “isms” to the forefront seems especially important. As noted by Sameera Kapila in “[Inclusive Design Communities](https://abookapart.com/products/inclusive-design-communities),”....
+Having been a part of the writing process for a code of conduct before (for Ela Conf), I knew what I wanted to carry over, what needed additional clarity, and what new things needed to be added. First, “harassment” must be defined clearly *and* not overly specific to exclude many situations–no easy task. Intentional and nonintentional exclusion is harassment: racism, sexism, ableism, ageism, classism, nationalism, homophobia. 
+
+<blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: seeking out what we don’t know and reflecting on it, questioning–and disrupting–the status quo, actively and continuously fighting against exclusionary practices, and advocating for others. 
+
+–Sameera Kapila in “[Inclusive Design Communities](https://abookapart.com/products/inclusive-design-communities)</blockquote>
 
 ### Squashing Spam
 The quickest way to kill a community before it starts is to show up to a bunch of people link-bombing their own work relentlessly and without context; this is not genuine and does not foster a deep connection. Adding posting guidelines has been one of the more significant.  
