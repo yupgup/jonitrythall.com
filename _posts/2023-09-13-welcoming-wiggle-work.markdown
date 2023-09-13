@@ -33,7 +33,7 @@ Having been a part of the writing process for a code of conduct before (for Ela 
 </blockquote>
 
 ### Squashing Spam
-The quickest way to kill a community before it starts is to show up to a bunch of people link-bombing their own work relentlessly and without context; this is not genuine and does not foster a deep connection. Adding posting guidelines has been one of the more significant.  
+The quickest way to kill a community before it starts is to show up to a bunch of people link-bombing their own work relentlessly and without context; this is not genuine and does not foster a deep connection. Adding posting guidelines has been one of the more significant additions as a result.  
 
 Additionally, communities are for humans to interact with one another, and companies are not individual humans. Wiggle Work community members are prohibited from having a company logo avatar and name, as there is no quicker way to make a space feel fake and marketing-focused. 
 
