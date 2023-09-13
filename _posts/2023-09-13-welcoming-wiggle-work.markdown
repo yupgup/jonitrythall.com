@@ -21,9 +21,16 @@ The [code of conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0G
 
 Having been a part of the writing process for a code of conduct before (for Ela Conf), I knew what I wanted to carry over, what needed additional clarity, and what new things needed to be added. First, “harassment” must be defined clearly *and* not overly specific to exclude many situations–no easy task. Intentional and nonintentional exclusion is harassment: racism, sexism, ableism, ageism, classism, nationalism, homophobia. 
 
-<blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: seeking out what we don’t know and reflecting on it, questioning–and disrupting–the status quo, actively and continuously fighting against exclusionary practices, and advocating for others. 
+<blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: 
+    <ul>
+        <li>Seeking out what we don’t know and reflecting on it</li>
+        <li>Questioning–and disrupting–the status quo</li>
+        <li>Actively and continuously fighting against exclusionary practices</li>
+        <li>advocating for others</li>
+    </ul>
 
-–Sameera Kapila in “[Inclusive Design Communities](https://abookapart.com/products/inclusive-design-communities)</blockquote>
+–Sameera Kapila in “Inclusive Design Communities"
+</blockquote>
 
 ### Squashing Spam
 The quickest way to kill a community before it starts is to show up to a bunch of people link-bombing their own work relentlessly and without context; this is not genuine and does not foster a deep connection. Adding posting guidelines has been one of the more significant.  
