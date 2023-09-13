@@ -21,14 +21,8 @@ The [code of conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0G
 
 Having been a part of the writing process for a code of conduct before (for Ela Conf), I knew what I wanted to carry over, what needed additional clarity, and what new things needed to be added. First, “harassment” must be defined clearly *and* not overly specific to exclude many situations–no easy task. Intentional and nonintentional exclusion is harassment: racism, sexism, ableism, ageism, classism, nationalism, homophobia. 
 
-<blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: 
-    <ul>
-        <li>Seeking out what we don’t know and reflecting on it</li>
-        <li>Questioning–and disrupting–the status quo</li>
-        <li>Actively and continuously fighting against exclusionary practices</li>
-        <li>advocating for others</li>
-    </ul>
-
+<blockquote>An inclusive design community is one where folks can reckon with a problematic past and take honest actions to amplify marginalized voices. But we must do the work, which entails: seeking out what we don’t know and reflecting on it, questioning–and disrupting–the status quo, actively and continuously fighting against exclusionary practice, and advocating for others.
+</br>
 –Sameera Kapila in “Inclusive Design Communities"
 </blockquote>
 
@@ -49,7 +43,7 @@ Community numbers don’t mean much. I’ve been a part of communities under 500
 
 Additionally, I’ve mistakenly thought that <strong>paid</strong> communities would better provide the type of space I was looking for, which is also far from the truth. The kindness and openness of the individual members best measure communities. To truly get a feel for this, I believe it’s best to keep member numbers at or below what organizers can handle to ensure everyone feels truly welcomed and enthusiastic about being there. 
 
-Wiggle Work is kicking off with a soft launch and a <strong>500 members</strong> cap. As the community grows, I’ll constantly reassess needs and gaps, only expanding when and if ready. 
+Wiggle Work is kicking off with a soft launch and a <strong>300 members</strong> cap. As the community grows, I’ll constantly reassess needs and gaps, only expanding when and if ready. 
 
 ## Lessons Learned 
 One of the primary takeaways from running a community years ago is understanding the difference between intent and impact. While intent is the idea that what we are doing will help others, impact is the *actual* effect and how it *actually* makes people feel. While it’s nice to assume these are the same, that’s not always the case. As a result, it can be a way for certain non-intended consequences to live on since we may be hanging on too tightly to our initial good-willed intent. It’s best to learn from these moments and make the necessary changes, moving forward with a matching intent and impact. 
