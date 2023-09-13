@@ -37,7 +37,7 @@ I’ve put together what I hope others will find a solid base of channels to cho
 
 New members are encouraged to introduce themselves as soon as they can, and I’ll reach out to everyone individually. We’ve all joined online spaces just to show up to see nothing at all going on–this will not be Wiggle Work.	
 
-### Caping Numbers
+### Member Max
 Community numbers don’t mean much. I’ve been a part of communities under 500 that were vibrant, warm, engaged, and welcoming and part of 15,000+ that were quiet, lonely, and cold. It’s also easy to get lost in communities of this massive size without a gigantic, thoughtful organizing team. While communities quickly share their numbers, I’m more interested in channel topics, posting guidelines, the onboarding process, and regular events. 
 
 Additionally, I’ve mistakenly thought that <strong>paid</strong> communities would better provide the type of space I was looking for, which is also far from the truth. The kindness and openness of the individual members best measure communities. To truly get a feel for this, I believe it’s best to keep member numbers at or below what organizers can handle to ensure everyone feels truly welcomed and enthusiastic about being there. 
