@@ -4,7 +4,7 @@ title: 'Initial Exploration: ChatGPT and ADHD'
 description: 'A high-level look at easing common ADHD struggles with ChatGPT-4.'
 featured_image: '/content/2023/09/ai-icons.png'
 ---
-I have been hyperfocused lately on AI use’s current and future implications in general, but more specifically with ChatGPT and neurodiversity. Ultimately, trying to think of all the potential ways it can create more inclusive and accessible jobs, classrooms, and communities–not only as a tool for neurodivergent individuals but for others looking to understand better and adequately accommodate them. As always, I figured a blog post would be the best way to get my head straight around all these exciting and hopeful thoughts. 
+I have been hyperfocused lately on AI use’s current and future implications in general, but more specifically with ChatGPT and neurodiversity. Ultimately, trying to think of all the potential ways it can create more inclusive and accessible jobs, classrooms, and communities–not only as a tool for neurodivergent individuals but for others looking to better understand and adequately accommodate them. As always, I figured a blog post would be the best way to get my head straight around all these exciting and hopeful thoughts. 
 
 <hr />
 
