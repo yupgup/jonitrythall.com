@@ -12,7 +12,7 @@ This topic was born out of natural curiosity and living in an ADHD home. I’ve 
 
 ![AI related roughly drawn icons](/content/2023/09/ai-icons.png)
 
-I’ve lost count of how often I’ve heard, “Wow, I guess everyone has ADHD now 🙄”. The implication here is, of course, that it’s not real or that there is overdiagnosis happening–I have to point out [this Reddit post](https://www.reddit.com/r/adhdmeme/comments/16ng3ax/them_if_ur_not_diagnosed_by_a_doctor_ur_lazy_also/?share_id=MlyAOaSfLQ_U3kOLyb-6z&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) as a VERY unfortunately example. It’s shortsighted not to consider how much better diagnostic tools have gotten, the fact that we now realize girls and women can have ADHD over just boys. What can we do to help these students through school and into adulthood? What are the gaps in the current system? If these numbers are unprecedented, the solution must be as well–our strategies must be as unique and modern as possible.
+I’ve lost count of how often I’ve heard, “Wow, I guess everyone has ADHD now 🙄”. The implication here is, of course, that it’s not real or that there is overdiagnosis happening–I have to point out [this Reddit post](https://www.reddit.com/r/adhdmeme/comments/16ng3ax/them_if_ur_not_diagnosed_by_a_doctor_ur_lazy_also/?share_id=MlyAOaSfLQ_U3kOLyb-6z&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) as a VERY unfortunately example. It’s shortsighted not to consider how much better diagnostic tools have gotten, and the fact that we now realize girls and women can have ADHD over just boys. What can we do to help these students through school and into adulthood? What are the gaps in the current system? If these numbers are unprecedented, the solution must be as well–our strategies must be as unique and modern as possible.
 
 I believe the role of an AI tool like ChatGPT here could be a powerful and invaluable one, and it’s motivated me to document my research and thoughts behind it. I’m focusing on ADHD since I have the most personal experience with it, but I believe there are positive implications for many other neurodevelopmental disorders as well–which can be comorbidities. Additionally, I’m focusing on ChatGPT over other AI technologies–there’s a lot out there. 
 
@@ -50,10 +50,10 @@ Estimating and planning for things like presentations and meetings can be nearly
 Get help planning a wedding, a test, a difficult conversation, a curriculum–whatever you need to plan and are stuck on. I’ve learned to stop assuming it can’t help with something.  
 
 ### Memory Aid 
-Past conversations are automatically logged and labeled, allowing for easy reference. For instance, this is more helpful than references past Google searches because it tracks your in-the-moment thought process around the issue through the conversation and questions asked. These serve as helpful notes based on what could have been a very productive brainstorming session–invaluable.
+Past conversations are automatically logged and labeled, allowing for easy reference. This is more helpful than referencing past Google searches because it tracks your in-the-moment thought process around the issue through the conversation and questions asked. These serve as helpful notes based on what could have been a very productive brainstorming session–invaluable.
 
 ### Translating Thoughts 
-The ADHD mind can sometimes feel loud and messy–but beautiful as well. A lot is going on, a lot to be excited about, and it can be hard to parse it all productively. I read about instances where ADHDers documented their messy thoughts as-is and shared them with ChatGPT, letting it know that it’s messy and needs to be more coherent–even specifying a preferred way of presentation. 
+The ADHD mind can sometimes feel loud and messy–but beautiful as well. A lot is going on, there’s a lot to be excited about, and it can be hard to parse it all productively. I read about instances where ADHDers documented their messy thoughts as-is and shared them with ChatGPT, letting it know that it’s messy and needs to be more coherent–even specifying a preferred way of presentation. 
 
 They are still getting back their unique thoughts, but just cleaner, calmer, and more linear.  
 
@@ -65,7 +65,7 @@ Performing a simple Google search can take you down bottomless rabbit holes, and
 Additionally, the design of the interface itself is simple, clean, and free of distracting colors, ads, and meaningless animations.
 
 ### Job Search Process 
-While the job search process can be challenging for the most neurotypical among us, it can feel impossible with ADHD. There are a lot of expectations to keep in mind, a lot of reading, a lot of repetitive requirements, a lot of writing, and a lot of uncomfortable interactions. It’s boring, *wildly* inefficient, and often weighs on your ability to have confidence and “sell” yourself. There are countless ways to get stuck on the injustice of it all, and having a more hands-off approach can help it feel more efficient and less personal. 
+While the job search process can be challenging for the most neurotypical among us, it can feel impossible with ADHD. There are a lot of expectations to keep in mind, a lot of reading, a lot of repetitive requirements, a lot of writing, and a lot of uncomfortable interactions. It’s boring, *wildly* inefficient, and often weighs on your ability to have confidence and “sell” yourself. <mark style="background: #E4E3FC;">There are countless ways to get stuck on the injustice of it all, and having a more hands-off approach can help it feel more efficient and less personal</mark>. 
 
 ChatGPT can help you brainstorm the perfect job title based on your experience or if you want to transition into something similar without changing your path completely. Get help predicting interview questions and how to answer them, get easy access to top keywords, let it summarize long and dry job descriptions,  
 
