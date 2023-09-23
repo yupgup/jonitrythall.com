@@ -93,7 +93,7 @@ AI has some genuinely incredible implications on the horizon for helping *manage
 
 While it’s already mind-bending enough, the future is looking incredibly bright. A robot that makes tedious “adulting” calls about scheduling and billing or chatbot-driven cognitive behavioral therapy, to name a couple of incredibly impactful prospects. Medication alone is not enough to address ADHD symptoms, but combining it with these accessible, powerful tools can make life immeasurably less painful for many people who are actively suffering each day and are exhausted. 
 
-<mark style="background: #E4E3FC;">Conversations around ADHD symptoms *must* evolve past blame and suspicion and towards empowerment through modern tools to foster confidence, independence, empathy, and patience</mark>.  
+<mark style="background: #E4E3FC;">Conversations around ADHD symptoms <strong>must</strong> evolve past blame and suspicion and towards empowerment through modern tools to foster confidence, independence, empathy, and patience</mark>.  
 
 ## Resources 
 These tools and our knowledge move fast, so I only referenced resources written in 2023 for this post. To further complicate things, ChatGPT doesn’t actively search the web for the most up-to-date information possible. The responses of the most current version, ChatGPT-4, are based on the knowledge provided in January 2022. 
