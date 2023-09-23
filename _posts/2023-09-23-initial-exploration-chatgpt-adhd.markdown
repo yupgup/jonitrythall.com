@@ -106,3 +106,22 @@ OK, here’s the list of resources I found especially insightful:
 * [AI for ADHD: How to Make ChatGPT Work for You](https://www.additudemag.com/chatgpt-ai-adhd-executive-function-support/)
 * [How AI tools like ChatGPT can combat ADHD paralysis](https://mashable.com/article/chatgpt-ai-and-adhd)
 * [ChatGPT as an Assistive Technology](https://www.insidehighered.com/views/2023/03/01/chatgpt-can-help-students-and-faculty-adhd-opinion)
+
+
+## TL;DR (For Real)
+I know this post is ironically likely tricky for people with ADHD to get through. Here’s a ChatGPT-provided, highly condensed summary of it within five main points: 
+
+1. Exploration of AI and Neurodiversity:
+    * Joni delves into the potential of AI, particularly ChatGPT, in promoting inclusivity and understanding within neurodiverse communities, stemming from her personal experience in an ADHD household.
+
+2. ChatGPT's Role in ADHD Management:
+    * The tool offers assistance in task management, breaking tasks into actionable steps, and provides foundational support for writing tasks, making the starting process less daunting.
+    
+3. Practical Applications of ChatGPT:
+* ChatGPT aids in time management, scheduling, online shopping decisions, trip planning, meeting agendas, and job search processes, acting as a versatile assistant for various tasks.
+
+4. Enhancing Cognitive Processes:
+* The AI tool serves as a memory aid, translates complex thoughts into coherent statements, minimizes digital distractions, and offers a simplified interface for users.
+
+5. A Bright Future with AI:
+* The horizon shows promising AI applications for ADHD management, including potential tools like robots for administrative tasks and chatbot-driven therapies, aiming to empower and support the ADHD community.
