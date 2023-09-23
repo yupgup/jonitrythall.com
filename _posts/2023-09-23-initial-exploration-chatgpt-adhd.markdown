@@ -69,7 +69,7 @@ While the job search process can be challenging for the most neurotypical among 
 
 ChatGPT can help you brainstorm the perfect job title based on your experience or if you want to transition into something similar without changing your path completely. Get help predicting interview questions and how to answer them, get easy access to top keywords, let it summarize long and dry job descriptions,  
 
-With a resume and cover letter plugin, you can tell it you need a cover letter, and it will produce one to download, or you can copy and make edits, using it as a foundation. You’ll share the job description and resume, and it will match your existing skills and goals to the description. It will capture keywords and even pick up on accomplishments you may not even think to give yourself credit for. This classic ADHD self-worth struggles that pop up in the job search process can simply cease to exist now–what a massive win for mental health.  
+With a resume and cover letter plugin, you can tell it you need a cover letter, and it will produce one to download, or you can copy and make edits, using it as a foundation. You’ll share the job description and resume, and it will match your existing skills and goals to the description. It will capture keywords and even pick up on accomplishments you may not even think to give yourself credit for. The classic ADHD self-worth struggles that pop up in the job search process can simply cease to exist now–what a massive win for mental health.  
 
 An exciting thing that I have read about but not explored too much personally and can envision is especially handy here: encouraging ChatGPT to *pretend* to be you looking for a job and letting it help you think through your best options. Tell it about yourself, what you are looking for, and exactly what you are stuck on. 
 
@@ -79,9 +79,9 @@ This is my favorite one of the bunch. Reading a wall of text or listening to a l
 Did I use it to summarize some of the too-lengthy articles I came across when writing this post? Absolutely.   
 
 ### Budgeting  
-Personal confession: financial spreadsheets make me *sweat*. My heart rate skyrockets I know I’m not alone, especially in the ADHD world. Seeing all those numbers in this traditional format feels overwhelming and quickly causes many people to shut down. ChatGPT can be used for things like budgeting by taking the fear out of it and approaching it in a different way and format. You’ll share your salary, expenses, and financial goals. It will provide a breakdown for you to follow and suggestions around how to meet your goals based on your situation–no more cold sweating. 
+Personal confession: financial spreadsheets make me *sweat*. My heart rate skyrockets. I know I’m not alone, especially in the ADHD world. Seeing all those numbers in this traditional format feels overwhelming and quickly causes many people to shut down. ChatGPT can be used for things like budgeting by taking the fear out of it and approaching it in a different way and format. You’ll share your salary, expenses, and financial goals. It will provide a breakdown for you to follow and suggestions around how to meet your goals based on your situation–no more cold sweating. 
 
-Need cost-saving tips? Ask! Need tips on involving others in the budget? Ask! We’ve all heard there’s no stupid question while constantly worrying that our questions will be perceived as dumb or expose our “ignorance” to something we should know like budgeting–hello, crippling self-doubt. When asking ChatGPT, you can genuinely ask your honest questions and not have this underlying worry.   
+Need cost-saving tips? Ask! Need tips on involving others in the budget? Ask! We’ve all heard there’s no stupid question while constantly worrying that our questions will be perceived as dumb or expose our “ignorance” to something we should know like budgeting–hello again, crippling self-doubt. When asking ChatGPT, you can genuinely ask your honest questions and not have this underlying worry.   
 
 ### Meal Help 
 If you’ve spent time on the ADHDWomen subreddit, you’ll know that making dinner can be especially tricky to manage with ADHD. There are many things to consider when whipping up a “quick” meal, and meal prep can be a significant cognitive load involving early planning and organization. Tell ChatGPT what ingredients you have on hand and ask for meal ideas. Have it meal plan for the family and make your shopping list. 
@@ -93,7 +93,7 @@ AI has some genuinely incredible implications on the horizon for helping *manage
 
 While it’s already mind-bending enough, the future is looking incredibly bright. A robot that makes tedious “adulting” calls about scheduling and billing or chatbot-driven cognitive behavioral therapy, to name a couple of incredibly impactful prospects. Medication alone is not enough to address ADHD symptoms, but combining it with these accessible, powerful tools can make life immeasurably less painful for many people who are actively suffering each day and are exhausted. 
 
-Conversations around ADHD symptoms *must* evolve past blame and suspicion and towards empowerment through modern tools to foster confidence, independence, empathy, and patience.  
+<mark style="background: #E4E3FC;">Conversations around ADHD symptoms *must* evolve past blame and suspicion and towards empowerment through modern tools to foster confidence, independence, empathy, and patience</mark>.  
 
 ## Resources 
 These tools and our knowledge move fast, so I only referenced resources written in 2023 for this post. To further complicate things, ChatGPT doesn’t actively search the web for the most up-to-date information possible. The responses of the most current version, ChatGPT-4, are based on the knowledge provided in January 2022. 
