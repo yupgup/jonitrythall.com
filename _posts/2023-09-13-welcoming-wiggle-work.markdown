@@ -12,7 +12,7 @@ I attempted to start a space for remote, flexible, part-time, transparent jobs a
 
 More recently, I was inspired to bring this project back through a different approach–as an online community for remote tech (and tech-adjacent) workers. I work from home out of necessity, and the positives far outweigh the BIG negative for me, which is loneliness. But it doesn’t have to be this way. So many of us feel the same way, feeling the loss of those “water cooler” moments when you don’t need a reason to talk to someone about something or nothing of work-related importance. The relationships built from these casual interactions are crucial from a professional and personal growth perspective. 
 
-<strong>Wiggle Work in an online Discord community for remote tech (and adjacent) workers to feel less isolated by connecting in a genuine, less business-bear space. Be a part of a community where you can chat about hobbies, join a book club, and share your weekend plans without the pressure to be “on” all the time</strong>.
+<strong>[Wiggle Work](https://wiggle.work) is an online Discord community for remote tech (and adjacent) workers to feel less isolated by connecting in a genuine, less business-bear space. Be a part of a community where you can chat about hobbies, join a book club, and share your weekend plans without the pressure to be “on” all the time</strong>.
 
 Wiggle Work is set for a soft launch on September 13th, followed by the official launch a couple of weeks later on Wednesday the 27th. I wanted to put this post together as a general announcement and express my thoughts on the overall process. 
 
