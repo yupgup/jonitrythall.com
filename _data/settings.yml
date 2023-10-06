@@ -30,8 +30,9 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'https://twitter.com/JoniTrythall'
+  twitter_url: ''
   instagram_url: 'https://www.instagram.com/jonibolognamacaroni/'
+  mastodon_url: 'https://mastodon.yupgup.com/@joni'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
