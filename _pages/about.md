@@ -81,7 +81,7 @@ I get myself into too many weird things. Here’s a sampling:
         <path class="social-arrow" d="M1.99989 19.375L18.9999 2.37498L18.9999 13.8702" stroke="#BAB9E6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
         </svg></a>
   </li>
-</ul>
+</ul>z
 	---  -->
 
 <p><a
