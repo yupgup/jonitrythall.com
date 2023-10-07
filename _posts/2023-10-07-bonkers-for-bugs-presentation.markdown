@@ -74,7 +74,6 @@ Looking forward, we are always dedicated to making habitat improvements. When it
 
 ![Bye slide](/content/2023/10/bye.png)
 
-<bye>
 ## Bye Bye
 This hobby has opened up endless new opportunities regarding things to get into in our free time. We spent a spring preparing our yard to be a certified monarch waystation, listen to bug podcasts, read bug books, and participate in bug communities. I’m so grateful for what they’ve given the family and will happily supply them with milkweed, berries, and elderberry trees forever. 
 
