@@ -42,7 +42,7 @@ Leafcutter bees are mind-blowing. There are over 1,500 species in the world. The
 
 They live in tubes in sort of an apartment setup and need flowering trees and bushes within a 200-300 foot radius of their house. There can be two generations a year, and you’ll 100% regret not using a bird guard to protect them from birds looking for a cute, cozy home.   
 
-<mark style="background: #E4E3FC;">I wrote more about leafcutter bees recently [here](https://jonitrythall.com/buzzy-bee-butts)</mark>.
+I wrote more about leafcutter bees recently [here](https://jonitrythall.com/buzzy-bee-butts).
 
 ![Monarch slide](/content/2023/10/butterflies.png)
 
@@ -53,7 +53,7 @@ I’ve tried raising them in the yard with minimal interference, with a 0% succe
 
 They are fragile and the most demanding of the bugs we keep. 
 
-<mark style="background: #E4E3FC;">I wrote more about monarchs recently <a href="(https://jonitrythall.com/raising-monarch-babies">here</a></mark>.
+I wrote more about monarchs recently [here](https://jonitrythall.com/raising-monarch-babies).
 
 ![Beetles slide](/content/2023/10/beetles.png)
 
