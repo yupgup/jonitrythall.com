@@ -53,7 +53,7 @@ I’ve tried raising them in the yard with minimal interference, with a 0% succe
 
 They are fragile and the most demanding of the bugs we keep. 
 
-<mark style="background: #E4E3FC;">I wrote more about monarchs recently [here](https://jonitrythall.com/raising-monarch-babies)</mark>.
+<mark style="background: #E4E3FC;">I wrote more about monarchs recently <a href="(https://jonitrythall.com/raising-monarch-babies">here</a></mark>.
 
 ![Beetles slide](/content/2023/10/beetles.png)
 
