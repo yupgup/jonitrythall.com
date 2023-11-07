@@ -22,9 +22,9 @@ Over a year ago, I got a herniated/bulging lumbar disc in my spine from doing yo
 
 I got an MRI that showed a bulging disc. It was severe, but these things can usually be resolved on their own, I was told. I went to PT for three months. I was given no real restrictions to follow by *any* professional I was seeing. It got worse each month. I tried decompression therapy. I tried steroid injections. Everything helped a bit temporarily. I kept going to the gym daily and lifting weights, being incredibly mindful of perfect form. 
 
-My theory is that I eventually went up in weight to a point that was not sustainable for my compromised spine. My bulging disc ruptured and crushed my nerve. I couldn't walk and my foot wouldn't move much. It would roll outward and I would have to catch myself from falling over. It was, by far, the worst pain I could ever imagine a human going through without passing out. I had an emergency microdiscectomy. 
+My theory is that I eventually went up in weight to a point that was not sustainable for my compromised spine. My bulging disc ruptured and crushed my nerve. I couldn't walk and my foot wouldn't move much. It would roll outward and I would have to catch myself from falling over. It was, by far, the worst pain I could ever imagine a human going through without passing out. I had an emergency microdiscectomy, where they removed the escaped portion of the disc. 
 
-The surgery went well, and I felt like a million dollars. Pain-free for the first time in a long, long time. I was told walking was great for recovery. I worked through some lingering balance issues for a few days and was at five miles at the seven-day post-surgery mark, then nine miles at around two weeks. They had never seen someone recover so quickly. I had a new lease on life and wanted to take advantage of it.  
+The surgery went well, and I felt like a million dollars. Pain-free for the first time in a long, long time. I was told walking was great for recovery. I worked through some lingering balance issues for a few days and was at five miles at the seven-day post-surgery mark, then nine miles at around two weeks. They had not seen someone recover so quickly. I had a new lease on life and wanted to take advantage of it.  
 
 ## The Middle 
 Instead of bending down to pick things up, I was squatting all the way down. I did this on week three, and the exact rupture happened again as I got up. As a quick aside, I was told it's impossible to know if I contributed to what happened, though if I did, it had to be this motion, and I've since purchased several grabbing tools.  
@@ -40,8 +40,8 @@ This time, I default to counting myself out of events. I decline every invitatio
 ## The Wierd Gray Period
 In looking ahead, I've realized how damaging it is to try to look ahead. It's scary. My anxiety goes through the roof. All I can do, and some days and hours are better than others, is take this a day at a time. I remain grateful for each walk I can take. For each meal I can prepare. For each time I can brush my teeth while remaining standing the entire time.
 
-When my mind wanders to what-if scenarios, I'm robbing myself of the chance to heal–writing myself off unfairly. My worst-case scenario, which, to be honest, is still too painful to say out loud without tearing up, so I can't right now, will not feel any easier to deal with if I spend all my time dwelling on it. 
+When my mind wanders to what-if scenarios, I'm robbing myself of the chance to heal–writing myself off unfairly. My worst-case scenario, which, to be honest, is still too painful to say out loud without tearing up, so I can't right now, will not feel any easier to deal with just because I spend all my time dwelling on it. 
 
 These are all the things I'm able to feel and believe on good days, though there are still a lot of bad days where I find this advice and wisdom to be utter bullshit, <mark style="background: #E4E3FC;">and the heavy weight of despair puts me into that same bed I swore I would never see in the daytime again as long as I could move</mark>. 
 
-I guess to say this has been a journey is an understatement, and it's still playing out. I hope all my updates are primarily positive from here, but even if they're not, I'll still share them.  
+I guess to say this has been a journey is an understatement, and it's still playing out. I hope all my updates are primarily positive from here, but even if they're not, I'll still share them. 
