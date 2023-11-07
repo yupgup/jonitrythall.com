@@ -17,72 +17,31 @@ I've also been encouraged to share my physical therapy adventure in our Wiggle W
   </figcaption>
 </figure>
 
-## How Did This Happen?
-In fully accepting the weirdness of this path, I felt compelled to address this question right away. As a child, I spent all my time in the woods collecting bugs in jars for a treehouse. It was impossible for me to hit an “eww, gross” threshold with this type of stuff and I truly lived for catching frogs and appreciated every animal or insect I came across. This hobby got me through many challenging times. Even in therapy as an adult, when crafting a “happy place” to retreat to mentally, I choose this setting with these creatures. 
+## The Beginning 
+Over a year ago, I got a herniated/bulging lumbar disc in my spine from doing yoga–the forward fold is not for everyone, I've learned. It was lightning right up the side of my lower back. I couldn't stand up straight and struggled to walk to my car to leave the gym. I was stuck in bed for days. I fairly quickly got 90% better but noticed it was painful to sit too long. I went on like this until my next "blow out". Similar thing. At the gym, did something benign, felt the explosion. 
 
-I have a son who also loves bugs, which has led to this fascination carrying over into adulthood. Bug keeping quickly becomes a natural next step in just being curious about what we come across outside. As we learned about the plight of pollinators, it became a goal to have any small hand we could in helping them–so raising them and making sure we have a safe, native yard. 
+I got an MRI that showed a bulging disc. It was severe, but these things can usually be resolved on their own, I was told. I went to PT for three months. I was given no real restrictions to follow by *any* professional I was seeing. It got worse each month. I tried decompression therapy. I tried steroid injections. Everything helped a bit temporarily. I kept going to the gym daily and lifting weights, being incredibly mindful of perfect form. 
 
-Additionally, we both have ADHD, and I believe this is relevant because it provides a unique opportunity to hyper-focus when you want to. Alternatively, you can forget about them for days and they are completely fine; it’s so flexible and stress-free. There’s a chance to get as involved and weird with it as you want, which can even vary daily.
+My theory is that I eventually went up in weight to a point that was not sustainable for my compromised spine. My bulging disc ruptured and crushed my nerve. I couldn't walk and my foot wouldn't move much. It would roll outward and I would have to catch myself from falling over. It was, by far, the worst pain I could ever imagine a human going through without passing out. I had an emergency microdiscectomy. 
 
-![Benefit slide](/content/2023/10/benefits.png)
+The surgery went well, and I felt like a million dollars. Pain-free for the first time in a long, long time. I was told walking was great for recovery. I worked through some lingering balance issues for a few days and was at five miles at the seven-day post-surgery mark, then nine miles at around two weeks. They had never seen someone recover so quickly. I had a new lease on life and wanted to take advantage of it.  
 
-## Benefits
-There are many benefits in addition to what I’ve already mentioned. This is a low barrier-to-entry hobby, which can be very hard to find–it can cost nothing. But if you wish, there’s a lot you can get into. Habitat design can be very involved and a great creative outlet. It’s fun to experiment with scenery decor and always try to make the process of raising them as efficient and impactful as possible, specifically regarding bees and butterflies. 
+## The Middle 
+Instead of bending down to pick things up, I was squatting all the way down. I did this on week three, and the exact rupture happened again as I got up. As a quick aside, I was told it's impossible to know if I contributed to what happened, though if I did, it had to be this motion, and I've since purchased several grabbing tools.  
 
-Traditional mindfulness and meditation can be challenging to achieve for many. This hobby is a bit of a hack since it enables you to get completely caught up in what you are doing. So, you’re really noticing fine details in the beauty you get to witness. The line thickness of each monarch, timing the days it takes a chrysalis to open as a butterfly, which bee tube locations are proving to be favorites, observing what foods the beetles like best, and even which ones are proving to be the piggies of the group. There’s endless opportunity to escape and lose yourself in this buggy world.
+I instantly couldn't walk and was bedridden in unspeakable pain for six weeks as I waited for an MRI and for my surgeon to get back from vacation–the timing of this one really complicated things. I went into a deep depression and had to attend more therapy and find a psychiatrist. Being active defined me, and now I was nothing. All summer, I looked out the window to see my park friends walk by without me and cried each time. 
 
-![Bug list slide](/content/2023/10/list.png)
+I had a second, identical surgery precisely two months after the first. They even cut the same incision. This experience has been much different than those first few precious weeks after the initial surgery. There's still pain and twinges and discomfort and spasms around the clock. I'm struggling to get my walking pace up each week. 
 
-## The Bug Buddies
-We notice and appreciate all bugs but have specifically chosen to raise leafcutter bees, monarch butterflies, and three different types of desert beetles. This presentation focuses on some facts, care, and photos of these three besties. We’ve learned a lot about them over the years through research and trial and error, including where to buy them. 
-* Leafcutter bees: [Crown Bees](https://crownbees.com/)
-* Monarch caterpillars: [Monarch Watch](https://monarchwatch.org/)
-* Beetles: [Bugs in Cyberspace](https://bugsincyberspace.com/) 
+This time, I'm completely and utterly tormented by the fear of it happening again. The fear of that level of pain. The fear of being stuck in bed. The fear of what my future looks like. Everyone who undergoes this procedure is told there is a small risk of it happening again, but I lived it. It's very real, and I can't be ignorant and blissful about it–I've been robbed of that option.   
 
-![Bee slide](/content/2023/10/bees.png)
+This time, I default to counting myself out of events. I decline every invitation that patient people are still willing to extend–who knows what my back will be doing at that time! *What if it happens again at the event*? What if I need to sit/stand/lie down and can't? It's simply too scary, it's too risky, it's too unpredictable. I've gone from someone who lived for small talk out of the house to someone afraid to leave it. Months later, I still can't drive myself anywhere, and sometimes I think it's just as well.
 
-## Leafcutter Bees
-Leafcutter bees are mind-blowing. There are over 1,500 species in the world. They are solitary bees, like 90% of bees in the US, and so they are not aggressive like honey bees since they don’t have a hive mind. They are significantly better pollinators as well.
+## The Wierd Gray Period
+In looking ahead, I've realized how damaging it is to try to look ahead. It's scary. My anxiety goes through the roof. All I can do, and some days and hours are better than others, is take this a day at a time. I remain grateful for each walk I can take. For each meal I can prepare. For each time I can brush my teeth while remaining standing the entire time.
 
-They live in tubes in sort of an apartment setup and need flowering trees and bushes within a 200-300 foot radius of their house. There can be two generations a year, and you’ll 100% regret not using a bird guard to protect them from birds looking for a cute, cozy home.   
+When my mind wanders to what-if scenarios, I'm robbing myself of the chance to heal–writing myself off unfairly. My worst-case scenario, which, to be honest, is still too painful to say out loud without tearing up, so I can't right now, will not feel any easier to deal with if I spend all my time dwelling on it. 
 
-I wrote more about leafcutter bees recently [here](https://jonitrythall.com/buzzy-bee-butts).
+These are all the things I'm able to feel and believe on good days, though there are still a lot of bad days where I find this advice and wisdom to be utter bullshit, <mark style="background: #E4E3FC;">and the heavy weight of despair puts me into that same bed I swore I would never see in the daytime again as long as I could move</mark>. 
 
-![Monarch slide](/content/2023/10/butterflies.png)
-
-## Monarchs 
-The bug that started it all: monarch butterflies. These stunners lay 300-500 eggs a year, with about a 5% success rate. They live for about 4-6 weeks, except for the final generation of the year that makes the long journey to Mexico and back and living 9+ months instead. I find this fact especially incredible since it proves they *can* physically live this long but generally only get those few weeks instead. 
-
-I’ve tried raising them in the yard with minimal interference, with a 0% success rate. They need shelter and access to milkweed (a lot) around the clock. They don’t form cocoons; instead, they themselves turn into the chrysalis–truly otherworldly. 
-
-They are fragile and the most demanding of the bugs we keep. 
-
-I wrote more about monarchs recently [here](https://jonitrythall.com/raising-monarch-babies).
-
-![Beetles slide](/content/2023/10/beetles.png)
-
-## Desert Beetles 
-For desert beetles, we focus our efforts on three types: 
-1. Blue Death Feigning 
-2. Hellburnt Diabolical Ironclad
-3. Armored Darkling
-
-Ironclads are nearly indestructible and are even studied from an engineering perspective to gain insight into how they can survive getting run over by a car without getting crushed; it has to do with the way their wing “plates” have fused. Blue Death Feigning beetles are the puppy dogs of the beetle world. They have cute little personalities and are drama queens when scared, turning over on their backs to play dead.
-
-These particular beetles live for up to eight years, which is not at all typical of beetles or bugs in general. We have desert-themed tanks to keep them in and feed them food scraps from the kitchen. They lose their minds over strawberries. 
-
-![What's next slide](/content/2023/10/next.png)
-
-## What’s Next?
-Looking forward, we are always dedicated to making habitat improvements. When it comes to bees and butterflies, we strive for better survival rates each year. Beyond that, we have our eyes on some mantises, have looked into bug pinning to create unique displays, and are on a beetle waitlist for some very cool Ironclad beetles that look like cutie cows. 
-
-![Bye slide](/content/2023/10/bye.png)
-
-## Bye Bye
-This hobby has opened up endless new opportunities regarding things to get into in our free time. We spent a spring preparing our yard to be a certified monarch waystation, listen to bug podcasts, read bug books, and participate in bug communities. I’m so grateful for what they’ve given the family and will happily supply them with milkweed, berries, and elderberry trees forever. 
-
-I am an easily excitable person in general, and bug talk is no exception. If there’s anything you’d like to talk about, I’m on [Mastodon](https://mastodon.yupgup.com/home) and hang out in the [Wiggle Work](https://wiggle.work/) community. 
-
-See you out there, bug nerds. 
-
-![Design elements slide](/content/2023/10/design.png)
+I guess to say this has been a journey is an understatement, and it's still playing out. I hope all my updates are primarily positive from here, but even if they're not, I'll still share them.  
