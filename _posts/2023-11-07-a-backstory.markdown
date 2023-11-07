@@ -44,4 +44,6 @@ When my mind wanders to what-if scenarios, I'm robbing myself of the chance to h
 
 These are all the things I'm able to feel and believe on good days, though there are still a lot of bad days where I find this advice and wisdom to be utter bullshit, <mark style="background: #E4E3FC;">and the heavy weight of despair puts me into that same bed I swore I would never see in the daytime again as long as I could move</mark>. 
 
-I guess to say this has been a journey is an understatement, and it's still playing out. I hope all my updates are primarily positive from here, but even if they're not, I'll still share them. 
+I guess to say this has been a journey is an understatement, and it's still playing out. This post also doesn't touch on the profound impact that this injury has had on my family. I'll never be able to adequately express how sorry I am that we all have to go through this and how much I appreciate everything they have done and continue to do to help me and help this house still function. 
+
+I hope all my updates are primarily positive from here, but even if they're not, I'll still share them. 
