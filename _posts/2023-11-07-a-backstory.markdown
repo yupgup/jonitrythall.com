@@ -37,7 +37,7 @@ This time, I'm completely and utterly tormented by the fear of it happening agai
 
 This time, I default to counting myself out of events. I decline every invitation that patient people are still willing to extend–who knows what my back will be doing at that time! *What if it happens again at the event*? What if I need to sit/stand/lie down and can't? It's simply too scary, it's too risky, it's too unpredictable. I've gone from someone who lived for small talk out of the house to someone afraid to leave it. Months later, I still can't drive myself anywhere, and sometimes I think it's just as well.
 
-## The Wierd Gray Period
+## The Weird Gray Period
 In looking ahead, I've realized how damaging it is to try to look ahead. It's scary. My anxiety goes through the roof. I often feel very alone–uniquely doomed and excluded from conversations about hopeful future goals. All I can do, though, and some days and hours are better than others, is take this a day at a time. I remain grateful for each walk I can take. For each meal I can prepare. For each time I can brush my teeth while remaining standing the entire time.
 
 When my mind wanders to what-if scenarios, I'm robbing myself of the chance to heal–writing myself off unfairly. My worst-case scenario, which, to be honest, is still too painful to say out loud without tearing up, so I can't right now, will not feel any easier to deal with just because I spend all my time dwelling on it. 
