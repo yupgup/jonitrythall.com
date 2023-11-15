@@ -312,6 +312,6 @@ I find that Saturdays are quieter but can lead to more in-depth discussions.
 - What’s a harmless but silly secret you’ve never told anyone?
 
 ## Wiggly Wrap Up
-If participating in any of these prompts sounds like a fun and energizing way to spend time, we’d love for you to join us. You can fill out the little [application here](https://wiggle.work/), or ask me questions [on mastodon](https://mastodon.yupgup.com/@joni) or via [email](mailto:hello@wiggle.work). It really is what all the best parts of having coworkers and friends could and should be like, except we don’t have to resent each other for burning coffee in the break room. 
+If participating in any of these prompts sounds like a fun and energizing way to spend time, we’d love for you to join us. You can fill out the little [application here](https://wiggle.work/), or ask me questions [on Mastodon](https://mastodon.yupgup.com/@joni) or via [email](mailto:hello@wiggle.work). It really is what all the best parts of having coworkers and friends could and should be like, except we don’t have to resent each other for burning coffee in the break room. 
 
 I can’t wait to hang out and learn important things about you, like if you eat toast. 
