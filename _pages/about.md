@@ -7,7 +7,7 @@ featured_image: /images/social.jpg
 
 Joni Trythall here, nice to (virtually) meet you. I’m busy crafting friendly and impactful brands for startups and developers. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
 
-I spend most of my days communicating with the best clients, [raising leafcutter bees](https://mastodon.yupgup.com/@joni/110418568337647749) and a human child, and failing to keep [10-foot-tall sunflowers](https://www.instagram.com/p/CScLuSmLrUH/?igshid=MzRlODBiNWFlZA==) upright.
+I spend most of my days communicating with the best clients, running [Wiggle Work](https://wiggle.work), [raising leafcutter bees](https://mastodon.yupgup.com/@joni/110418568337647749) and a human child, and failing to keep [10-foot-tall sunflowers](https://www.instagram.com/p/CScLuSmLrUH/?igshid=MzRlODBiNWFlZA==) upright.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/about/joni.JPG">
