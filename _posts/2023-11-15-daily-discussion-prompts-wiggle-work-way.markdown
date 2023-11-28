@@ -17,14 +17,14 @@ I’ve been doing these since the beginning and have a couple of months worth of
 I aim to only present three specific questions a day, but some of these have more to account for multiple uses. I also try not to be overly prescriptive so that there’s wiggle room in responses. These are also all alliteration-based since that’s the Wiggle Work Way. 
 
 ## Navigation
-#### [Mondays](#mondays)
-#### [Tuesdays](#tuesdays) 
-#### [Wednesdays](#wednesdays)
-#### [Thursdays](#thursdays)
-#### [Fridays](#fridays)
+#### [Monday](#mondays)
+#### [Tuesday](#tuesdays) 
+#### [Wednesday](#wednesdays)
+#### [Thursday](#thursdays)
+#### [Friday](#fridays)
 #### [Saturday](#saturdays)
 
-## <a name="mondays">"Mondays</a>
+## <a name="mondays">Mondays</a>
 Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted as possible. 
 
 ### Monday Motivation 
