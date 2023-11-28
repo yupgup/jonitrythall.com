@@ -17,11 +17,14 @@ I’ve been doing these since the beginning and have a couple of months worth of
 I aim to only present three specific questions a day, but some of these have more to account for multiple uses. I also try not to be overly prescriptive so that there’s wiggle room in responses. These are also all alliteration-based since that’s the Wiggle Work Way. 
 
 ## Navigation
-### Monday
-### Tuesday 
-### [Saturday](#saturdays)
+#### [Mondays](#mondays)
+#### [Tuesdays](#tuesdays) 
+#### [Wednesdays](#wednesdays)
+#### [Thursdays](#thursdays)
+#### [Fridays](#fridays)
+#### [Saturday](#saturdays)
 
-## Mondays
+## <a name="mondays">"Mondays</a>
 Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted as possible. 
 
 ### Monday Motivation 
@@ -62,7 +65,7 @@ Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted
 - Share a fun or weird fact about yourself.
 - Share a movie you recently watched and loved.
 
-## Tuesdays  
+## <a name="tuesdays">Tuesdays</a>  
 Tuesdays have proven the trickiest to match a theme with. Everything pairs better with Thursday, and ChatGPT is hell-bent on it always being Tech Tuesday!
 
 ### Transparency Tuesday
@@ -118,7 +121,7 @@ Tuesdays have proven the trickiest to match a theme with. Everything pairs bette
 - What’t the silliest thing you’ve ever done by mistake?
 - Share a science experiment or discovery that seems too strange to be true.
 
-## Wednesdays
+## <a name="wednesdays">Wednesdays</a>
 Wednesdays are inherently Wiggle Work favorite–it starts with W and it marks a welcomed halfway point to the work week. 
 
 ### Wellness Wednesday 
@@ -184,7 +187,7 @@ Wednesdays are inherently Wiggle Work favorite–it starts with W and it marks a
 - If you could have any unconventional animal as a pet (real or fictional), what would it be and why?
 - Imagine you’ve been tasked to create a wacky invention. What would it do, and what would you call it?
 
-## Thursdays
+## <a name="thursdays">Thursdays</a>
 Thursday! Throwback Thursday is a classic, but there’s more. 
 
 ### Throwback Thursday 
@@ -238,7 +241,7 @@ Thursday! Throwback Thursday is a classic, but there’s more.
 - Think back to where you were a year ago. What’s one significant area of growth or change you’ve noticed in yourself since then?
 - Discuss the importance of setting boundaries in personal and professional life. How has establishing clear boundaries helped you thrive?
 
-## Fridays
+## <a name="fridays">Fridays</a>
 Generally, Fridays are the best days–the weekend excitement is in the air, and anything is possible. 
 
 ### Friendly Fight Friday
