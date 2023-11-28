@@ -8,6 +8,8 @@ One of my favorite aspects of the Wiggle Work community so far is the daily disc
 
 <hr />
 
+<small>Last Updated: 11/28/23</small>
+
 ChatGPT was pretty helpful in assisting with these at first and still can be with a lot of very specific directions in an attempt to break out of the repetitiveness that has taken hold. In doing general web searches, I find that posts about this are so riddled with ads they are rendered useless or are exclusively for elementary students–who decided only kids need icebreakers?!
 
 ![Screenshot of prompts shared in Discord](/content/2023/11/prompts.jpg)
