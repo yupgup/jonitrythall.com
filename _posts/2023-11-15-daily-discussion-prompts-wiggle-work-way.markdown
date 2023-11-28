@@ -16,6 +16,11 @@ I’ve been doing these since the beginning and have a couple of months worth of
 
 I aim to only present three specific questions a day, but some of these have more to account for multiple uses. I also try not to be overly prescriptive so that there’s wiggle room in responses. These are also all alliteration-based since that’s the Wiggle Work Way. 
 
+## Navigation
+### Monday
+### Tuesday 
+### [Saturday](#saturdays)
+
 ## Mondays
 Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted as possible. 
 
@@ -107,6 +112,11 @@ Tuesdays have proven the trickiest to match a theme with. Everything pairs bette
 - What’s your ultimate comfort food?
 - What’s your favorite restaurant, and what do you order there?
 - Share a cookbook, food blog, or culinary-themed book you love.
+
+### Twisted Tuesday 
+- What’s a weird “glitch in the system” thing you’ve seen and can’t forget?
+- What’t the silliest thing you’ve ever done by mistake?
+- Share a science experiment or discovery that seems too strange to be true.
 
 ## Wednesdays
 Wednesdays are inherently Wiggle Work favorite–it starts with W and it marks a welcomed halfway point to the work week. 
@@ -273,7 +283,7 @@ Generally, Fridays are the best days–the weekend excitement is in the air, and
 - Share a piece of positive feedback you received this week.
 - Share a song that lifted your mood.
 
-## Saturdays 
+## <a name="saturdays">Saturdays</a> 
 I find that Saturdays are quieter but can lead to more in-depth discussions. 
 
 ### Social Saturday
