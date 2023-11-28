@@ -58,12 +58,22 @@ Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted
 - Share a health or wellness milestone, be it related to fitness, mental health, or a new self-care routine.
 - Set a milestone you’d like to achieve in the upcoming months.
 
+### Maintenance Monday 
+- What’s your strategy for keeping up with any side project maintenance?
+- How much of your job is related to maintenance and how do you address it?
+- How do you prioritize house/apartment maintenance? What efforts are you able to do yourself?
+
 ### Mingle Monday 
 - Share two truths about yourself and one lie.
 - How was your weekend? Share a highlight or something new you tried.
 - How do you take your coffee or tea? Or if you have another favorite morning beverage, let’s hear about it!
 - Share a fun or weird fact about yourself.
 - Share a movie you recently watched and loved.
+
+### Meet Up Monday
+- What’s a work-related meet up you’ve attended that stands out as one of the best?
+- With today’s hectic schedules, what do you find to be the best days and times to hang out with others?
+- If you had to start a new meet up today, what would it be about and what would it be called?
 
 ## <a name="tuesdays">Tuesdays</a>  
 Tuesdays have proven the trickiest to match a theme with. Everything pairs better with Thursday, and ChatGPT is hell-bent on it always being Tech Tuesday!
@@ -187,6 +197,11 @@ Wednesdays are inherently Wiggle Work favorite–it starts with W and it marks a
 - If you could have any unconventional animal as a pet (real or fictional), what would it be and why?
 - Imagine you’ve been tasked to create a wacky invention. What would it do, and what would you call it?
 
+### Watch Wednesday
+- What’s a show or movie you thought was very underrated?
+- What’s a show or movie you thought was very overrated?
+- What’s a show or movie you’d insist people get into over the holidays?
+
 ## <a name="thursdays">Thursdays</a>
 Thursday! Throwback Thursday is a classic, but there’s more. 
 
@@ -286,6 +301,11 @@ Generally, Fridays are the best days–the weekend excitement is in the air, and
 - Share a piece of positive feedback you received this week.
 - Share a song that lifted your mood.
 
+### Finally Friday 
+- What was your favorite part about this past week?
+- What’s one thing you wish you had done differently?
+- What are you most looking forward to this weekend?
+
 ## <a name="saturdays">Saturdays</a> 
 I find that Saturdays are quieter but can lead to more in-depth discussions. 
 
@@ -314,6 +334,11 @@ I find that Saturdays are quieter but can lead to more in-depth discussions.
 - What special sleep devices do you need?
 - Do you take naps?
 
+### Shelfie Saturday
+- What do you find filling up most of your shelves?
+- What do you *need* a new shelf for based on what you have piling up?
+- Got any pics of your setup?
+
 ### Science & Space Saturday 
 - Share a recent scientific discovery or advancement that caught your attention.
 - If you could get an answer to any unsolved mystery or question about space, what would it be?
@@ -323,6 +348,11 @@ I find that Saturdays are quieter but can lead to more in-depth discussions.
 - If you were forced to choose one domain from the list of ones you currently own and do something with it *today,* which would you choose and what would you do with it?
 - What’s a silly mistake you’ve made that you can laugh about now?
 - What’s a harmless but silly secret you’ve never told anyone?
+
+### Stories Saturday
+- What book are you reading this month?
+- Tell us a fictional story within 200 characters.
+- Tell us a real story about a past winter/spring/summer/fall.
 
 ## Wiggly Wrap Up
 If participating in any of these prompts sounds like a fun and energizing way to spend time, we’d love for you to join us. You can fill out the little [application here](https://wiggle.work/), or ask me questions [on Mastodon](https://mastodon.yupgup.com/@joni) or via [email](mailto:hello@wiggle.work). It really is what all the best parts of having coworkers and friends could and should be like, except we don’t have to resent each other for burning coffee in the break room. 
