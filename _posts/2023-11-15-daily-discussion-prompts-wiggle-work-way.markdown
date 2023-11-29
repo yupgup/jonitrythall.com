@@ -142,6 +142,11 @@ Wednesdays are inherently Wiggle Work favorite–it starts with W and it marks a
 - What’s your go-to home workout or exercise routine?
 - What’s your favorite dopamine-producing snack this week?
 
+### Wear Wednesday
+- What sort of style do you find yourself settling into?
+- What’s one item of clothing that you splurge on in a “buy it for life” way?
+- What’s one thing that you’ll never give up, regardless of how “dated” it becomes?
+
 ### Wordy Wednesday
 - What does your writing process look like?
 - Share a piece of writing (blog posts, books, poetry, a story, etc) that you especially enjoyed crafting and why.
