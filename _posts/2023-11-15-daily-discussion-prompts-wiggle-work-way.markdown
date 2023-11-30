@@ -263,6 +263,12 @@ Thursday! Throwback Thursday is a classic, but there’s more.
 - Think back to where you were a year ago. What’s one significant area of growth or change you’ve noticed in yourself since then?
 - Discuss the importance of setting boundaries in personal and professional life. How has establishing clear boundaries helped you thrive?
 
+### Thinking Thursday
+
+- What’s a regular problem in your everyday life that you wish you had time to develop a solution for?
+- If you could move anywhere, where do you think you’d go and why?
+- What does happiness mean to you, and do you think it has changed with age or certain experiences?
+
 ## <a name="fridays">Fridays</a>
 Generally, Fridays are the best days–the weekend excitement is in the air, and anything is possible. 
 
