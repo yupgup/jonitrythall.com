@@ -72,6 +72,12 @@ Mondays are hard for everyone, so I try to keep these as upbeat and lighthearted
 - Share a fun or weird fact about yourself.
 - Share a movie you recently watched and loved.
 
+### Mend Monday
+
+- Do you have a personal project or goal that's been neglected that you want to turn around?
+- Share a current challenge or obstacle you're facing. What strategies or actions might help you overcome it?
+- Is there a relationship in your life that needs mending? What steps could you take to improve it?
+
 ### Meet Up Monday
 - What’s a work-related meet up you’ve attended that stands out as one of the best?
 - With today’s hectic schedules, what do you find to be the best days and times to hang out with others?
