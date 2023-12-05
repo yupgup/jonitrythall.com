@@ -134,6 +134,12 @@ Tuesdays have proven the trickiest to match a theme with. Everything pairs bette
 - What’s your favorite restaurant, and what do you order there?
 - Share a cookbook, food blog, or culinary-themed book you love.
 
+### Toasty Tuesday
+
+- What’s your favorite way to eat toast?
+- What’s your favorite kind of cozy attire?
+- What space in your home is the coziest?
+
 ### Twisted Tuesday 
 - What’s a weird “glitch in the system” thing you’ve seen and can’t forget?
 - What’t the silliest thing you’ve ever done by mistake?
