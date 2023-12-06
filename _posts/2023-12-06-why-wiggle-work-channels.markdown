@@ -8,7 +8,7 @@ I’m aiming to publish Some Super Short blog posts on Wiggle Work Wednesdays re
 
 <hr />
 
-This week, I thought it would be helpful to shed some light on our channels in Discord. The community started with a few foundational channels in place, and it has grown quite a bit based on uncovered interests and direct requests. Everyone is encouraged to introduce themselves in initial-intro upon joining, where you’ll be *enthusiastically* greeted by everyone present. This shared introduction is also included in the Wiggle Work Weekly Wonder newsletter that goes out each Saturday.   
+This week, I wanted to shed some light on our channels in Discord. The community started with a few foundational channels in place, and it has grown quite a bit based on uncovered interests and direct requests. Everyone is encouraged to introduce themselves in initial-intro upon joining, where you’ll be *enthusiastically* greeted by everyone present. This shared introduction is also included in the Wiggle Work Weekly Wonder newsletter that goes out each Saturday.   
 
 ![Wiggle Work Discord channel list screenshot](/content/2023/12/channels.png)
 
