@@ -38,6 +38,6 @@ Our voice channels are used for casual coffee hangouts, whiteboard sessions, and
 
 ![Pop Presentation graphic](/content/2023/12/pop.png)
 
-It’s a lot of channels, but it never feels overwhelming, and we have a community wiki that serves as an excellent high-level overview of all the things just in case you get turned around somewhere. There’s no empty link-dropping flybys or a sense of having to be “on” all the time, just an overall feeling of genuine human connection that seems to get rarer by the day on and off the internet. 
+It’s a lot of channels, but it never feels overwhelming, and we have a community Wiki that serves as an excellent high-level overview of all the things just in case you get turned around somewhere. There’s no empty link-dropping flybys or a sense of having to be “on” all the time, just an overall feeling of genuine human connection that seems to get rarer by the day on and off the internet. 
 
 I’d love for you to [join us](https://wiggle.work) and I’m [on Mastodon](https://mastodon.yupgup.com/@joni) if you have any questions. Investing your time and attention into a community is an important decision, and you’ll love it here. 
