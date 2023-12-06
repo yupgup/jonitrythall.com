@@ -12,7 +12,7 @@ This week, I wanted to shed some light on our channels in Discord. The community
 
 ![Wiggle Work Discord channel list screenshot](/content/2023/12/channels.png)
 
-Everyone is encouraged to introduce themselves in initial-intro upon joining, where you’ll be *enthusiastically* greeted by everyone present. This shared introduction is also included in the Wiggle Work Weekly Wonder newsletter that goes out each Saturday. I realize these can generally feel awkward, but I promise it won’t be. We are dying to know important things like how you like your toast and what you think your dog would name *you*–but really, whatever you are comfortable sharing.     
+I realize these first interations can generally feel awkward, but I promise it won’t be. We are dying to know important things like how you like your toast and what you think your dog would name *you*–but really, whatever you are comfortable sharing.     
 
 We have forum and threaded-based text channels and several voice channels (little video call hangouts). Threaded channels, like accountability-allies or advice-assembly, are where we have more in-depth convos about a specific, ongoing topic. For example, I’ve been sharing my PT journey in accountability-allies and checking in weekly. Another Wiggler has asked about pricing services in advice-assembly. It’s all well-balanced between work and personal topics.   
 
