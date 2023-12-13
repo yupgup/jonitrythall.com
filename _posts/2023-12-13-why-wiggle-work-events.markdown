@@ -39,7 +39,7 @@ Pop Presentations are more like a presentation practice run. Got a conference ta
 
 <div class="gallery" data-columns="2">
   <img src="/content/2023/12/figma.png">
-  <img src="/content/2023/12/whiteboard.png">
+  <img src="/content/2023/12/whiteboard-event.png">
   <img src="/content/2023/12/coffee.png">
   <img src="/content/2023/12/pop-pres.png">
 </div>
