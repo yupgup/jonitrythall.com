@@ -10,7 +10,7 @@ For last week’s Why Wiggle Work I gave a mini tour of our [Discord channels](h
 
 Our events have taken on the form of one-off async, text-based fun activities, and regular video call hangouts and presentations. Further, this all includes a combination of planned events scheduled in advance, and fairly sporadic ones. Anyone can create a Discord event, and then details along with an RSVP are posted to the group.  
 
-The community is only a few months old, yet we already have had several successful events with much more involved, extended ones in the works for 2024. This variety is essential–people can be as active or hands-off as they'd like. I also realize that not everyone comfortable on video calls can attend those, so these don't replace text channel-based activities and convos. 
+The community is only a few months old, yet we already have had several successful events with much more involved, extended ones in the works for 2024. This variety is essential–people can be as active or hands-off as they'd like. I also realize that not everyone comfortable with video calls can attend those, so these don't replace text channel-based activities and convos. 
 
 ## Asyc Events 
 For low-key asynchronous events, we've had a very fun Candy Count and are currently in Radical Raffle and Sock Swappers mode. I'm raffling off the newly released LEGO Tiny Plants set (!!), and we're gearing up for a sock gift exchange. We've also just started our second async, online board game match with a fun prize for the winner–we find joy in prizes around here, much like that cherished treasure chest at dentist offices that's "only for kids" for whatever reason. 
@@ -33,9 +33,9 @@ One specific event-ish text channel I'm looking to expand in 2024 is open office
 ## Video Events 
 Video chats can be as casual as possible through coffee chats, a bit more topic-focused through Whiteboard Weekly sessions, and then a double bit more focused but still pretty casual with Look and Learns and Pop Presentations. 
 
-Look and Learns are new but I can already tell they will be a favorite. The idea is a casual (sensing a theme here?) get together where one person has agreed to walk people through a new thing they learned, their workflow, a beloved tool, and we ask questions as they come up. Much more laid back than a presentation and more opportuntoty for conversations around the topic to see where it goes organically.
+Look and Learns are new but I can already tell they will be a favorite. The idea is a casual (sensing a theme here?) get together where one person has agreed to walk people through a new thing they learned, their workflow, a beloved tool, and we ask questions as they come up. Much more laid back than a presentation and more opportunity for conversations around the topic to see where it goes organically.
 
-Pop Presentations are more like a presentation practice run. Got a conference talk that's ready? Get that first run-through out of the way with us as your small, comfortable, encouraging audience. Feel free to send a required minimum attendance to carry these out–whatever you need. 
+Pop Presentations are more like a presentation practice run. Got a conference talk that's ready? Get that first run-through out of the way with us as your small, comfortable, encouraging audience. Feel free to sent a required minimum attendance to carry these out–whatever you need. 
 
 <div class="gallery" data-columns="2">
   <img src="/content/2023/12/figma.png">
