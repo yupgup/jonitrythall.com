@@ -12,7 +12,7 @@ Our events have taken on the form of one-off async, text-based fun activities, a
 
 The community is only a few months old, yet we already have had several successful events with much more involved, extended ones in the works for 2024. This variety is essential–people can be as active or hands-off as they'd like. I also realize that not everyone comfortable with video calls can attend those, so these don't replace text channel-based activities and convos. 
 
-## Asyc Events 
+## Async Events 
 For low-key asynchronous events, we've had a very fun Candy Count and are currently in Radical Raffle and Sock Swappers mode. I'm raffling off the newly released LEGO Tiny Plants set (!!), and we're gearing up for a sock gift exchange. We've also just started our second async, online board game match with a fun prize for the winner–we find joy in prizes around here, much like that cherished treasure chest at dentist offices that's "only for kids" for whatever reason. 
 
 Also, we have a small but mighty Snack Stories event that's run quarterly, where we send snacks to someone we are matched with and write a bit about why those cherished snacks were chosen. 
@@ -35,7 +35,7 @@ Video chats can be as casual as possible through coffee chats, a bit more topic-
 
 Look and Learns are new but I can already tell they will be a favorite. The idea is a casual (sensing a theme here?) get together where one person has agreed to walk people through a new thing they learned, their workflow, a beloved tool, and we ask questions as they come up. Much more laid back than a presentation and more opportunity for conversations around the topic to see where it goes organically.
 
-Pop Presentations are more like a presentation practice run. Got a conference talk that's ready? Get that first run-through out of the way with us as your small, comfortable, encouraging audience. Feel free to sent a required minimum attendance to carry these out–whatever you need. 
+Pop Presentations are more like a presentation practice run. Got a conference talk that's ready? Get that first run-through out of the way with us as your small, comfortable, encouraging audience. Feel free to set a required minimum attendance to carry these out–whatever you need. 
 
 <div class="gallery" data-columns="2">
   <img src="/content/2023/12/figma.png">
