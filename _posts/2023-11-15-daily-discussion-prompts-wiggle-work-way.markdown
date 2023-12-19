@@ -135,10 +135,14 @@ Tuesdays have proven the trickiest to match a theme with. Everything pairs bette
 - Share a cookbook, food blog, or culinary-themed book you love.
 
 ### Toasty Tuesday
-
 - What’s your favorite way to eat toast?
 - What’s your favorite kind of cozy attire?
 - What space in your home is the coziest?
+
+### Teaching Tuesday
+- If you could teach one thing as a career, what would it be and to whom?
+- In-person or remote or something else?
+- Who was your favorite teacher growing up or within professional development efforts?
 
 ### Twisted Tuesday 
 - What’s a weird “glitch in the system” thing you’ve seen and can’t forget?
