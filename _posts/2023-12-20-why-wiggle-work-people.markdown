@@ -17,7 +17,7 @@ You'll find people laughing, being vulnerable, sharing successes and struggles, 
 
 I look forward to hanging out with everyone daily, and I have come to get a decent sense of personalities and quirks. For instance, I know exactly who to run to when I have a toast mishap, who is hanging holiday cards on their ceiling as we speak, and who can deliver the perfectly crafted distraction when needed most. 
 
-I've overheard more than one person say that they've "found their people" here, and I feel exactly the same. You can make real, lasting connections at Wiggle Work. 
+I've overheard more than one person say that they've "found their people" here, and I feel exactly the same. You can make real, lasting connections at Wiggle Work, and I'm so grateful they continue to hang out.  
 
 If this sounds like a group you'd like to be a part of, we'd love the chance to welcome you, share our thoughts on life and work, and ask you what a sandwich named after you would consist of and be called. 
 
