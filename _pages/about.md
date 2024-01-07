@@ -19,7 +19,7 @@ I spend most of my days communicating with the best clients, running [Wiggle Wor
 ---
 Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these diverse projects has helped me better understand what it takes to get things funded, launched, and in front of the right audiences. Ultimately, I’ve learned that I enjoy the client relationships and high-level problem solving above all else.   
 
-I’m driven to work with kind, passionate people that care about the experiences of others.
+I’m driven to work with kind, genuine people that care about the experiences of others.
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/trythall-zoomies.jpg">
