@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Video Chat Topic Examples'
-description: 'Let's meet and talk! Here's a few things that I'm excited about.'
+description: 'Let us meet and talk! Here are a few things that I am excited about.'
 featured_image: '/content/2024/01/chat.png'
 ---
 Inspired by [Matt Stein’s](https://mattstein.com/) sharing of [Rafał Pastuszak’s](https://sonnet.io/) work, I’m gearing up to offer video call chats in the new year. Part of the preparations involve offering a list of example topics. So, while I’m open to chatting about whatever’s stuck in your mind, there are some things I get especially energetic about, and perhaps we have that in common–what a beautiful thing when that happens.  
