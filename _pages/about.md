@@ -40,10 +40,9 @@ There’s nothing more rewarding and motivating to me than shaping experiences t
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/process.png">
-  <img src="/images/about/goals.png">
-  <img src="/images/about/scope.png">
-	<img src="/images/about/books.JPG">
-  <img src="/images/about/convo.jpg">
+  <img src="/images/about/books.JPG">
+  <img src="/images/about/book-apart.jpg">
+  <img src="/images/about/logo-books.jpg">
 </div>
 
 ---
