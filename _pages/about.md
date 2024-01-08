@@ -29,7 +29,7 @@ I’m driven to work with kind, genuine people that care about the experiences o
   <img src="/images/about/moon.png">
   <img src="/images/about/markee.PNG">
   <img src="/images/about/mh-podcast.png">
-  <img src="/images/about/clients.png">
+  <img src="/images/about/wiggle.png">
 </div>
 
 ---
