@@ -16,7 +16,6 @@ So, here’s a list of things I’d be overly enthusiastic to chat with you abou
 - Content design and strategy 
 - Design process
 - Wiggle Work
-- Friendly branding and design 
 - Design for developers 
 - Working with developers 
 - Pollinators and other bugs
