@@ -32,7 +32,7 @@ I’m driven to work with kind, genuine people that care about the experiences o
 
 ---
 
-One of my greatest professional passions is around transparency in process. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
+My greatest professional focuses have been around transparency in process and building joyful communities. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
 
 My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there, advocating for them. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
 
