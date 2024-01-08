@@ -5,7 +5,7 @@ subtitle:
 featured_image: /images/social.jpg
 ---
 
-Joni Trythall here, nice to (virtually) meet you. I’m busy crafting friendly and impactful brands for startups and developers. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
+Joni Trythall here, nice to (virtually) meet you. I’m busy crafting friendly and impactful brands and communities. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
 
 I spend most of my days communicating with the best clients, running [Wiggle Work](https://wiggle.work), [raising leafcutter bees](https://mastodon.yupgup.com/@joni/110418568337647749) and a human child, and failing to keep [10-foot-tall sunflowers](https://www.instagram.com/p/CScLuSmLrUH/?igshid=MzRlODBiNWFlZA==) upright.
 
@@ -17,7 +17,7 @@ I spend most of my days communicating with the best clients, running [Wiggle Wor
 </div>
 
 ---
-Over the years I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own small agency called [YupGup](https://yupgup.com/). Having a hand in all these diverse projects has helped me better understand what it takes to get things funded, launched, and in front of the right audiences. Ultimately, I’ve learned that I enjoy the client relationships and high-level problem solving above all else.   
+Over the years, I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own micro agency called [YupGup](https://yupgup.com/). Having a hand in all these diverse projects has helped me better understand what it takes to get things funded, launched, and in front of the right adoring audiences. I enjoy genuinely connecting with kind people and problem-solving above all else.  
 
 I’m driven to work with kind, genuine people that care about the experiences of others.
 
@@ -36,7 +36,7 @@ My greatest professional focuses have been around transparency in process and bu
 
 My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there, advocating for them. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
 
-There’s nothing more rewarding to me than taking a task that seems larger than life and intimidating and making it not only manageable and possible but also enjoyable.
+There’s nothing more rewarding and motivating to me than shaping experiences that are enjoyed, celebrated, and meaningful. 
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/process.png">
