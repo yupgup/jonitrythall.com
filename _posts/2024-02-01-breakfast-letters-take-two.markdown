@@ -24,7 +24,7 @@ I’m using [Blot.im](https://blot.im/) for the first time here and already impr
 
 This has already brought so much attention to how much *noise* there is out there around writing. Countless tools are pitched as essential and promise to make writing easier, yet they end up weighing so heavily on our shoulders that we can’t move–we can’t fully access and articulate our thoughts. Or we implement expensive grammar correcting tools that strip personality, and let’s be honest, don’t function properly. Which reminds me: none of these posts will utilize AI.  
 
-I’m excited and just the right amount of scared for this project. One lingering concern I have for this and everything else I get into is oversharing–what is OK to share, and what exact amount of it is acceptable? Since that’s where my mind went, that’s what I decided to lean into writing about for the first post. Here’s [Sharing is Scary](BLOT POST LINK). 
+I’m excited and just the right amount of scared for this project. One lingering concern I have for this and everything else I get into is oversharing–what is OK to share, and what exact amount of it is acceptable? Since that’s where my mind went, that’s what I decided to lean into writing about for the first post. Here’s [Sharing is Scary](https://www.breakfastletters.com/sharing-is-scary). 
 
 It’s not too late to [join us](https://wiggle.work/) and jump into this writing adventure. We are hanging out in the writing-workshop channel of Discord to help each other through mental blockers and logistics and to just be an ear or cheerleader throughout the month. 
 
