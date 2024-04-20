@@ -47,7 +47,6 @@ There’s nothing more rewarding and motivating to me than shaping experiences t
   <img src="/images/about/logo-books.jpg">
 </div>
 
----
 <!--
 ## Around the Interwebs
 I get myself into too many weird things. Here’s a sampling:
