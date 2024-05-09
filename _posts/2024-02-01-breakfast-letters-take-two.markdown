@@ -4,6 +4,8 @@ title: 'Breakfast Letters Take Two'
 description: 'Welcoming back a beloved writing project to write alongside friends.'
 featured_image: '/content/2024/02/bfast.png'
 ---
+<mark style="background: #E4E3FC;">May 2024 update: I enjoyed this project a lot and hope to do it again soon. My posts were very personal and candid. While it was an important exercise that I gained some genuine connections through, I've decided to take the custom site down after some months have passed. I appreciate you reading along while it was up!</mark>
+
 Months ago, at Wiggle Work, we were inspired by [Sarah Gebauer’s](https://www.sarahgebauer.com/) months-long daily blog publishing. So impressed and energized by this work that we decided in a whiteboard session it might be fun to attempt this ourselves. We planned in January and aimed for a February kickoff. And so, happy February, and welcome to the Wiggle Work Winter Writing Workshop.  
 
 <hr />
@@ -24,7 +26,7 @@ I’m using [Blot.im](https://blot.im/) for the first time here and already impr
 
 This has already brought so much attention to how much *noise* there is out there around writing. Countless tools are pitched as essential and promise to make writing easier, yet they end up weighing so heavily on our shoulders that we can’t function–we can’t fully access and articulate our thoughts. Or we implement expensive grammar correcting tools that strip personality, and let’s be honest, don’t function properly. Which reminds me: none of these posts will use AI.  
 
-I’m excited and just the right amount of scared for this project. One lingering concern I have for this and everything else I get into is oversharing–what is OK to share, and what exact amount of it is acceptable? Since that’s where my mind went, that’s what I decided to lean into writing about for the first post. Here’s [Sharing is Scary](https://www.breakfastletters.com/sharing-is-scary). 
+I’m excited and just the right amount of scared for this project. One lingering concern I have for this and everything else I get into is oversharing–what is OK to share, and what exact amount of it is acceptable? Since that’s where my mind went, that’s what I decided to lean into writing about for the first post. 
 
 It’s not too late to [join us](https://wiggle.work/) and jump into this writing adventure. We are hanging out in the writing-workshop channel of Discord to help each other through mental blockers and logistics and to just be an ear or cheerleader throughout the month. 
 
