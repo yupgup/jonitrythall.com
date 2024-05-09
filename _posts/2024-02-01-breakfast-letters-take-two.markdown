@@ -4,10 +4,10 @@ title: 'Breakfast Letters Take Two'
 description: 'Welcoming back a beloved writing project to write alongside friends.'
 featured_image: '/content/2024/02/bfast.png'
 ---
-<mark style="background: #E4E3FC;">May 2024 update: I enjoyed this project a lot and hope to do it again soon. My posts were very personal and candid. While it was an important exercise that I gained some genuine connections through, I've decided to take the custom site down after some months have passed. I appreciate you reading along while it was up!</mark>
-
 Months ago, at Wiggle Work, we were inspired by [Sarah Gebauer’s](https://www.sarahgebauer.com/) months-long daily blog publishing. So impressed and energized by this work that we decided in a whiteboard session it might be fun to attempt this ourselves. We planned in January and aimed for a February kickoff. And so, happy February, and welcome to the Wiggle Work Winter Writing Workshop.  
 
+<hr />
+<mark style="background: #E4E3FC;">May 2024 update: I enjoyed this project a lot and hope to do it again soon. My posts were very personal and candid. While it was an important exercise that I gained some genuine connections through, I've decided to take the custom site down after some months have passed. I appreciate you reading along while it was up!</mark>
 <hr />
 
 Emotions leading up to this beautiful leap year month have been all over the place. Once the initial group excitement wore off, it all became quite a terrifying prospect. What a wild commitment to sign up for amid work and adulting. Just figuring out a theme for this felt like a larger-than-life task. I was all over the place with theme ideas, and some of them got super weird–dried sourdough starter and a letter to a different person a day; anyone? Some ideas were great but not within this context, so I’ve taken those treasures to my Notion boards. 
