@@ -7,7 +7,7 @@ featured_image: /images/social.jpg
 
 Joni Trythall here, nice to (virtually) meet you. I’m busy crafting friendly and impactful brands and communities that value genuine, lasting connections. I’ve worked remotely for over a decade and am currently based at the tip-top of Delaware.
 
-I spend most of my days communicating with the best clients, running [Wiggle Work](https://wiggle.work), [raising leafcutter bees](https://mastodon.yupgup.com/@joni/110418568337647749) and a human child, and failing to keep [10-foot-tall sunflowers](https://www.instagram.com/p/CScLuSmLrUH/?igshid=MzRlODBiNWFlZA==) upright.
+I spend most of my days communicating with the best clients, running [Wiggle Work](https://wiggle.work), [raising leafcutter bees](https://mastodon.yupgup.com/@joni/110418568337647749), and failing to keep [10-foot-tall sunflowers](https://www.instagram.com/p/CScLuSmLrUH/?igshid=MzRlODBiNWFlZA==) upright.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/about/joni.JPG">
@@ -17,9 +17,9 @@ I spend most of my days communicating with the best clients, running [Wiggle Wor
 </div>
 
 ---
-Over the years, I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own micro agency called [YupGup](https://yupgup.com/). Having a hand in all these diverse projects has helped me better understand what it takes to get things funded, launched, and in front of the right adoring audiences. I enjoy genuinely connecting with kind people and problem-solving above all else.  
+Over the years, I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own micro agency called [YupGup](https://yupgup.com/). Being involved in these diverse projects has provided me with a better understanding of what it takes to secure funding, launch initiatives, and reach the right audiences. I find genuine connections with kind people and problem-solving to be the most fulfilling aspects of my work.
 
-I’m driven to work with kind, genuine people that care about the experiences of others.
+I’m driven to work with sincere, genuine people who care about the experiences of others.
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/trythall-zoomies.jpg">
@@ -34,11 +34,11 @@ I’m driven to work with kind, genuine people that care about the experiences o
 
 ---
 
-My greatest professional focuses have been around transparency in process and building joyful communities. From initial sales outreach through discovery and a live project, the process is where I spend most of my time and attention. While it’s constantly evolving and ultimately tailored to each individual client, the common themes for me as a project manager are over-communication, kindness, and organization at a radical level.  
+I have primarily focused on promoting transparency in processes and fostering positive communities in my professional career. I dedicate the majority of my time and attention to building relationships and developing strategies, starting from initial sales outreach through project discovery and up to execution. From high-level ideas to a fully formed, detailed brand with a mission, values, and just the right identity, clients come to me for my varied skillset, proven experience, and eagerness to overdeliver and get things just right. 
 
-My clients know exactly what to expect and that I’ll excitedly come up with creative solutions to any bumps we hit along our journey. I’m always there, advocating for them. I look forward to seeing them each week on our video calls and getting to know them well enough to send along the perfect gift when then project launches.
+My clients know exactly what to expect, and they can count on me to enthusiastically come up with creative solutions to any challenges we encounter along the way—I am always there to advocate for them. I enjoy our weekly video calls and getting to know them well enough to send the perfect gift when the project launches.
 
-There’s nothing more rewarding and motivating to me than shaping experiences that are enjoyed, celebrated, and meaningful. 
+There is nothing more rewarding and motivating to me than shaping experiences that are enjoyed, celebrated, effective, and meaningful.
 
 <div class="gallery" data-columns="2">
   <img src="/images/about/process.png">
