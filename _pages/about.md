@@ -17,7 +17,7 @@ I spend most of my days communicating with the best clients, running [Wiggle Wor
 </div>
 
 ---
-Over the years, I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, raised essential funds for nonprofits, and now run my own micro agency called [YupGup](https://yupgup.com/). Being involved in these diverse projects has provided me with a better understanding of what it takes to secure funding, launch initiatives, and reach the right audiences. I find genuine connections with kind people and problem-solving to be the most fulfilling aspects of my work.
+Over the years, I’ve worked as a front-end developer and product designer, led design teams, founded [Ela Conf](https://elaconf.github.io/), taught development workshops to women and kids, wrote [A Pocket Guide to Writing SVG](https://svgpocketguide.com), raised essential funds for nonprofits, and now run my own micro agency called [YupGup](https://yupgup.com/). Having a hand in all these diverse projects has helped me better understand what it takes to get things funded, launched, and in front of the right adoring audiences. I have perfectly positioned myself to thrive in brand management and creative direction, carrying out marketing efforts rooted in mutual trust and true engagement. 
 
 I’m driven to work with sincere, genuine people who care about the experiences of others.
 
