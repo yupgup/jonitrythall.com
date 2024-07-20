@@ -31,7 +31,8 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  mastodon_url: ''
+  mastodon_url: 'https://mastodon.yupgup.com/@joni'
+  pixelfed_url: 'https://pixelfed.social/i/web/profile/659573777828622612'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
