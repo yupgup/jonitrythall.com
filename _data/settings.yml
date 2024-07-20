@@ -29,10 +29,8 @@ contact_settings:
   send_button_text: 'Send message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/jonitrythall/'
   mastodon_url: 'https://mastodon.yupgup.com/@joni'
-  pixelfed_url: 'https://pixelfed.social/i/web/profile/659573777828622612'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -44,7 +42,6 @@ social_settings:
   amazon_url: ''
   apple_url: ''
   android_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/jonitrythall/'
   tumblr_url: 'https://apickypig.com'
   dribbble_url: 'https://dribbble.com/jonitrythall'
   behance_url: ''
