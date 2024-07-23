@@ -16,6 +16,8 @@ menu_settings:
     #  url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'Portfolio'
+      url: 'https://jonitrythall.com/assets/trythall-portfolio.pdf'
     - title: 'Contact'
       url: '/contact'
 
