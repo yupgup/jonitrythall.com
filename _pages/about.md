@@ -84,7 +84,7 @@ I get myself into too many weird things. Here’s a sampling:
 </ul>z
 	---  -->
 
-<p><a
+<!-- <p><a
   href="https://jonitrythall.com/assets/trythall-portfolio.pdf"
-  class="button button--large">View portfolio</a></p> 
+  class="button button--large">View portfolio</a></p> -->
 
