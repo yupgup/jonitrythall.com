@@ -38,12 +38,6 @@ A link round-up of select wins, mentions, and celebrations.
 * [SVG Workshop](https://github.com/jonitrythall/svgworkshop)—A curriculum for teaching SVG code to adults
 * [Dot Doodle for Kids](https://github.com/jonitrythall/dotdoodl-kid-classes)—CSS animation curriculum 
 
-### Community 
-* [Ela Conf founder, fundraiser, and design lead](https://elaconf.github.io)—A conference and community for marginalized individuals in tech 
-* [Wiggle Work founder and manager](https://wiggle.work)—A cozy space for tech and tech-adjacent remote tech workers to connect and hang out
-* [Wiggle Work Code of Conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0GDVpTamyRJS1g0vXHyyw_k)—Thoughtfully written and the heart of every community 
-* [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
-
 ### Interviews
 * [Plucky blog](https://www.beplucky.com/qa-with-joni-trythall-designer-of-manager-weeklies/)—Q&A with Joni Trythall, designer of Manager Weeklies
 * [DjangoCon US 2023 blog](https://2023.djangocon.us/news/Joni-Trythall-YupGup/)—Introducing Joni Trythall, YupGup Design Lead for DjangoCon US 2023
@@ -53,6 +47,12 @@ A link round-up of select wins, mentions, and celebrations.
 * [Design Feast](https://designfeaster.blogspot.com/2019/10/joni-trythall-side-projects.html)—Pride, Work and Necessity of Side Projects: Creative Mother-and-Son Time between Designer Joni Trythall and Ben
 * [Technical.ly article](https://technical.ly/diversity-equity-inclusion/time-girl-develop-wilmingtons-big-debut/)—It’s time for Girl Develop It Wilmington’s big debut
 * [Technical.ly article](https://technical.ly/software-development/joni-trythall-pocket-guide-to-writing-svg/)—This self-made Hockessin web designer published an SVG guide
+
+### Community 
+* [Ela Conf founder, fundraiser, and design lead](https://elaconf.github.io)—A conference and community for marginalized individuals in tech 
+* [Wiggle Work founder and manager](https://wiggle.work)—A cozy space for tech and tech-adjacent remote tech workers to connect and hang out
+* [Wiggle Work Code of Conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0GDVpTamyRJS1g0vXHyyw_k)—Thoughtfully written and the heart of every community 
+* [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 
 ### Personal Projects 
 * [Bologna and Ben](https://www.bolognaandben.com)
