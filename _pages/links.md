@@ -2,12 +2,12 @@
 title: Lovely Link List
 description: A long list of the wins, mentions, and celebrations of Joni Trythall.
 subtitle:
-featured_image: /images/links.jpg
+featured_image: /content/2024/08/links.jpg
 ---
 
 A link round-up of select wins, mentions, and celebrations. 
 
-![](/content/2024/02/bfast-ww.png)
+![A collage of images of Joni Trythall teaching and attending community events](/content/2024/08/links.jpg)
 
 <hr />
 
