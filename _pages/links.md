@@ -33,7 +33,7 @@ A link round-up of select wins, mentions, and celebrations.
 ### Teaching, Education  
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com)—An essential open source reference 
 * [Flexbox Cheatsheet Cheatsheet](https://jonitrythall.com/flexbox-cheatsheet)—A visual guide to using flexbox and my most celebrated published resource to date
-* [Tuts+ Town](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)—A thorough and visual curriculum for kids to learn web design 
+* [Tuts+ Town](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)—A visual curriculum for kids to learn web design 
 * [DjangoCon 2019 Talk](https://www.youtube.com/watch?v=_6duNBS_kGw)—Just Enough Typography for developer audience  
 * [SVG Workshop](https://github.com/jonitrythall/svgworkshop)—A curriculum for teaching SVG code to adults
 * [Dot Doodle for Kids](https://github.com/jonitrythall/dotdoodl-kid-classes)—CSS animation curriculum 
@@ -52,7 +52,6 @@ A link round-up of select wins, mentions, and celebrations.
 * [Design Feast](https://designfeaster.blogspot.com/2019/10/joni-trythall-side-projects.html)—Pride, Work and Necessity of Side Projects: Creative Mother-and-Son Time between Designer Joni Trythall and Ben
 * [Technical.ly article](https://technical.ly/diversity-equity-inclusion/time-girl-develop-wilmingtons-big-debut/)—It’s time for Girl Develop It Wilmington’s big debut
 * [Technical.ly article](https://technical.ly/software-development/joni-trythall-pocket-guide-to-writing-svg/)—This self-made Hockessin web designer published an SVG guide
-* [Delaware Online](https://www.delawareonline.com/story/life/2015/10/16/wilmingtons-female-techies-unite/74031658/)—Wilmington's female techies unite
 
 ### Personal Projects 
 * [Bologna and Ben](https://www.bolognaandben.com)
@@ -64,4 +63,5 @@ A link round-up of select wins, mentions, and celebrations.
 ### Mentions 
 * [Katy Decorah's 10-year reflection](https://katydecorah.com/notes/10-years/)—Impact of Ela Conf
 * [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
+* [Delaware Online](https://www.delawareonline.com/story/life/2015/10/16/wilmingtons-female-techies-unite/74031658/)—Wilmington's female techies unite
 -->
