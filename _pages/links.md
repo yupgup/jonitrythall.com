@@ -42,6 +42,7 @@ A link round-up of select wins, mentions, and celebrations.
 * [Ela Conf founder, fundraiser, and design lead](https://elaconf.github.io)—A conference and community for marginalized individuals in tech 
 * [Wiggle Work founder and manager](https://wiggle.work)—A cozy space for tech and tech-adjacent remote tech workers to connect and hang out
 * [Wiggle Work Code of Conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0GDVpTamyRJS1g0vXHyyw_k)—Thoughtfully written and the heart of every community 
+* [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 
 ### Interviews
 * [Plucky blog](https://www.beplucky.com/qa-with-joni-trythall-designer-of-manager-weeklies/)—Q&A with Joni Trythall, designer of Manager Weeklies
