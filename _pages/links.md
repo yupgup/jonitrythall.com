@@ -57,6 +57,7 @@ A link round-up of select wins, mentions, and celebrations.
 ### Personal Projects 
 * [Bologna and Ben](https://www.bolognaandben.com)
 * [Raising Monarchs](https://jonitrythall.com/raising-monarch-babies)
+* [Raising Bees](https://jonitrythall.com/buzzy-bee-butts)
 * [Bonkers for Bugs](https://jonitrythall.com/bonkers-for-bugs-presentation)
 * [Wild Flower Project](https://github.com/jonitrythall/wildflowers)
 
