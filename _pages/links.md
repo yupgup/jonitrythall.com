@@ -55,11 +55,12 @@ A link round-up of select wins, mentions, and celebrations.
 * [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 
 ### Personal Projects 
-* [Bologna and Ben](https://www.bolognaandben.com)
+* [Macro bug photography portfolio](https://portfolio.pixelfed.social/jonitry)
 * [Raising Monarchs](https://jonitrythall.com/raising-monarch-babies)
 * [Raising Bees](https://jonitrythall.com/buzzy-bee-butts)
 * [Bonkers for Bugs](https://jonitrythall.com/bonkers-for-bugs-presentation)
 * [Wild Flower Project](https://github.com/jonitrythall/wildflowers)
+* [Bologna and Ben](https://www.bolognaandben.com)
 
 <!--
 ### Mentions 
