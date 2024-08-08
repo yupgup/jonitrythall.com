@@ -89,4 +89,7 @@ I get myself into too many weird things. Here’s a sampling:
 <p><a
   href="https://jonitrythall.com/assets/trythall-resume.pdf"
   class="button button--large">View resume</a></p> 
+<p><a
+  href="https://jonitrythall.com/links"
+  class="button button--large">View link list</a></p> 
 
