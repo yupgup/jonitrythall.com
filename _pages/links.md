@@ -16,19 +16,34 @@ A link round-up of select wins, mentions, and celebrations.
 * [Chestnut Hill College in Philadelphia, PA](https://www.chc.edu)—Master of Science in Human Services Administration 
 * [Professional Certificate from Cornell](https://ecornell.cornell.edu/certificates/marketing/brand-management/)—Brand Management 
 
+### Design Work
+* [DjangoCon US 2024](https://2024.djangocon.us)—
+* [DjangoCon US 2023](https://2023.djangocon.us)—
+* [DjangoCon US 2022](https://2022.djangocon.us)—
+* [The Hand Foundation](https://handfoundationinc.org)—
+* [LearnDjango](https://learndjango.com)—
+* [Moon Highway](https://www.moonhighway.com)—New visual identity for company and its projects
+* [Manager Weeklies](https://shop.beplucky.com/products/manager-weeklies-2-pack)–
+* [React Rally 2023](https://2023.reactrally.com)—
+* [Nylon Technology](https://www.nylontechnology.com)—
+* [Elevate Digital](https://elevatedigital.io)—
+* [Certified Fresh Events](https://cfe.dev)—
+* [Soft Skills Engineering](https://softskills.audio)—
+
 ### Teaching, Education  
 * [Pocket Guide to Writing SVG](https://svgpocketguide.com)—An essential open source reference 
 * [Flexbox Cheatsheet Cheatsheet](https://jonitrythall.com/flexbox-cheatsheet)—A visual guide to using flexbox and my most celebrated published resource to date
-* [Tuts+ Town](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)—A thorough and visual curriculum for kids to learning web design 
+* [Tuts+ Town](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)—A thorough and visual curriculum for kids to learn web design 
 * [DjangoCon 2019 Talk](https://www.youtube.com/watch?v=_6duNBS_kGw)—Just Enough Typography for developer audience  
 
 ### Community 
 * [Ela Conf founder, fundraiser, and design lead](https://elaconf.github.io)—A conference and community for marginalized individuals in tech 
-* [Wiggle Work founder and manager](https://wiggle.work)—A cozy space for teach and tech adjacent remote tech workers to connect and hang out
+* [Wiggle Work founder and manager](https://wiggle.work)—A cozy space for tech and tech adjacent remote tech workers to connect and hang out
 * [Wiggle Work Code of Conduct](https://docs.google.com/document/d/1WtNE6KtcRcA-vilWVaot0GDVpTamyRJS1g0vXHyyw_k)—Thoughtfully written and the heart of every community 
 
 ### Interviews
 * [Plucky blog](https://www.beplucky.com/qa-with-joni-trythall-designer-of-manager-weeklies/)—Q&A with Joni Trythall, designer of Manager Weeklies
+* [DjangoCon US 2023 blog](https://2023.djangocon.us/news/Joni-Trythall-YupGup/)—Introducing Joni Trythall, YupGup Design Lead for DjangoCon US 2023
 * [Friends Talk Frontend podcast](https://open.spotify.com/episode/7peojtdadFO5ETt8dXKkzS)
 * [Sitepoint's Versioning podcast](https://www.sitepoint.com/learning-html-css-and-svg-and-facing-your-fears-with-joni-trythall/)—Learning HTML, CSS and SVG, and Facing Fears
 * [Design Edu Today](https://designedu.today/episodes/e018-importance-of-being-multidisciplinary-and-learning-on-your-own-with-joni-trythall.html)—The Importance of Being Multidisciplinary & Learning on Your Own with Joni Trythall
@@ -38,7 +53,7 @@ A link round-up of select wins, mentions, and celebrations.
 
 ### Mentions 
 * [Katy Decorah's 10-year reflection](https://katydecorah.com/notes/10-years/)—Impact of Ela Conf
-* [Bringing CopdePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
+* [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 
 ### Personal Projects 
 * [Bologna and Ben](https://www.bolognaandben.com)
