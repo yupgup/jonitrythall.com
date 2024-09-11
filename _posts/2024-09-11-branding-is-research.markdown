@@ -14,7 +14,7 @@ Brand management typically includes the following stages: planning, strategy, pu
 
 <hr />
 
-Some of the behind-the-scenes research aid tools I often use throughout this process include a Z-SWOT analysis, personality scale, a positioning map, and activation evaluations. 
+Some of the behind-the-scenes research aid tools I often use throughout this process include a Z-SWOT analysis, positioning map, personality scale, and activation evaluations. 
 
 ## Z-SWOT
 A Z-SWOT is a much more action-focused take on a traditional SWOT analysis since it provides a clear way to define priorities by following the Z pattern—it eliminates the "OK, now what?" visceral reaction to a completed SWOT table. 
@@ -22,7 +22,7 @@ A Z-SWOT is a much more action-focused take on a traditional SWOT analysis since
 Here are some standard questions I ask to get started with completing this table:
 
 ### Strengths 
-- What are you known for?
+- What are we known for?
 - What do we do very well?
 - What do we rely on for success?
 - What positive things do customers say?
@@ -43,7 +43,7 @@ Here are some standard questions I ask to get started with completing this table
 ### Threats 
 - What new trends could end the business?
 - What trends could lower revenues?
-- What are new and existing competitors doing that could threaten our - market position and share?
+- What are new and existing competitors doing that could threaten our market position and share?
 
 From here, follow the Z to prioritize action items: invest, defend, adapt, withdraw. 
 
@@ -67,4 +67,4 @@ I find these helpful in ensuring clear communication goals and as an aid in gain
 ## Let's Brand Together 
 So, branding is ultimately heavier on the research side of things which then helps drive design and marketing by establishing a solid base of guidelines to work from, ensuring content and the overall experience of interacting with the brand is consistent and effective. <mark style="background: #E4E3FC;">It's incredibly powerful to be able to perfectly craft how someone feels and what actions they'll take when interacting with a brand at every touchpoint.</mark> I work with friendly companies and organizations that don't exploit this power through deceptive patterns.
 
-I've created a questionnaire for clients that gathers the information necessary to begin this critical discovery phase and define these essential brand elements that then shape the other especially fun stuff, like visual design and marketing campaigns. If you'd like to partner up on getting your brand up and running or evaluating and adjusting an existing one, let's get [on a call](https://calendly.com/jonitrythall/30-minute-work-inquiry) or you can email me at hello@jonitrythall.com—I can't wait. 
+I've created a questionnaire for clients that gathers the information necessary to begin this critical discovery phase and define these essential brand elements that then shape the other especially fun stuff. If you'd like to partner up on getting your brand up and running or evaluating and adjusting an existing one, let's get [on a call](https://calendly.com/jonitrythall/30-minute-work-inquiry) or you can email me at hello@jonitrythall.com—I can't wait. 
