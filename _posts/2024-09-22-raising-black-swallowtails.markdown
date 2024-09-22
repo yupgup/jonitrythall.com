@@ -12,7 +12,7 @@ I wanted to document the process and my favorite pics here to reference next yea
 
 Unlike monarch caterpillars that will *only* eat milkweed, black swallowtail caterpillars live off many plants from the carrot family, such as Queen Anne’s lace, celery, parsley, carrots, dill, and parsnip. These are the plants an adult butterfly will consider a host plant in which to lay their eggs—much more flexible than monarchs. 
 
-In the spring, I planted six Italian and flat organic parsley plants in a raised planter on the patio and checked the leaves (tops and bottoms) often. I didn’t discover my first egg until August 2nd, after nearly giving up hope. After that though, there were new eggs each day for weeks. They didn’t all make it, which I’ll speak to more soon, but I stopped counting after collecting 65 eggs (just from the original six plants!). Each time I found an egg, I’d cut the stem of the parsley and place in water within an enclosure so it could hatch safely.   
+In the spring, I planted six Italian and flat organic parsley plants in a raised planter on the patio and checked the leaves (tops and bottoms) often. I didn’t discover my first egg until August 2nd, after nearly giving up hope. After that though, there were new eggs each day for weeks. They didn’t all make it, which I’ll speak to more soon, but I stopped counting after collecting 65 eggs (just from the original six plants!). Each time I found one of these perfect pearl eggs, I’d cut the stem of the parsley and place in water within an enclosure so it could hatch safely.   
 
 <div class="gallery" data-columns="2">
   <img src="/content/2024/09/egg-split.JPG">
