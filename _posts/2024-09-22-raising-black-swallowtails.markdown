@@ -2,9 +2,9 @@
 layout: post
 title: 'Raising Black Swallowtails'
 description: 'The joys and challenges in raising and releasing black swallowtail butteflies.'
-featured_image: '/content/2024/09/all-swallowtails.jpeg'
+featured_image: '/content/2024/09/butterfly2.JPG'
 ---
-This past summer was my first time raising swallowtail butterflies, from eggs to the final release. Having only raised monarchs until this point, I was feeling a little out of my element and didn’t have high hopes. I started by planting parsley, one of several host plants adult butterflies will lay their eggs on, and waiting patiently. 
+This past summer was my first time raising black swallowtail butterflies, from eggs to the final release. Having only raised monarchs until this point, I was feeling a little out of my element and didn’t have high hopes. I started by planting parsley, one of several host plants adult butterflies will lay their eggs on, and waiting patiently. 
 
 I wanted to document the process and my favorite pics here to reference next year, much like I did with my [monarch post](https://jonitrythall.com/raising-monarch-babies). 
 
