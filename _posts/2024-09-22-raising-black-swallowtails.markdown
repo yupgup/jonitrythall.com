@@ -55,10 +55,8 @@ I observed some incredible things while caring for these caterpillars, such as t
 This stage was especially interesting to witness for the first time. Unlike monarchs, these black swallowtails attach themselves at two points and, over the course of a couple days, turn into these wild, alien-like shapes attached with a little hammock string. 
 
 <div class="gallery" data-columns="2">
-  <img src="/content/2024/09/egg-split.JPG">
-  <img src="/content/2024/09/close-eggs.JPG">
-  <img src="/content/2024/09/many-eggs.JPG">
-  <img src="/content/2024/09/tiny-baby.JPG">
+  <img src="/content/2024/09/chrysalis1.JPG">
+  <img src="/content/2024/09/chrysalis2.JPG">
 </div>
 
 I learned that the significant color variation happens as the season progresses, so early season chrysalises are bright green while later season ones are brown to best blend in with the changing foliage. They remain in this stage from one to two weeks, with mine definitely on the longer end of this range. 
@@ -68,10 +66,8 @@ I learned that the significant color variation happens as the season progresses,
 Now for the grand finale. Much like with monarchs, these butterflies need 4-6 hours to dry out once emerging from their chrysalises. There was even one instance over the summer where one emerged during a tornado (yes, really) so I kept it overnight, offering it fruit and it made it just fine until its release the following (much nicer) day.
 
 <div class="gallery" data-columns="2">
-  <img src="/content/2024/09/egg-split.JPG">
-  <img src="/content/2024/09/close-eggs.JPG">
-  <img src="/content/2024/09/many-eggs.JPG">
-  <img src="/content/2024/09/tiny-baby.JPG">
+  <img src="/content/2024/09/butterfly1.JPG">
+  <img src="/content/2024/09/butterfly2.JPG">
 </div>
 
 As of this post, I have four chrysalises remaining and four caterpillars, which I have to assume will be over wintering on my porch at this point—see you in the spring, friends!  
