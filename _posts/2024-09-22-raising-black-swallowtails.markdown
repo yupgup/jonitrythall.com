@@ -12,15 +12,13 @@ I wanted to document the process and my favorite pics here to reference next yea
 
 Unlike monarch caterpillars that will *only* eat milkweed, black swallowtail caterpillars live off many plants from the carrot family, such as Queen Anne’s lace, celery, parsley, carrots, dill, and parsnip. These are the plants an adult butterfly will consider a host plant in which to lay their eggs—much more flexible than monarchs. 
 
-In the spring, I planted six Italian and flat organic parsley plants in a raised planter on the patio and checked the leaves (tops and bottoms) often. I didn’t discover my first egg until August 2nd, after nearly giving up hope. After that though, there were new eggs each day for weeks. They didn’t all make it, which I’ll speak to more soon, but I stopped counting after collecting 65 eggs (just from the original six plants!).  
+In the spring, I planted six Italian and flat organic parsley plants in a raised planter on the patio and checked the leaves (tops and bottoms) often. I didn’t discover my first egg until August 2nd, after nearly giving up hope. After that though, there were new eggs each day for weeks. They didn’t all make it, which I’ll speak to more soon, but I stopped counting after collecting 65 eggs (just from the original six plants!). Each time I found an egg, I’d cut the stem of the parsley and place in water within an enclosure so it could hatch safely.   
 
 <div class="gallery" data-columns="2">
-  <img src="/content/2023/08/hand1.JPG">
-  <img src="/content/2023/08/hand2.jpeg">
-  <img src="/content/2023/08/hand3.jpeg">
-  <img src="/content/2023/08/hand5.JPG">
-  <img src="/content/2023/08/hand6.jpeg">
-  <img src="/content/2023/08/hand7.jpeg">
+  <img src="/content/2024/09/egg-split.JPG">
+  <img src="/content/2024/09/close-eggs.JPG">
+  <img src="/content/2024/09/many-eggs.JPG">
+  <img src="/content/2024/09/tiny-baby.JPG">
 </div>
 
 Next year I am going to plant a variety of host plants to see which one proves to be their favorite. 
@@ -39,13 +37,29 @@ After this infection mayhem, I left a few eggs out on the planted, unprotected p
 
 Continuing to feed them proved trickier than I originally expected. After all, I am at the grocery store constantly and there is lots of parsley there. The problem is that most of these herbs are treated, even if it says they’re not. After questionable parsley from a chain grocery store, I ended up only getting it from a local, organic market I trust. Even so, I continued to soak and rinse it thoroughly. 
 
+<div class="gallery" data-columns="2">
+  <img src="/content/2024/09/cat1.JPG">
+  <img src="/content/2024/09/cat2.JPG">
+  <img src="/content/2024/09/cat3.JPG">
+  <img src="/content/2024/09/cat4.JPG">
+  <img src="/content/2024/09/cat5.JPG">
+  <img src="/content/2024/09/cat6.JPG">
+</div>
+
 Once cleaned, I would pat dry, cut an inch off the end of the stems to enable better water absorption, and place in a fresh glass with water. I overfilled these to ensure there was plenty of dense surface area for the caterpillars to move around on without risk of falling in the water and to help them exit the parsley when they were ready to find the perfect spot to transform. 
+
+I observed some incredible things while caring for these caterpillars, such as their various stages (instars) where they look like a different species each time and the orange organ inside their head that inflates when they feel threated. 
 
 ## Chrysalis 
 
 This stage was especially interesting to witness for the first time. Unlike monarchs, these black swallowtails attach themselves at two points and, over the course of a couple days, turn into these wild, alien-like shapes attached with a little hammock string. 
 
- <imgs>
+<div class="gallery" data-columns="2">
+  <img src="/content/2024/09/egg-split.JPG">
+  <img src="/content/2024/09/close-eggs.JPG">
+  <img src="/content/2024/09/many-eggs.JPG">
+  <img src="/content/2024/09/tiny-baby.JPG">
+</div>
 
 I learned that the significant color variation happens as the season progresses, so early season chrysalises are bright green while later season ones are brown to best blend in with the changing foliage. They remain in this stage from one to two weeks, with mine definitely on the longer end of this range. 
 
@@ -53,7 +67,12 @@ I learned that the significant color variation happens as the season progresses,
 
 Now for the grand finale. Much like with monarchs, these butterflies need 4-6 hours to dry out once emerging from their chrysalises. There was even one instance over the summer where one emerged during a tornado (yes, really) so I kept it overnight, offering it fruit and it made it just fine until its release the following (much nicer) day.
 
-<imgs>
+<div class="gallery" data-columns="2">
+  <img src="/content/2024/09/egg-split.JPG">
+  <img src="/content/2024/09/close-eggs.JPG">
+  <img src="/content/2024/09/many-eggs.JPG">
+  <img src="/content/2024/09/tiny-baby.JPG">
+</div>
 
 As of this post, I have four chrysalises remaining and four caterpillars, which I have to assume will be over wintering on my porch at this point—see you in the spring, friends!  
 
