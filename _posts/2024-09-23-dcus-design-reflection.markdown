@@ -15,25 +15,23 @@ While I unfortunately cannot be there in-person, I enjoy following along closely
 
 <hr />
 
-Our process together has always been an enjoyable and organized one. There’s always a kick-off meeting to capture any specific things anyone would like to see different from last year and review any high-level ideas or requests the group may have regarding a theme direction. There’s always been a lot of flexibility here, with the location being reflected as one of the few hard requirements. We spend the first few meetings discussing and learning about the host city to understand how to best capture its elements. 
+Our process together has consistently been an enjoyable and organized one. There’s always a kick-off meeting to capture any specific details anyone would like to see different from last year and review any high-level ideas or requests the group may have regarding a theme direction. There’s a lot of flexibility here, with the location being reflected as one of the few hard requirements. We spend the first few meetings discussing and learning about the host city to understand how to best capture its elements. 
 
 <img src="/content/2024/09/dcus/2024/intro1.jpg">
 
-<div class="gallery" data-columns="2">
-  <img src="/content/2024/09/dcus/2024/intro2.png">
-  <img src="/content/2024/09/dcus/2024/intro3.png">
-  <img src="/content/2024/09/dcus/2024/intro4.png">
-</div>
+<img src="/content/2024/09/dcus/2024/intros2.png">
 
-We have weekly meetings for several months, starting from brainstorming ideas and design samples, to creating a complete illustration library, effective fundraising materials, social media graphics, branded slide presentations, a web design, and, finally, custom swag that people adore. These community event projects are one of my favorites from a project perspective since I find the challenges to be so unique and rewarding—full spectrum design work with a larger than usual stakeholder group to communicate with. 
+<img src="/content/2024/09/dcus/2024/intros3.png">
 
-We also do this work in the open, which I value. Outside of video calls, we discuss the project in an open Slack channel that is run by DCUS which can be a helpful space for gathering additional feedback. The team is also quick to share their news and journey through blog posts, which I admire. Here’s [this year’s post](https://2024.djangocon.us/news/our-new-djangocon-website/) about our work together.  
+We have weekly meetings for several months, starting from brainstorming ideas and design samples, to creating a complete illustration library, effective fundraising materials, social media graphics, branded slide presentations, a web site, and, finally, custom swag that folks adore. These community event projects are one of my favorites from a project perspective since I find the challenges to be so unique and rewarding—full spectrum design work with a larger than usual stakeholder group to communicate with. 
 
-Getting to know this community has been both a privilege and essential for being able to best capture its spirit and intentions through the theme design. It’s a welcoming, caring group that gravitates towards cute mascots, inclusive language and imagery, and meaningful, direct graphics over anything abstract. They are not afraid of color and prefer to reflect and celebrate their host cities. 
+We also do this work in the open, which I value. Outside of video calls, we discuss the project in an open Slack channel that is run by DCUS which can be a helpful space for gathering additional feedback. The team is also quick to share their news and journey through blog posts. Here’s [this year’s post](https://2024.djangocon.us/news/our-new-djangocon-website/) about our work together.  
+
+Getting to know this community has been both a privilege and essential for being able to best capture its spirit and intentions through the theme design. It’s a welcoming, caring group that gravitates towards cute mascots, inclusive language and imagery, and meaningful, direct graphics over anything abstract or convoluted. 
 
 ## Previous Designs
 
-I can’t help but think about the past year’s designs as I watch 2024’s truly come to life. Here’s a little visual journey that includes some of the most fun and friendly work I’ve done.
+I can’t help but think about the past year’s designs as I watch 2024’s truly come to life. Here’s a little visual journey that includes some of the most fun and friendly work I’ve done in my career.
 
 ### [2023](https://2023.djangocon.us/)—Durham
 
