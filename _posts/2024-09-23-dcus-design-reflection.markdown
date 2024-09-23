@@ -19,9 +19,11 @@ Our process together has always been an enjoyable and organized one. There’s a
 
 <img src="/content/2024/09/dcus/2024/intro1.jpg">
 
-<img src="/content/2024/09/dcus/2024/intros2.png">
-
-<img src="/content/2024/09/dcus/2024/intros3.png">
+<div class="gallery" data-columns="2">
+  <img src="/content/2024/09/dcus/2024/intro2.png">
+  <img src="/content/2024/09/dcus/2024/intro3.png">
+  <img src="/content/2024/09/dcus/2024/intro4.png">
+</div>
 
 We have weekly meetings for several months, starting from brainstorming ideas and design samples, to creating a complete illustration library, effective fundraising materials, social media graphics, branded slide presentations, a web design, and, finally, custom swag that people adore. These community event projects are one of my favorites from a project perspective since I find the challenges to be so unique and rewarding—full spectrum design work with a larger than usual stakeholder group to communicate with. 
 
