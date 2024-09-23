@@ -27,7 +27,7 @@ We have weekly meetings for several months, starting from brainstorming ideas an
 
 We also do this work in the open, which I value. Outside of video calls, we discuss the project in an open Slack channel that is run by DCUS which can be a helpful space for gathering additional feedback. The team is also quick to share their news and journey through blog posts. Here’s [this year’s post](https://2024.djangocon.us/news/our-new-djangocon-website/) about our work together.  
 
-Getting to know this community has been both a privilege and essential for being able to best capture its spirit and intentions through the theme design. It’s a welcoming, caring group that gravitates towards cute mascots, inclusive language and imagery, and meaningful, direct graphics over anything abstract or convoluted. 
+Getting to know this community has been both a privilege and essential for being able to best capture its spirit and intentions through the theme design. It’s a welcoming, genuine, caring group that gravitates towards cute mascots, inclusive language and imagery, and meaningful, direct graphics over anything abstract or convoluted. 
 
 ## Previous Designs
 
