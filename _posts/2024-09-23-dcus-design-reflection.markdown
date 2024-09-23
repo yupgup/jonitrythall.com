@@ -18,8 +18,8 @@ While I unfortunately cannot be there in-person, I enjoy following along closely
 Our process together has always been an enjoyable and organized one. There’s always a kick-off meeting to capture any specific things anyone would like to see different from last year and review any high-level ideas or requests the group may have regarding a theme direction. There’s always been a lot of flexibility here, with the location being reflected as one of the few hard requirements. We spend the first few meetings discussing and learning about the host city to understand how to best capture its elements. 
 
 <img src="/content/2024/09/dcus/2024/intro1.jpg">
-<img src="/content/2024/09/dcus/2024/intro2.png">
-<img src="/content/2024/09/dcus/2024/intro3.png">
+<img src="/content/2024/09/dcus/2024/intros2.png">
+<img src="/content/2024/09/dcus/2024/intros3.png">
 
 We have weekly meetings for several months, starting from brainstorming ideas and design samples, to creating a complete illustration library, effective fundraising materials, social media graphics, branded slide presentations, a web design, and, finally, custom swag that people adore. These community event projects are one of my favorites from a project perspective since I find the challenges to be so unique and rewarding—full spectrum design work with a larger than usual stakeholder group to communicate with. 
 
