@@ -31,7 +31,7 @@ Getting to know this community has been both a privilege and essential for being
 
 ## Previous Designs
 
-I can’t help but think about the past year’s designs as I watch 2024’s truly come to life. Here’s a little visual journey that includes some of the most fun and friendly work I’ve done in my career.
+I can’t help but think about the past year’s designs as I watch 2024’s truly come to life. A fresh visual theme each year helps ensure everyone remains engaged and excited and enables each year to better stand on its own. Here’s a little visual journey that includes some of the most fun and friendly work I’ve done in my career.
 
 ### [2023](https://2023.djangocon.us/)—Durham
 
