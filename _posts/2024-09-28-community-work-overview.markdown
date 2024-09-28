@@ -21,8 +21,10 @@ In 2015, as a front-end developer, there was a severe lack of diversity within t
 I started ELA Conf with a friend in Philadelphia that was involved with Girl Develop It. We envisioned a space for marginalized individuals to learn from one another, grow with one another, and gather the tools necessary to become strong, connected leaders. Over three successful years, we recruited additional essential and talented organizers and ran a success event and online community.
 
 <div class="gallery" data-columns="2">
-  <img src="/content/2024/09/site22.jpeg">
-  <img src="/content/2024/09/doc22.jpeg">
+  <img src="/content/2024/09/mission.JPG">
+  <img src="/content/2024/09/postcards-ela.jpeg">
+  <img src="/content/2024/09/table.jpg">
+  <img src="/content/2024/09/team.jpg">
 </div>
 
 ELA Conf filled an existing, enormous gap in tech and tech events. It was affordable, and we provided speaker travel stipends and attendee childcare thanks to our tireless fundraising efforts. We addressed the soft skills that were too often overlooked within teaching content and created a network for members to tap into for advice, help, and employment. Attendees reported finally getting those raises they were after, being promoted to lead roles, and making lifelong friends. I consider ELA Conf to be one of the highlights of my career.
@@ -46,8 +48,10 @@ Working remotely, while it has countless benefits, can also be incredibly isolat
 Wiggle Work is a Discord community that provides a warm, welcoming, and worthwhile space for us folks working remotely that I started in 2023. While the tone is casual and about friendships and fun first, it’s also proven to be an exceptional place to get advice from peers, grow your professional network, and celebrate your latest wins.
 
 <div class="gallery" data-columns="2">
-  <img src="/content/2024/09/site22.jpeg">
-  <img src="/content/2024/09/doc22.jpeg">
+  <img src="/content/2024/09/contest.jpeg">
+  <img src="/content/2024/09/whiteboard.png">
+  <img src="/content/2024/09/postcards.JPG">
+  <img src="/content/2024/09/writing.png">
 </div>
 
 We have weekly video calls, active channels about distractions, work, learning, and snacks. We love snail mail and have special events—it’s the essential water cooler bonding we would otherwise miss out on. I deliberately craft all our events and processes to foster an environment that is empathetic, open-minded, enjoyable, down-to-earth, and respectful. It’s my favorite place to spend my work week and I’m so grateful to the individuals who have helped make it such an important and impactful community.
