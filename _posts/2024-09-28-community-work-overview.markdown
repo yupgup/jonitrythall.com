@@ -33,7 +33,7 @@ ELA Conf filled an existing, enormous gap in tech and tech events. It was afford
 
 Each of us founders and organizers wore many hats over these three years. I tackled all the design work from branding, to the website, to swag, to fundraising materials, and all our print needs—truly full-scope work and I loved it. I also tackled marketing efforts, Slack moderation, and, along with the incredible organizing team, managed fundraising efforts.
 
-Leading up to the event, I consumed my time with crafting the speaker application process, making selections, curating agendas and event logistics, and ensuring speakers and attendees had absolutely everything they needed to feel confident and excited. The community work after the conference involved planning and promoting special events, gathering and processing feedback, publishing the latest news, following up with sponsors, and being present and engaged. I made lasting friendships here and I miss it often.     
+Leading up to the event, I consumed my time with crafting the speaker application process, making selections, curating agendas and event logistics, and ensuring speakers and attendees had absolutely everything they needed to feel confident and excited. The community work after the conference involved planning and promoting special events, resolving conflicts, gathering and processing feedback, publishing the latest news, following up with sponsors, and being present and engaged. I made lasting friendships here and I miss it often.     
 
 ### Other Posts
 
