@@ -77,7 +77,7 @@ Looking forward, we are always dedicated to making habitat improvements. When it
 ## Bye Bye
 This hobby has opened up endless new opportunities regarding things to get into in our free time. We spent a spring preparing our yard to be a certified monarch waystation, listen to bug podcasts, read bug books, and participate in bug communities. I’m so grateful for what they’ve given the family and will happily supply them with milkweed, berries, and elderberry trees forever. 
 
-I am an easily excitable person in general, and bug talk is no exception. If there’s anything you’d like to talk about, I’m on [Mastodon](https://mastodon.yupgup.com/home) and hang out in the [Wiggle Work](https://wiggle.work/) community. 
+I am an easily excitable person in general, and bug talk is no exception. If there’s anything you’d like to talk about, I’m on <a rel="me" href="https://mastodon.yupgup.com/@joni">Mastodon</a> and hang out in the [Wiggle Work](https://wiggle.work/) community. 
 
 See you out there, bug nerds. 
 
