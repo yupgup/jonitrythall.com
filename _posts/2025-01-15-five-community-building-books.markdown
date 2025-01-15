@@ -48,8 +48,9 @@ Carrie and Charles walk the reader through empty vs meaningful engagement, how t
 ## How to Know a Person by David Brooks 
 
 <blockquote>
-    <p>”And then the crisis of connection came. We’re living in the middle of some sort of vast emotional, relational, and spiritual crisis. It is as if people across society have lost the ability to see and understand one another, thus producing a culture that can be brutalizing and isolating.”</p>
-    <p>—David Brooks >
+    <p>”And then the crisis of connection came. We’re living in the middle of some sort of vast emotional, relational, and spiritual crisis. It is as if people across society have lost the ability to see and understand one another, thus producing a culture that can be brutalizing and isolating.”
+    </p>
+    <p>—David Brooks</p>
 </blockquote>
 
 The inclusion of this book on this list might take a bit more explaining on my part, so here it goes. Community work is about people. It’s about truly knowing and connecting with people—a group can sense a shift the minute this priority takes a back seat to unsupported growth at all costs, and manipulation towards an unethical end, for example. This book powerfully and elegantly walks the reading through why connection matters and how to break through specific personality types or emotions with empathy. 
@@ -60,7 +61,7 @@ Logistics, planning, and marketing are important, but *none* of it matters if we
 
 <blockquote>
     <p>”Intent—in the context of inclusivity—is the idea that we’re doing something we think will help others. Impact is our action’s actual effect on someone, how it makes them feel. Unfortunately, intent and impact are frequently not the same. You may have the best intentions, but if your actions make others feel differently than you’d intended, there can be consequences.”</p>
-    <p>—Sameera Kapila>
+    <p>—Sameera Kapila</p>
 </blockquote>
 
 This is a brief but information-dense book that focuses on how to better consider inclusion and member safety within communities. There’s a dark side to communities for many people. This book shines a bright light on this, with examples, and talks about why we need to do better and how. 
@@ -71,12 +72,12 @@ I found the code of conduct section to be especially helpful. Not all communitie
 
 <blockquote>
     <p>”Tribes make our lives better. And leading a tribe is the best life of all.”</p>
-    <p>—Seth Godin>
+    <p>—Seth Godin</p>
 </blockquote>
 
 <blockquote>
     <p>”Management is about manipulating resources to get a known job done…Leadership, on the other hand, is about creating change that you believe in.”</p>    
-    <p>—Seth Godin>
+    <p>—Seth Godin</p>
 </blockquote>
 
 I couldn’t stand to not include this book here. It’s short and does not focus on practical advice or logistics, but it shines as an overall *hype* book for people currently or aspiring to lead communities. It’s full of empowering quotes to pull and will leave you feeling strong and ready to take action. 
