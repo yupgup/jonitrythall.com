@@ -17,7 +17,7 @@ What I found were some influential books on friendship, some great ones around c
 <blockquote>
     <p>”Trust is everything. At the heart of this enablement is trust. As we have already discussed, community is fundamentally a social economy, and its participants build up social capital via their contributions. With social capital being, by its very nature, a product of social interaction, trust is critical. If people in a community don’t trust you, you will be met with caution and you will struggle to build your social capital.”</p>
     <p>—Jono Bacon</p>
-<blockquote>
+</blockquote>
 
 If I had to only suggest a single book around the topic, this would probably be the one. The foundational teaching elements are solid and there’s a decent mix of time spent on both hard and soft skills alike—though heavier on operations and logistics for sure. Where I found it to especially shine was within sections about leading in the open, governance, and conflict resolution. It’s a large book—a community building bible—but it’s all quality, actionable writing and zero fluff. 
 
@@ -28,7 +28,7 @@ Finally, this book, along with his other book, “People Powered”, are a *must
 <blockquote>
     <p>”The kinds of gatherings that meaningfully help others are governed by what I call generous authority. A gathering run on generous authority is run with a strong, confident hand, but it is run selflessly, for the sake of others. Generous authority is imposing in a way that serves your guests…It spares them from the domination of some guests by other guests that the dinner host unwittingly enabled. It wards off pretenders who threaten purpose.”</p>
     <p>—Priya Parker</p>
-<blockquote>
+</blockquote>
 
 Another must read, but for different reasons. While this book is primarily focused on hosting *gatherings* (think family events and dinner parties), the author’s philosophies around bringing people together are profound and far-reaching. This is the book to read *before* you start a community, if possible. It will help you understand your role as the leader of the group and foster a sense of motivation and pride when working towards a solid purpose. 
 
@@ -39,7 +39,7 @@ My favorite takeaway from this one has to be “Don’t be a chill host”, mean
 <blockquote>
     <p>”As a feeling, belonging is experienced internally as a first-person experience. These experiences are difficult for a third-person observer to measure, but that difficulty makes the experience no less critical. Many first-person experiences important in relationships (and the world) don’t lend themselves to quantified measuring, such as a mother’s love or the trust in your neighbor…A critical takeaway here is that creating community involves far more than offering a trade or a transactional relationship.”</p>
     <p>—Carrie Melissa Jones and Charles H. Vogl</p>
-<blockquote>
+</blockquote>
 
 Luckily, this book speaks to a broad group and is not strictly through the lens of *brand* communities. I think that considering communities as a way to grow business is not inherently bad or insincere. Sustainability is important to serve more people and have the greatest impact possible, and part of that is potentially considering finances and viewing members as customers we’d like to turn into loyal fans.
 
