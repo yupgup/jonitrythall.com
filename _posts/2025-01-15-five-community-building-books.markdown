@@ -8,7 +8,7 @@ A few months ago I set out to find the best handful of books around community bu
 
 <hr />
 
-What I found were some influential books on friendship, some great ones around communities as marketing vehicles, and some even better ones around truly connecting with other humans. The ones I’ve listed within this post are the best within their categories that I could get my hands on. I also had to rule some out for being too dated, too religious, or too analytical. 
+What I found were some influential books on operations, some great ones around communities as marketing vehicles, and some even better ones around truly connecting with other humans. The ones I’ve listed within this post are the best within their categories that I could get my hands on. I also had to rule some out for being too dated, too religious, or too analytical. 
 
 <img src="/content/2025/01/community-books.JPG">
 
