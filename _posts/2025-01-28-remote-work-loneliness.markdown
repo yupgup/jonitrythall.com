@@ -38,7 +38,7 @@ It’s a crisis that few people want to talk candidly about.
 
 ## Genuine Online Connections
 
-I keep talking about the problem with an online work life, but I promise there is a solution, which I have found through *genuine* human-to-human connection and much more deliberate, calculated thoughts and actions.
+I keep talking about the problem with an online work life, but I promise there is a solution, which I have found through genuine human-to-human connection and much more deliberate, calculated thoughts, actions, and opportunities. 
 
 Communities as safe spaces that are structured around a common interest are one of the most powerful ways to design experiences that foster belonging and combat loneliness. The *right* spaces can take time to find, but will ultimately provide the opportunity to get as much as you give. In “The Art of Community”, Jono Bacon describes this as social capital one builds up through their contributions. Just showing up and expecting to reap all the benefits is not going to work. Showing up and existing and waiting to not be lonely is not going to work. Members must be mindful of the way they communicate and be open to knowing and seeing others just as much as they desire to be known and seen.
 
