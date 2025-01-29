@@ -54,6 +54,8 @@ Being in the right online community and understanding how to be an active member
 
 Once successfully built or discovered, these online spaces are to be cherished and looked after seriously and attentively—there is a lot of meticulous work that goes into making an online space feel intuitive, welcoming, comfortable, and like a good fit.
 
+It’s taken me years to figure this stuff out and I’m concerned that without embracing and understanding the unique effort that is required, loneliness and the newly aggressive war on remote work will continue and worsen. Successful remote work is possible, and it’s worth fighting for. 
+
 <hr />
 
 While remote work has presented me with several challenges, I remain a vocal, passionate advocate and the flexibility has been invaluable for my family. Some of us are caretakers, some of us have disabilities, some of us prefer the lifestyle. While there are countless reasons someone may work remotely, it doesn’t make the issue of loneliness any less deserving of empathy and collective action.
