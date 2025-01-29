@@ -58,4 +58,4 @@ It’s taken me years to figure this stuff out and I’m concerned that without 
 
 <hr />
 
-While remote work has presented me with several challenges, I remain a vocal, passionate advocate and the flexibility has been invaluable for my family. Some of us are caretakers, some of us have disabilities, some of us prefer the lifestyle. While there are countless reasons someone may work remotely, it doesn’t make the issue of loneliness any less deserving of empathy and collective action.
+While remote work has presented me with several challenges, I remain a vocal, passionate advocate and the flexibility has been invaluable for my family. Some of us are caretakers, some of us have disabilities, some of us prefer the lifestyle. While there are countless reasons someone may work remotely, none of them makes the issue of loneliness any less deserving of empathy and collective action.
