@@ -4,7 +4,7 @@ title: 'Remote Work and Loneliness'
 description: 'My personal struggles and lessons learned through over a decade of working in isolation.'
 featured_image: '/content/2025/01/dark-office.JPG'
 ---
-I’ve worked remotely for over a decade. It started out of family-related necessity and has continued for similar reasons, though the specifics have changed. It did not come naturally to me, quite the opposite in fact, and it would not be my preferred way of working if I had my choice. I am much more rejuvenated by in-person meetings and friendships. Above all else, working remotely has been incredibly isolating and lonely.
+I’ve worked remotely for over a decade. It started out of family-related necessity and has continued for similar reasons, though the specifics have changed. It did not come naturally to me, quite the opposite in fact, and it would not be my preferred way of working if my circumstances were different. I am much more rejuvenated by in-person meetings and friendships. Above all else, working remotely has been incredibly isolating and lonely.
 
 Sometimes I thought I wouldn’t be able to make it, but have been able to pick up a few habits and insights that have helped get me through these years. So, inspired by a community building guide I am working on and an upcoming conversation on [DevRel(ish)](https://cfe.dev/talkshow/devrelish/), I wanted to put a few additional words together around the damage of this type of isolation and the solution that online communities can present.
 
