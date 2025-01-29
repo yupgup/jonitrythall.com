@@ -48,13 +48,13 @@ Part of this work looks like asking people about themselves and listening with s
 
 Not all of these are necessary for all community types, but these are common themes amongst the spaces I have found to be the most impactful. It’s also OK to not be OK at times, of course, but it’s important to periodically reflect on the energy we each bring to a space as individuals and whether or not we are having an overall positive or negative influence.
 
-While this may initially just sound like obvious rules around engaging with others, there is so much that gets overlooked or actively discarded when we converse online. And just like “irl”, it can get awkward or tense, but the right people are worth fighting for.
+While this may initially just sound like obvious rules around engaging with others, there is so much that gets overlooked or actively discarded when we converse online. And just like “irl”, it can get awkward or tense, but the right people are worth fighting for and learning from.
 
 Being in the right online community and understanding how to be an active member has helped me feel less lonely, get through challenging times at work, connect with others through similar experiences, have *fun*, feel more empowered to seek in-person relationships, and feel more secure in my ability to survive and thrive within this way of working. It’s allowed me to take control of a problem that previously felt too large and out of my hands.
 
 Once successfully built or discovered, these online spaces are to be cherished and looked after seriously and attentively—there is a lot of meticulous work that goes into making an online space feel intuitive, welcoming, comfortable, and like a good fit.
 
-It’s taken me years to figure this stuff out and I’m concerned that without embracing and understanding the unique effort that is required, loneliness and the newly aggressive war on remote work will continue and worsen. Successful remote work environments are possible, and they are worth fighting for. 
+It’s taken me years to figure this stuff out and I’m concerned that without embracing and understanding the unique effort that is required, loneliness and the newly aggressive war on remote work will continue and worsen. Successful remote work environments are possible with the right consideration, attention, and care.
 
 <hr />
 
