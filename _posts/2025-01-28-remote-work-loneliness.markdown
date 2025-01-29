@@ -32,7 +32,7 @@ I’ve also found that strictly connecting with people over work alone is not a 
 
 Isolation and loneliness affects every aspect of our lives. I become quick to anxiety, quick to distrust, quick to sadness. I am a worse friend, a worse mom, and a worse partner. It’s one of the most unnatural states for me, as a very basic human need is not being met. We all need to feel a sense of belonging to be successful and happy.
 
-We live increasingly disconnected existences where there’s a twisted sense of celebration in attempting to do it all alone, but we can’t. Loneliness at work fosters low commitment, erodes our cognitive and focus abilities, and makes emotional regulation more difficult—our output and interactions with colleagues and clients suffer. I used to think it was in the minority with these thoughts, but I now know I’m not. And I luckily learned years ago that I cannot put my head down and push through it.
+We live increasingly disconnected existences where there’s a twisted sense of celebration in attempting to do it all alone, but we can’t. Loneliness at work fosters low commitment, erodes our cognitive and focus abilities, and makes emotional regulation more difficult—our output and interactions with colleagues and clients suffer. Luckily I learned years ago that I cannot put my head down and push through it.
 
 It’s a crisis that few people want to talk candidly about.
 
