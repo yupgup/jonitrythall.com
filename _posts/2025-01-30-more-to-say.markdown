@@ -53,9 +53,9 @@ Increasingly personalize questions as you uncover more details about someone and
 
 ## Wiggle Work—More Than LEGO
 
-[Wiggle Work](https://wiggle.work/) is a Discord community I started in 2023 during an especially isolating time. In an effort to contrast the overly serious spaces we are immersed in each day, I tend to get overly excited to talk about how fun and silly this space is. And while that’s true, I also don’t want to downplay its impact and significance. This is a space where I am genuinely eager to hang out all day. I count Wigglers as friends. They are so smart, impressive, interesting, curious, clever, caring, and hilarious. It’s such a good bunch and I’m lucky and grateful to have them around.
+[Wiggle Work](https://wiggle.work/) is a Discord community I started in 2023 during an especially isolating time. In an effort to contrast the overly serious spaces we are immersed in each day, I tend to get too excited to talk about how fun and silly this space is. And while that’s true, I also don’t want to downplay its impact and significance. This is a space where I am genuinely eager to hang out all day. I count Wigglers as friends. They are so smart, impressive, interesting, curious, clever, caring, and hilarious. It’s such a good bunch and I’m lucky and grateful to have them around.
 
-You can share your failures here along with your wins, and someone is going to reassure you and has likely had a similar experience. These folks are quick to help each other, get and give advice, and be a source of comfort and consistency in an increasingly bizarre world.
+You can share your failures here along with your wins, and someone is going to reassure you and has likely had a similar experience. These folks are quick to help each other, get and give advice, and be a source of comfort and consistency in uncertain times.
 
 It’s the water cooler connection we have all been missing since being remote. It’s a place for work but also a place to be down-to-earth and talk about hobbies and books. It’s a place where lasting, invaluable connections happen without all the overly formal phoniness of traditional networking spaces.
 
