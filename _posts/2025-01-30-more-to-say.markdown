@@ -49,7 +49,7 @@ These books include specific examples of questions based on context, so while I 
 
 I think it’s easy to see how these will take you further than “How’s it going?”.
 
-Increasingly personalize questions as you uncover more details about someone and remember these details for later. I also keep a long living document of Wiggle Work daily discussion prompts [here](https://docs.google.com/document/d/1crS0iqQoWz49oSG3iNqJ9csk8mAJFRjW37GA7FyqjLg/edit?usp=sharing) that could prove helpful for teams and communities.
+Increasingly personalize questions as you uncover more details about someone and remember these details for later. I also keep a long living document of Wiggle Work daily discussion prompts [here](https://ko-fi.com/s/07d2c5b8ce) that could prove helpful for teams and communities.
 
 ## Wiggle Work—More Than LEGO
 
