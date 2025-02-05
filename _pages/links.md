@@ -39,6 +39,7 @@ A link round-up of select wins, mentions, and celebrations.
 * [Dot Doodle for Kids](https://github.com/jonitrythall/dotdoodl-kid-classes)—CSS animation curriculum 
 
 ### Interviews
+* [DevRel(ish) Podcast](https://cfe.dev/talkshows/january2025-joni-trythall/)—Dealing with Remote Work with Joni Trythall
 * [Plucky blog](https://www.beplucky.com/qa-with-joni-trythall-designer-of-manager-weeklies/)—Q&A with Joni Trythall, designer of Manager Weeklies
 * [DjangoCon US 2023 blog](https://2023.djangocon.us/news/Joni-Trythall-YupGup/)—Introducing Joni Trythall, YupGup Design Lead for DjangoCon US 2023
 * [Friends Talk Frontend podcast](https://open.spotify.com/episode/7peojtdadFO5ETt8dXKkzS)
