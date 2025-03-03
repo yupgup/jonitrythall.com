@@ -25,8 +25,6 @@ So, here’s a list of things I’d be overly enthusiastic to chat with you abou
 - Running a micro agency 
 - Design feedback 
 - Community building
-- Print design basics
-- Dark design patterns 
 - Client relationships
 - Allergy-free baking
 - Remote work
@@ -36,6 +34,4 @@ So, here’s a list of things I’d be overly enthusiastic to chat with you abou
 - General idea riffing
 
 This is probably the type of post I will update often as more things come to mind and my interests expand (and contract). 
-
-We can hang out if you [follow this scheduling link](https://calendly.com/jonitrythall). 
 
