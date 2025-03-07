@@ -11,7 +11,7 @@ I took the month of February off from community activities to create room for re
 <img src="/content/2025/03/bye-rect.png">
 
 ## Happy Happenings, Deep Dilemma 
-While not a straightforward decision, I believe it boils down to the misalignment of goals. I’ve loved managing this community and making sure it felt cozy, welcoming, and active. I’m grateful for people choosing to spend their remote hours hanging out with me and appreciate the friendships I could create and strengthen here.    
+While not a straightforward decision, I believe it boils down to the misalignment of goals. I’ve loved managing this community and making sure it felt cozy, welcoming, and active. I’m grateful for people choosing to spend their remote hours hanging out—trusting that I would create a safe and enjoyable space—and am grateful for the friendships I could create and strengthen here.
 
 <img src="/content/2025/03/events.png">
 <img src="/content/2025/03/fun.png">
