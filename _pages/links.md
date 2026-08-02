@@ -56,6 +56,7 @@ A link round-up of select wins, mentions, and celebrations.
 * [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 
 ### Personal Projects 
+* [Walking Kennett](https://www.instagram.com/walkingkennett/)
 * [Macro bug photography portfolio](https://portfolio.pixelfed.social/jonitry)
 * [Micro blog](https://joni.green)
 * [Raising Monarchs](https://jonitrythall.com/raising-monarch-babies)
@@ -68,6 +69,7 @@ A link round-up of select wins, mentions, and celebrations.
 
 <!--
 ### Mentions 
+* [Kennett Collaborative](https://www.instagram.com/p/DbWpw-HoI62/?igsh=MWQ1ZmZjdDV1cmd6cQ==)—Porch photos
 * [Katy Decorah's 10-year reflection](https://katydecorah.com/notes/10-years/)—Impact of Ela Conf
 * [Bringing CodePen meetups to Philly](https://blog.codepen.io/2015/02/27/philly-fun/)—Hosting the very first
 * [Delaware Online](https://www.delawareonline.com/story/life/2015/10/16/wilmingtons-female-techies-unite/74031658/)—Wilmington's female techies unite
