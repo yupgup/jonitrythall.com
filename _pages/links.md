@@ -58,14 +58,11 @@ A link round-up of select wins, mentions, and celebrations.
 ### Personal Projects 
 * [Walking Kennett](https://www.instagram.com/walkingkennett/)
 * [Macro bug photography portfolio](https://portfolio.pixelfed.social/jonitry)
-* [Micro blog](https://joni.green)
 * [Raising Monarchs](https://jonitrythall.com/raising-monarch-babies)
 * [Raising Bees](https://jonitrythall.com/buzzy-bee-butts)
 * [A Picky Pig food blog](https://apickypig.com)
 * [Bonkers for Bugs](https://jonitrythall.com/bonkers-for-bugs-presentation)
-* [GF sourdough monster](https://mastodon.yupgup.com/@joni/112173233456111634)
 * [Wild Flower Project](https://github.com/jonitrythall/wildflowers)
-* [Bologna and Ben](https://www.bolognaandben.com)
 
 <!--
 ### Mentions 
